@@ -1,0 +1,93 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    fig_caption: yes
+  word_document: default
+mainfont: Palatino
+header-includes:
+- \usepackage{caption}
+- \captionsetup[figure]{labelformat=empty}
+- \pagenumbering{gobble}
+---
+
+<center>
+
+![
+**Figure 1| Study sites and overall dynamics of environmental DNA (eDNA) concentrations and the number of fish species detected.** (**a**) Study sites in the Boso Peninsula. The study sites are influenced by the Kuroshio current (red arrow; left panel) and distributed along the coastal line in the Boso Peninsula (right panel).  (**b**) The total eDNA copy numbers estimated by the quantitative eDNA metabarcoding (see Methods for detail). (**c**) Fish species richness detected by the eDNA metabarcoding. Points and lines indicate raw values and LOESS smoothing lines, respectively. Line color indicates sampling site. Warmer colors generally correspond to study sites with higher mean water temperature.
+](0_FormattedFigs/Figure_01.pdf){width=80%}
+
+</center>
+
+
+<center>
+
+![
+**Figure 2| The interaction networks of fish community in the Boso-peninsula coastal region**. (**a**) "Average" interaction network reconstructed by quantifying information transfer between eDNA time series. Transfer entropy (TE) was quantified by leveraging all eDNA time series from multiple study sites to draw this network. Only information flow larger than 80% quantiles were shown as interspecific interactions just for the visualization. Edge color indicates relative interaction strengths, and fish illustration colors represent their ecology (e.g., habitat and feeding behavior). (**b**) Site-specific fish interaction networks. Each site-specific network was reconstructed by multispecies eDNA time series from a single site. Nodes represent fish species as in the averaged network in **a**. For **a** and **b**, node color and node size indicate fish family and fish abundance (total eDNA copy numbers of the fish species). 
+](0_FormattedFigs/Figure_02.jpg){width=80%}
+
+</center>
+
+
+<center>
+
+![
+**Figure 3| Dependence of interaction strengths on biotic and abiotic variables**. Panel shows the relationship between fish species interaction strengths (quantified as information flow; transfer entropy [TE]) and (**a**) latitude, (**b**) median annual water temperature of each study site, (**c**) species richness, and (**d**) total eDNA copy numbers. $y$-axis indicates TE as an index of interaction strength between fish species. Line indicates nonlinear regression line estimated by general additive mixed model (GAMM).
+](0_FormattedFigs/Figure_03.pdf){width=100%}
+
+</center>
+
+
+
+<center>
+
+![
+**Figure 4| Temperature dependence of fish species interactions**. (**a**) Temperature effects on fish species interactions quantified as information flow (transfer entropy; TE). Points indicate TE value of each interaction for each species at each site. The interactions includes giving and receiving effects. Red and blue lines indicate statistically clear positive and negative relationships between temperature and interaction strength estimated by generalized linear model (GLM). (**b**) Distributions of temperature effects on interactions (i.e., slopes of regression between interaction strength and water temperature estimated by GLM). Red, pink, and gray colors indicate statistically clear ($P$ < 0.05; $P$ < 0.10) and unclear (not statistically clear; N.S.) slopes between interaction strengths and water temperature, respectively. 
+](0_FormattedFigs/Figure_04.pdf){width=90%}
+
+</center>
+
+
+
+<!--
+# ----------------------------------------- #
+# Supplementary Figures
+# ----------------------------------------- #
+-->
+
+
+<center>
+
+![
+**Figure S1| Dynamics of environmental DNA (eDNA) copy numbers of an internal standard fish species, Japanese black seabream (_Acanthopagrus schlegelii_).** Gray horizontal line indicates the minimum eDNA copy number of Japanese black seabream detected. Approximately 83.3% of samples contain detectable concentrations of the standard DNA, which was used to convert sequence reads to eDNA copy numbers. For samples which do not contain the standard DNA, we assume that it contains the minimum amount of eDNA copy numbers (i.e., 0.69 copies / 2 $\mu$l extracted DNA; gray horizontal line). 
+](0_FormattedFigs/Figure_S01.pdf){width=100%}
+
+</center>
+
+
+<center>
+
+![
+**Figure S2| Dynamics of water temperature and the relationships between water temperature and total eDNA concentrations and fish species richness.** (**a**) Dynamics of sea surface water temperature at the sampling sites. (**b**) The relationship between water temperature and total eDNA copy numbers, and (**c**) the relationship between water temperature and fish species richness. Colors indicate sampling sites. For **b** and **c**, dashed lines indicate standardized major axis regression.
+](0_FormattedFigs/Figure_S02.pdf){width=100%}
+
+</center>
+
+
+
+<center>
+
+![
+**Figure S3| The relationships between network properties and site characteristics** Diagonal panels show density distributions of the data, and lower triangle area shows scattered plots. Solid and dashed lines indicate statistically clear ($P$ < 0.05) and marginally statistically clear ($P$ < 0.10) linear regressions, respectively. Shaded region indicates 95% confidence intervals.
+](0_FormattedFigs/Figure_S03.pdf){width=100%}
+
+</center>
+
+
+<center>
+
+![
+**Figure S4| Temperature dependence of fish species interactions investigated by general additive model (GAM)**. (**a**) Temperature effects on fish species interactions quantified as information flow (transfer entropy; TE). Fish species with statistically clear temperature effect (estimated by GAM) are shown (43 out of 50 fish species examined). Points indicate TE value of each interaction for each species at each site. The interactions includes giving and receiving effects. Red and blue smoothing lines indicate that the difference between the predicted TE value at the lowest temperature and that at the highest temperature is positive and negative, respectively. GAM was performed using `gam(TE ~ s(temperature), family = Gamma(link = "log")` in R. (**b**) Distributions of temperature effects on interactions. $x$-axis indicates the difference between the predicted TE value at the lowest temperature and that at the highest temperature (i.e., positive values indicate positive influences of temperature on interaction strengths). Red, pink, and gray colors indicate statistically clear ($P$ < 0.05; $P$ < 0.10) and unclear (not statistically clear; N.S.) relationship between interaction strengths and water temperature, respectively. 
+](0_FormattedFigs/Figure_S04.pdf){width=90%}
+
+</center>
