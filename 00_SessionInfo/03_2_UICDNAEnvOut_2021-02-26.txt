@@ -1,0 +1,35 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Mojave 10.14.6
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+ [1] grid      parallel  tools     compiler  stats     graphics  grDevices
+ [8] utils     datasets  methods   base     
+
+other attached packages:
+ [1] crayon_1.4.1      broom_0.7.5       munsell_0.5.0    
+ [4] doParallel_1.0.16 stringi_1.5.3     colorspace_2.0-0 
+ [7] assertthat_0.2.1  rvest_0.3.6       ellipsis_0.3.1   
+[10] scales_1.1.1      backports_1.2.1   codetools_0.2-18 
+[13] magrittr_2.0.1    modelr_0.1.8      readxl_1.3.1     
+[16] R6_2.5.0          glue_1.4.2        tidyselect_1.1.0 
+[19] hms_1.0.0         fs_1.5.0          vctrs_0.3.6      
+[22] generics_0.1.0    httr_1.4.2        xml2_1.3.2       
+[25] withr_2.4.1       haven_2.3.1       DBI_1.1.1        
+[28] rstudioapi_0.13   cli_2.3.0         reprex_1.0.0     
+[31] rlang_0.4.10      pkgconfig_2.0.3   doRNG_1.8.2      
+[34] foreach_1.5.1     gtable_0.3.0      lifecycle_1.0.0  
+[37] lubridate_1.7.9.2 jsonlite_1.7.2    digest_0.6.27    
+[40] iterators_1.0.13  rngtools_1.5      dbplyr_2.1.0     
+[43] cellranger_1.1.0  pillar_1.4.7      Rcpp_1.0.6       
+[46] cowplot_1.1.1     pforeach_1.3      rUIC_0.1.5       
+[49] forcats_0.5.1     stringr_1.4.0     dplyr_1.0.4      
+[52] purrr_0.3.4       readr_1.4.0       tidyr_1.1.2      
+[55] tibble_3.0.6      ggplot2_3.3.3     tidyverse_1.3.0  

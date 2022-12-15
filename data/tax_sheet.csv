@@ -1,0 +1,857 @@
+"","order","family_w_n","family","scientific_name","common_jp_name","coastal_fish","avr_identity","avr_lod","water_area","habitat","depth_s","depth_d","n_reads","freq"
+"Taxa0001","Myxiniformes","001_Myxinidae","Myxinidae","Eptatretus atami","クロヌタウナギ","D","100","MODERATE","S","bathydemersal",300,536,"21",1
+"Taxa0002","Myxiniformes","001_Myxinidae","Myxinidae","U98.5_Myxine garmani","ホソヌタウナギと近縁な種","D","90","MODERATE","S","bathydemersal",500,800,"51",1
+"Taxa0003","Petromyzontiformes","002_Petromyzontidae","Petromyzontidae","Lethenteron spN","カワヤツメと同じ属の種","F","100","MODERATE",NA,NA,NA,NA,"40",2
+"Taxa0004","Squaliformes","037_Somniosidae","Somniosidae","Somniosus microcephalus","ニシオンデンザメ","D","100","MODERATE","BS","benthopelagic",0,2200,"202",5
+"Taxa0005","Squatiniformes","040_Squatinidae","Squatinidae","Squatina japonica","カスザメ","C","100","HIGH","S","demersal",NA,NA,"97",2
+"Taxa0006","Rajiformes","048_Rajidae","Rajidae","Amblyraja georgiana","ミツボシカスベと同じ属の種","D","99.4","LOW","S","bathydemersal",20,350,"165",2
+"Taxa0007","Rajiformes","048_Rajidae","Rajidae","Bathyraja kincaidii","チヒロカスベと同じ属の種","D","99.4","LOW",NA,NA,NA,NA,"63",2
+"Taxa0008","Rajiformes","048_Rajidae","Rajidae","Bathyraja matsubarai","マツバラエイ","D","98.9","LOW","S","bathydemersal",120,2000,"20",1
+"Taxa0009","Rajiformes","048_Rajidae","Rajidae","Rajella bigelowi","フカミガンギエイと同じ属の種","D","100","MODERATE","S","bathydemersal",650,4156,"132",4
+"Taxa0010","Rajiformes","048_Rajidae","Rajidae","Rajella fyllae","フカミガンギエイと同じ属の種","D","99.4","LOW","S","bathydemersal",170,2050,"43",1
+"Taxa0011","Anguilliformes","074_Anguillidae","Anguillidae","Anguilla japonica","ウナギ","C","99.93","HIGH","FBS","demersal",1,400,"387",9
+"Taxa0012","Anguilliformes","074_Anguillidae","Anguillidae","Anguilla marmorata","オオウナギ","C","100","LOW","FBS","demersal",1,400,"17",1
+"Taxa0013","Anguilliformes","079_Muraenidae","Muraenidae","Anarchias sp Ansp","タカマユウツボ属の一種","C","99.84","LOW",NA,NA,NA,NA,"1892",23
+"Taxa0014","Anguilliformes","079_Muraenidae","Muraenidae","Echidna xanthospilos","クモウツボと同じ属の種","C","100","LOW","S","demersal",NA,NA,"223",4
+"Taxa0015","Anguilliformes","079_Muraenidae","Muraenidae","Enchelycore anatina","コケウツボ属の一種","C","98.8","HIGH","S","demersal",3,60,"75",3
+"Taxa0016","Anguilliformes","079_Muraenidae","Muraenidae","Enchelycore pardalis","トラウツボ","C","99.97","HIGH","S","reef-associated",8,60,"18932",153
+"Taxa0017","Anguilliformes","079_Muraenidae","Muraenidae","Gymnothorax chilospilus","ミナミウツボ","C","99.7","HIGH","S","reef-associated",1,45,"83",2
+"Taxa0018","Anguilliformes","079_Muraenidae","Muraenidae","Gymnothorax eurostus","ワカウツボ","C","100","HIGH","S","reef-associated",1,74,"191",2
+"Taxa0019","Anguilliformes","079_Muraenidae","Muraenidae","Gymnothorax isingteena","ニセゴイシウツボ","C","100","HIGH","S","reef-associated",3,30,"43",1
+"Taxa0020","Anguilliformes","079_Muraenidae","Muraenidae","Gymnothorax kidako","ウツボ","C","99.98","HIGH","S","reef-associated",2,350,"217908",408
+"Taxa0021","Anguilliformes","079_Muraenidae","Muraenidae","Gymnothorax leucostigma","ユリウツボ","C","99.4","LOW",NA,NA,NA,NA,"54",1
+"Taxa0022","Anguilliformes","079_Muraenidae","Muraenidae","Gymnothorax meleagris","ハナビラウツボ","C","100","HIGH","FBS","reef-associated",1,51,"41",1
+"Taxa0023","Anguilliformes","079_Muraenidae","Muraenidae","Gymnothorax phasmatodes","シノビウツボ","C","98.8","HIGH","S","demersal",NA,NA,"62",1
+"Taxa0024","Anguilliformes","079_Muraenidae","Muraenidae","Gymnothorax pictus","アセウツボ","C","100","HIGH","BS","reef-associated",5,100,"385",1
+"Taxa0025","Anguilliformes","079_Muraenidae","Muraenidae","Gymnothorax reticularis","アミウツボ","C","100","LOW","S","demersal",NA,56,"440",7
+"Taxa0026","Anguilliformes","079_Muraenidae","Muraenidae","Gymnothorax thyrsoideus","サビウツボ","C","100","HIGH","S","reef-associated",0,30,"50",1
+"Taxa0027","Anguilliformes","079_Muraenidae","Muraenidae","U98.5_Enchelycore anatina gotu1","コケウツボ属の一種と近縁な種","C","98.13","HIGH","S","demersal",3,60,"487",9
+"Taxa0028","Anguilliformes","079_Muraenidae","Muraenidae","U98.5_Gymnothorax kidako gotu1","ウツボと近縁な種","C","98.22","LOW","S","reef-associated",2,350,"957",16
+"Taxa0029","Anguilliformes","081_Ophichthidae","Ophichthidae","Brachysomophis crocodilinus","タツウミヘビ","C","99.4","HIGH","S","reef-associated",0,30,"31",2
+"Taxa0030","Anguilliformes","081_Ophichthidae","Ophichthidae","Neenchelys sp KAUM I 113282","ムカシウミヘビと同じ属の種","D","100","LOW",NA,NA,NA,NA,"20",1
+"Taxa0031","Anguilliformes","081_Ophichthidae","Ophichthidae","Ophichthus erabo","モンガラドオシ","C","99.55","HIGH","S","reef-associated",NA,155,"233",4
+"Taxa0032","Anguilliformes","081_Ophichthidae","Ophichthidae","Ophisurus macrorhynchos","ダイナンウミヘビ","C","100","HIGH","S","demersal",NA,NA,"1247",11
+"Taxa0033","Anguilliformes","081_Ophichthidae","Ophichthidae","Pisodonophis zophistius","ホタテウミヘビ","C","100","LOW",NA,NA,NA,NA,"210",7
+"Taxa0034","Anguilliformes","081_Ophichthidae","Ophichthidae","U98.5_Brachysomophis crocodilinus","タツウミヘビと近縁な種","C","84.9","LOW","S","reef-associated",0,30,"22",1
+"Taxa0035","Anguilliformes","081_Ophichthidae","Ophichthidae","U98.5_Echelus myrus","ヒレアナゴと同じ属の種と近縁な種","C","91.3","LOW","BS","demersal",3,550,"50",1
+"Taxa0036","Anguilliformes","081_Ophichthidae","Ophichthidae","U98.5_Xyrias revulsus gotu1","ボウウミヘビと近縁な種","D","94.8","LOW","S","demersal",146,209,"205",6
+"Taxa0037","Anguilliformes","086_Congridae","Congridae","Ariosoma scheelei","ハナアナゴと同じ属の種","D","99.7","MODERATE","S","reef-associated",9,55,"44",2
+"Taxa0038","Anguilliformes","086_Congridae","Congridae","Ariosoma shiroanago","ハナアナゴと同じ属の種","D","100","LOW","S","demersal",NA,NA,"189",4
+"Taxa0039","Anguilliformes","086_Congridae","Congridae","Gnathophis bathytopos","ギンアナゴと同じ属の種","C","100","MODERATE","S","bathydemersal",180,370,"22",2
+"Taxa0040","Anguilliformes","086_Congridae","Congridae","Gnathophis nystromi","ギンアナゴ","C","99.92","LOW","S","reef-associated",144,577,"339",8
+"Taxa0041","Anguilliformes","086_Congridae","Congridae","U98.5_Gnathophis bathytopos gotu1","ギンアナゴと同じ属の種と近縁な種","C","95.2","LOW","S","bathydemersal",180,370,"62",1
+"Taxa0042","Anguilliformes","086_Congridae","Congridae","U98.5_Gnathophis bathytopos gotu2","ギンアナゴと同じ属の種と近縁な種","C","97","LOW","S","bathydemersal",180,370,"6",1
+"Taxa0043","Anguilliformes","087_Nettastomatidae","Nettastomatidae","Nettastoma solitarium","ニセクズアナゴ","D","100","MODERATE","S","benthopelagic",415,610,"158",1
+"Taxa0044","Clupeiformes","095_Engraulidae","Engraulidae","Encrasicholina punctifer","タイワンアイノコイワシ","C","99.96","HIGH","S","reef-associated",5,35,"2914",17
+"Taxa0045","Clupeiformes","095_Engraulidae","Engraulidae","Engraulis japonicus","カタクチイワシ","C","99.97","HIGH","S","pelagic-neritic",0,400,"419069",378
+"Taxa0046","Clupeiformes","095_Engraulidae","Engraulidae","U98.5_Engraulis japonicus gotu1","カタクチイワシと近縁な種","C","98.2","MODERATE","S","pelagic-neritic",0,400,"134",1
+"Taxa0047","Clupeiformes","095_Engraulidae","Engraulidae","U98.5_Engraulis japonicus gotu2","カタクチイワシと近縁な種","C","98.2","MODERATE","S","pelagic-neritic",0,400,"16",1
+"Taxa0048","Clupeiformes","095_Engraulidae","Engraulidae","U98.5_Engraulis japonicus gotu3","カタクチイワシと近縁な種","C","98.2","MODERATE","S","pelagic-neritic",0,400,"8",1
+"Taxa0049","Clupeiformes","097_Clupeidae","Clupeidae","Etrumeus teres","ウルメイワシ","C","99.98","MODERATE",NA,NA,NA,NA,"65691",226
+"Taxa0050","Clupeiformes","097_Clupeidae","Clupeidae","Konosirus punctatus","コノシロ","C","99.97","HIGH","BS","pelagic-neritic",NA,NA,"65346",71
+"Taxa0051","Clupeiformes","097_Clupeidae","Clupeidae","Nematalosa nasus","メナガ","C","100","HIGH","FBS","pelagic-neritic",0,30,"115",2
+"Taxa0052","Clupeiformes","097_Clupeidae","Clupeidae","Sardinella lemuru","カタボシイワシ","C","99.68","LOW","S","pelagic-neritic",15,100,"9,542",30
+"Taxa0053","Clupeiformes","097_Clupeidae","Clupeidae","Sardinops melanostictus","マイワシ","C","99.98","LOW",NA,NA,NA,NA,"178151",253
+"Taxa0054","Clupeiformes","097_Clupeidae","Clupeidae","Spratelloides gracilis","キビナゴ","C","100","HIGH","S","pelagic-neritic",NA,40,"186,442",148
+"Taxa0055","Clupeiformes","097_Clupeidae","Clupeidae","U98.5_Sardinella lemuru gotu1","カタボシイワシと近縁な種","C","97.1","LOW","S","pelagic-neritic",15,100,"197",2
+"Taxa0056","Clupeiformes","097_Clupeidae","Clupeidae","U98.5_Spratelloides gracilis gotu1","キビナゴと近縁な種","C","98.2","HIGH","S","pelagic-neritic",NA,40,"3,553",35
+"Taxa0057","Clupeiformes","097_Clupeidae","Clupeidae","U98.5_Spratelloides gracilis gotu2","キビナゴと近縁な種","C","97.6","HIGH","S","pelagic-neritic",NA,40,"34",1
+"Taxa0058","Gonorynchiformes","099_Gonorhynchidae","Gonorhynchidae","Gonorynchus abbreviatus","ネズミギス","D","100","HIGH","S","demersal",50,100,"82",1
+"Taxa0059","Cypriniformes","102_Cyprinidae","Cyprinidae","Abbottina rivularis","ツチフキ","F","100","HIGH","F","benthopelagic",NA,NA,"15",1
+"Taxa0060","Cypriniformes","102_Cyprinidae","Cyprinidae","Acheilognathus cyanostigma","イチモンジタナゴ","F","100","MODERATE","F","benthopelagic",NA,NA,"652",5
+"Taxa0061","Cypriniformes","102_Cyprinidae","Cyprinidae","Acheilognathus typus","ゼニタナゴ","F","99.4","HIGH","F","benthopelagic",NA,NA,"20",1
+"Taxa0062","Cypriniformes","102_Cyprinidae","Cyprinidae","Barbus barbus","バルブス・カンプタカンタスと同じ属の種","Ex","100","HIGH","F","benthopelagic",10,NA,"15",1
+"Taxa0063","Cypriniformes","102_Cyprinidae","Cyprinidae","Carassius auratus subsp","ギンブナと同じ属の種","F","100","LOW","F","benthopelagic",0,20,"77",1
+"Taxa0064","Cypriniformes","102_Cyprinidae","Cyprinidae","Carassius auratus subsp KINBUNA","キンブナ","F","99.8","LOW","F","benthopelagic",0,20,"484",6
+"Taxa0065","Cypriniformes","102_Cyprinidae","Cyprinidae","Carassius cuvieri","ゲンゴロウブナ","F","100","MODERATE","F","demersal",NA,NA,"252",6
+"Taxa0066","Cypriniformes","102_Cyprinidae","Cyprinidae","Carassius gibelio","ギベリオブナ","F","100","LOW","FB","benthopelagic",0,NA,"21",1
+"Taxa0067","Cypriniformes","102_Cyprinidae","Cyprinidae","Cyprinus carpio","コイ","F","100","HIGH","FB","benthopelagic",NA,NA,"2974",31
+"Taxa0068","Cypriniformes","102_Cyprinidae","Cyprinidae","Cyprinus carpio haematopterus","コイ","F","99.99","LOW","FB","benthopelagic",NA,NA,"8589",52
+"Taxa0069","Cypriniformes","102_Cyprinidae","Cyprinidae","Gobio gobio","タイリクスナムグリ","F","100","HIGH","FB","benthopelagic",NA,NA,"53",2
+"Taxa0070","Cypriniformes","102_Cyprinidae","Cyprinidae","Hypophthalmichthys molitrix","ハクレン","F","100","HIGH","F","benthopelagic",0,20,"163",1
+"Taxa0071","Cypriniformes","102_Cyprinidae","Cyprinidae","Nipponocypris temminckii","カワムツ","F","100","HIGH","F","benthopelagic",NA,NA,"37",2
+"Taxa0072","Cypriniformes","102_Cyprinidae","Cyprinidae","Opsariichthys uncirostris","ハス","F","100","LOW","F","benthopelagic",NA,NA,"35",1
+"Taxa0073","Cypriniformes","102_Cyprinidae","Cyprinidae","Pseudogobio esocinus","カマツカ","F","100","MODERATE","F","benthopelagic",NA,NA,"18",1
+"Taxa0074","Cypriniformes","102_Cyprinidae","Cyprinidae","Pseudogobio esocinus Clade A","カマツカと同じ属の種","F","100","MODERATE","F","benthopelagic",NA,NA,"115",1
+"Taxa0075","Cypriniformes","102_Cyprinidae","Cyprinidae","Pseudorasbora parva","モツゴ","F","100","HIGH","F","benthopelagic",NA,NA,"93",2
+"Taxa0076","Cypriniformes","102_Cyprinidae","Cyprinidae","Rhodeus atremius atremius","カゼトゲタナゴ","F","100","HIGH","F","benthopelagic",NA,NA,"294",3
+"Taxa0077","Cypriniformes","102_Cyprinidae","Cyprinidae","Rhodeus ocellatus","タイリクバラタナゴ","F","100","HIGH","F","benthopelagic",NA,NA,"38",1
+"Taxa0078","Cypriniformes","102_Cyprinidae","Cyprinidae","Rhynchocypris lagowskii steindachneri","アブラハヤと同じ属の種","F","100","HIGH","F","benthopelagic",NA,NA,"763",8
+"Taxa0079","Cypriniformes","102_Cyprinidae","Cyprinidae","Rhynchocypris oxycephalus jouyi","タカハヤ","F","99.7","MODERATE","F","demersal",NA,NA,"466",2
+"Taxa0080","Cypriniformes","102_Cyprinidae","Cyprinidae","Squalidus chankaensis tsuchigae","コウライモロコ","F","100","LOW","F","benthopelagic",NA,10,"323",4
+"Taxa0081","Cypriniformes","102_Cyprinidae","Cyprinidae","Squalidus gracilis gracilis","イトモロコ","F","100","HIGH","F","benthopelagic",NA,NA,"58",1
+"Taxa0082","Cypriniformes","102_Cyprinidae","Cyprinidae","Tanakia limbata","アブラボテ","F","99.8","LOW","F","benthopelagic",NA,NA,"304",3
+"Taxa0083","Cypriniformes","102_Cyprinidae","Cyprinidae","Tribolodon brandtii","マルタ","C","100","LOW","FBS","demersal",NA,NA,"9395",5
+"Taxa0084","Cypriniformes","102_Cyprinidae","Cyprinidae","Tribolodon sachalinensis","エゾウグイ","Ex","100","LOW",NA,NA,NA,NA,"13",1
+"Taxa0085","Cypriniformes","102_Cyprinidae","Cyprinidae","Tribolodon hakonensis","ウグイ","C","99.74","HIGH","FB","benthopelagic",NA,NA,"1,526",14
+"Taxa0086","Cypriniformes","102_Cyprinidae","Cyprinidae","U98.5_Phoxinus phoxinus tumensis gotu1","ノーザンレッドベリーデイスと同じ属の種と近縁な種","Ex","97.1","LOW","FB","demersal",NA,NA,"245",2
+"Taxa0087","Cypriniformes","102_Cyprinidae","Cyprinidae","U98.5_Phoxinus sp UAIC 14401 01 gotu1","ノーザンレッドベリーデイスと同じ属の種と近縁な種","Ex","96.97","LOW",NA,NA,NA,NA,"450",9
+"Taxa0088","Cypriniformes","102_Cyprinidae","Cyprinidae","Zacco platypus","オイカワ","F","100","HIGH","F","benthopelagic",NA,NA,"943",11
+"Taxa0089","Cypriniformes","106_Cobitidae","Cobitidae","Cobitis matsubarai","ヤマトシマドジョウ","F","100","MODERATE","F","demersal",NA,NA,"207",2
+"Taxa0090","Cypriniformes","106_Cobitidae","Cobitidae","Cobitis sp BIWAE typeB","ニシシマドジョウ","F","99.7","HIGH",NA,NA,NA,NA,"222",2
+"Taxa0091","Cypriniformes","106_Cobitidae","Cobitidae","Cobitis sp BIWAE typeC","ヒガシシマドジョウ","F","100","MODERATE",NA,NA,NA,NA,"82",3
+"Taxa0092","Cypriniformes","106_Cobitidae","Cobitidae","Cobitis sp Kumamoto","シマドジョウと同じ属の種","F","99.97","LOW",NA,NA,NA,NA,"2844",23
+"Taxa0093","Cypriniformes","106_Cobitidae","Cobitidae","Misgurnus anguillicaudatus","ドジョウ","F","100","HIGH","F","demersal",5,NA,"339",5
+"Taxa0094","Cypriniformes","106_Cobitidae","Cobitidae","Misgurnus mizolepis","カラドジョウ","F","100","LOW","F","demersal",NA,NA,"346",9
+"Taxa0095","Cypriniformes","106_Cobitidae","Cobitidae","Misgurnus sp CladeA","キタドジョウ","F","100","HIGH",NA,NA,NA,NA,"27",1
+"Taxa0096","Cypriniformes","106_Cobitidae","Cobitidae","Niwaella delicata","アジメドジョウ","F","100","HIGH","F","demersal",NA,NA,"60",1
+"Taxa0097","Cypriniformes","107_Balitoridae","Balitoridae","Lefua echigonia S Kanto Population","ヒメドジョウと同じ属の種","F","100","HIGH","F","demersal",NA,NA,"168",2
+"Taxa0098","Cypriniformes","107_Balitoridae","Balitoridae","U98.5_Barbatula barbatula","フクドジョウ属の一種と同じ属の種と近縁な種","F","98.2","LOW","F","demersal",NA,NA,"14",1
+"Taxa0099","Siluriformes","147_Siluridae","Siluridae","Silurus asotus","ナマズ","F","100","MODERATE","F","demersal",NA,NA,"11",1
+"Taxa0100","Siluriformes","151_Plotosidae","Plotosidae","Plotosus japonicus","ゴンズイ","C","99.95","HIGH","S","benthopelagic",NA,NA,"15584",147
+"Taxa0101","Siluriformes","159_Bagridae","Bagridae","Mystus mysticetus","ストライプ・ミスタスと同じ属の種","Ex","100","LOW","F","demersal",NA,NA,"66",1
+"Taxa0102","Argentiniformes","168_Microstomatidae","Microstomatidae","Lipolagus ochotensis","ソコイワシ","D","99.79","HIGH","S","bathypelagic",930,6100,"1,160",14
+"Taxa0103","Argentiniformes","171_Alepocephalidae","Alepocephalidae","Alepocephalus bairdii","オオメハゲイワシ","D","100","HIGH","S","bathydemersal",365,1700,"184",1
+"Taxa0104","Osmeriformes","172_Osmeridae","Osmeridae","Neosalanx anderssoni","アリアケヒメシラウオと同じ属の種","Ex","100","HIGH","FBS","demersal",NA,NA,"21",1
+"Taxa0105","Osmeriformes","172_Osmeridae","Osmeridae","Plecoglossus altivelis","アユ","C","99.85-100","LOW-MODERATE","FBS","demersal",10,NA,"791",13
+"Taxa0106","Osmeriformes","172_Osmeridae","Osmeridae","Protosalanx chinensis","該当属名・和名なし","Ex","100","MODERATE","F","demersal",NA,NA,"869",7
+"Taxa0107","Osmeriformes","172_Osmeridae","Osmeridae","Salangichthys ishikawae","イシカワシラウオ","C","99.98","HIGH",NA,NA,NA,NA,"9065",33
+"Taxa0108","Osmeriformes","172_Osmeridae","Osmeridae","Salangichthys microdon","シラウオ","C","100","HIGH","FBS","demersal",NA,NA,"39",1
+"Taxa0109","Salmonidae","175_Salmonidae","Salmonidae","Oncorhynchus keta","サケ","C","100","MODERATE","FBS","benthopelagic",0,250,"428",5
+"Taxa0110","Salmonidae","175_Salmonidae","Salmonidae","Oncorhynchus kisutch","ギンザケ","Ex","100","MODERATE","FBS","demersal",0,250,"10,204",26
+"Taxa0111","Salmonidae","175_Salmonidae","Salmonidae","Oncorhynchus mykiss","ニジマス","F","99.7","MODERATE","FBS","benthopelagic",0,200,"251",2
+"Taxa0112","Salmonidae","175_Salmonidae","Salmonidae","Oncorhynchus nerka","ベニザケ","Ex","99.8","MODERATE","FBS","pelagic-oceanic",0,250,"508",3
+"Taxa0113","Salmonidae","175_Salmonidae","Salmonidae","Salvelinus fontinalis","カワマス","F","100","LOW","FBS","benthopelagic",15,27,"16",1
+"Taxa0114","Salmonidae","175_Salmonidae","Salmonidae","Salvelinus leucomaenis imbrius","ゴギ","F","99.93","LOW","FBS","benthopelagic",0,50,"1174",9
+"Taxa0115","Salmonidae","175_Salmonidae","Salmonidae","Salvelinus leucomaenis pluvius","ニッコウイワナ","F","100","LOW","FBS","benthopelagic",0,50,"38",1
+"Taxa0116","Stomiiformes","179_Gonostomatidae","Gonostomatidae","Cyclothone alba","ユキオニハダカ","D","99.4","LOW","S","bathypelagic",25,4938,"350",4
+"Taxa0117","Stomiiformes","179_Gonostomatidae","Gonostomatidae","Cyclothone atraria","オニハダカ","D","100","MODERATE","S","bathypelagic",298,4938,"17",1
+"Taxa0118","Stomiiformes","180_Sternoptychidae","Sternoptychidae","Maurolicus japonicus","キュウリエソ","D","99.85","MODERATE","S","bathypelagic",50,400,"104",4
+"Taxa0119","Stomiiformes","180_Sternoptychidae","Sternoptychidae","Maurolicus muelleri","キュウリエソ属の一種","D","100","MODERATE","S","bathypelagic",271,1524,"432",12
+"Taxa0120","Stomiiformes","180_Sternoptychidae","Sternoptychidae","Polyipnus spinifer","ノコバホウネンエソ","D","99.4","LOW","S","benthopelagic",154,380,"132",1
+"Taxa0121","Stomiiformes","180_Sternoptychidae","Sternoptychidae","U98.5_Polyipnus spinifer","ノコバホウネンエソと近縁な種","D","98.2","LOW","S","benthopelagic",154,380,"23",1
+"Taxa0122","Stomiiformes","181_Phosichthyidae","Phosichthyidae","U98.5_Vinciguerria nimbaria gotu1","ヤベウキエソと近縁な種","D","97.52","LOW","S","bathypelagic",20,5000,"903",16
+"Taxa0123","Stomiiformes","181_Phosichthyidae","Phosichthyidae","Vinciguerria nimbaria","ヤベウキエソ","D","100","LOW","S","bathypelagic",20,5000,"2169",23
+"Taxa0124","Stomiiformes","182_Stomiidae","Stomiidae","Stomias affinis","ワニトカゲギス","D","99.7","MODERATE","S","bathypelagic",0,3182,"134",2
+"Taxa0125","Stomiiformes","182_Stomiidae","Stomiidae","Stomias nebulosus","ヨロイホシエソ","D","100","HIGH","S","bathypelagic",640,730,"17",1
+"Taxa0126","Stomiiformes","182_Stomiidae","Stomiidae","U98.5_Stomias affinis","ワニトカゲギスと近縁な種","D","96.4","LOW","S","bathypelagic",0,3182,"52",1
+"Taxa0127","Ateleopodiformes","183_Ateleopodidae","Ateleopodidae","Ateleopus japonicus","シャチフリ","D","100","HIGH","S","bathydemersal",140,600,"245",3
+"Taxa0128","Aulopiformes","185_Aulopidae","Aulopidae","Hime japonica","ヒメ","D","100","HIGH","S","demersal",85,510,"52",1
+"Taxa0129","Aulopiformes","187_Synodontidae","Synodontidae","Saurida elongata","トカゲエソ","C","100","LOW","S","demersal",20,100,"326",8
+"Taxa0130","Aulopiformes","187_Synodontidae","Synodontidae","Saurida spp.","マエソ属複合種群","C","100","LOW","S","reef-associated",1,350,"88",4
+"Taxa0131","Aulopiformes","187_Synodontidae","Synodontidae","Saurida wanieso","ワニエソ","C","100","LOW","S","demersal",NA,NA,"78",2
+"Taxa0132","Aulopiformes","187_Synodontidae","Synodontidae","Synodus hoshinonis","ホシノエソ","C","100","HIGH","BS","demersal",60,96,"17",1
+"Taxa0133","Aulopiformes","191_Notosudidae","Notosudidae","U98.5_Scopelosaurus harryi","ハリーフデエソと近縁な種","D","93.6","LOW","S","bathypelagic",0,1500,"35",1
+"Taxa0134","Myctophiformes","200_Myctophidae","Myctophidae","Benthosema pterotum","イワハダカ","D","99.89","HIGH","S","benthopelagic",10,300,"423",10
+"Taxa0135","Myctophiformes","200_Myctophidae","Myctophidae","Bolinichthys indicus","ミカヅキハダカ属の一種","D","99.6","HIGH","S","bathypelagic",25,900,"129",3
+"Taxa0136","Myctophiformes","200_Myctophidae","Myctophidae","Diaphus chrysorhynchus","サガミハダカ","D","100","HIGH","S","bathypelagic",213,587,"34",1
+"Taxa0137","Myctophiformes","200_Myctophidae","Myctophidae","Diaphus garmani","ヒロハダカ","D","99.9","HIGH","S","bathypelagic",0,2091,"425",6
+"Taxa0138","Myctophiformes","200_Myctophidae","Myctophidae","Diaphus sp NMMBP1206","メハダカと同じ属の種","D","98.8","LOW",NA,NA,NA,NA,"95",1
+"Taxa0139","Myctophiformes","200_Myctophidae","Myctophidae","Diaphus suborbitalis","センハダカ","D","99.76","HIGH","S","pelagic-oceanic",387,1537,"249",5
+"Taxa0140","Myctophiformes","200_Myctophidae","Myctophidae","Diaphus watasei","ハダカイワシ","D","100","HIGH","S","benthopelagic",100,2005,"290",5
+"Taxa0141","Myctophiformes","200_Myctophidae","Myctophidae","Hygophum hygomii","ススキハダカと同じ属の種","D","98.8","HIGH","S","bathypelagic",0,1485,"139",3
+"Taxa0142","Myctophiformes","200_Myctophidae","Myctophidae","Hygophum reinhardtii","ドングリハダカ","D","100","HIGH","S","bathypelagic",0,1050,"217",5
+"Taxa0143","Myctophiformes","200_Myctophidae","Myctophidae","Hygophum sp CBM ZF 14740","ススキハダカと同じ属の種","D","100","HIGH",NA,NA,NA,NA,"16",1
+"Taxa0144","Myctophiformes","200_Myctophidae","Myctophidae","Lampanyctus alatus","トミハダカ","D","100","HIGH","S","bathypelagic",40,1500,"20",1
+"Taxa0145","Myctophiformes","200_Myctophidae","Myctophidae","Lampanyctus jordani","マメハダカ","D","100","HIGH","S","bathypelagic",588,3400,"166",2
+"Taxa0146","Myctophiformes","200_Myctophidae","Myctophidae","Lampanyctus tenuiformes Russia","オオメニジハダカと同じ属の種","D","98.8","MODERATE",NA,NA,NA,NA,"21",1
+"Taxa0147","Myctophiformes","200_Myctophidae","Myctophidae","Myctophum asperum","アラハダカ","D","100","LOW","S","bathypelagic",244,1948,"676",12
+"Taxa0148","Myctophiformes","200_Myctophidae","Myctophidae","Myctophum brachygnathum","アラハダカと同じ属の種","D","98.8","LOW","S","bathypelagic",NA,NA,"21",1
+"Taxa0149","Myctophiformes","200_Myctophidae","Myctophidae","Nannobrachium fernae","トンガリハダカと同じ属の種","D","99.49","LOW","S","bathypelagic",0,750,"1325",13
+"Taxa0150","Myctophiformes","200_Myctophidae","Myctophidae","Notoscopelus japonicus","オオクチイワシ","D","99.95","HIGH","S","bathypelagic",391,794,"5963",13
+"Taxa0151","Myctophiformes","200_Myctophidae","Myctophidae","Notoscopelus sp HUMZ 222547","オオセビレハダカと同じ属の種","D","100","MODERATE",NA,NA,NA,NA,"220",1
+"Taxa0152","Myctophiformes","200_Myctophidae","Myctophidae","Symbolophorus californiensis","ナガハダカ","D","100","LOW","S","pelagic-oceanic",557,1497,"231",2
+"Taxa0153","Myctophiformes","200_Myctophidae","Myctophidae","Symbolophorus cf californiensis","ナガハダカと同じ属の種","D","99.52","LOW",NA,NA,NA,NA,"495",5
+"Taxa0154","Myctophiformes","200_Myctophidae","Myctophidae","Symbolophorus cf evermanni","ナガハダカと同じ属の種","D","100","HIGH",NA,NA,NA,NA,"10",1
+"Taxa0155","Myctophiformes","200_Myctophidae","Myctophidae","Symbolophorus cf rufinus","ナガハダカと同じ属の種","D","99.4","LOW",NA,NA,NA,NA,"33",2
+"Taxa0156","Myctophiformes","200_Myctophidae","Myctophidae","U98.5_Benthosema suborbitale gotu1","ソコハダカと近縁な種","D","98.3","HIGH","S","bathypelagic",50,2500,"190",1
+"Taxa0157","Myctophiformes","200_Myctophidae","Myctophidae","U98.5_Benthosema suborbitale gotu2","ソコハダカと近縁な種","D","98.2","HIGH","S","bathypelagic",50,2500,"30",1
+"Taxa0158","Myctophiformes","200_Myctophidae","Myctophidae","U98.5_Diaphus garmani","ヒロハダカと近縁な種","D","95.9","LOW","S","bathypelagic",0,2091,"14",1
+"Taxa0159","Myctophiformes","200_Myctophidae","Myctophidae","U98.5_Diogenichthys atlanticus gotu1","イタハダカと近縁な種","D","95.22","LOW","S","bathypelagic",0,1050,"588",8
+"Taxa0160","Myctophiformes","200_Myctophidae","Myctophidae","U98.5_Lampadena luminosa gotu1","カガミイワシと近縁な種","D","97.6","LOW","S","bathypelagic",50,1021,"110",2
+"Taxa0161","Myctophiformes","200_Myctophidae","Myctophidae","U98.5_Myctophum cf orientale","アラハダカと同じ属の種と近縁な種","D","98.3","MODERATE",NA,NA,NA,NA,"12",1
+"Taxa0162","Myctophiformes","200_Myctophidae","Myctophidae","U98.5_Myctophum orientale gotu1","ウスハダカと近縁な種","D","98.3","LOW","S","bathypelagic",NA,NA,"125",2
+"Taxa0163","Myctophiformes","200_Myctophidae","Myctophidae","U98.5_Nannobrachium fernae","トンガリハダカと同じ属の種と近縁な種","D","98.2","LOW","S","bathypelagic",0,750,"45",1
+"Taxa0164","Gadiformes","215_Macrouridae","Macrouridae","Coryphaenoides brevibarbis","イバラヒゲと同じ属の種","D","99.82","HIGH","S","bathypelagic",1500,4700,"2724",13
+"Taxa0165","Gadiformes","215_Macrouridae","Macrouridae","Hymenocephalus lethonemus","イトダラ","D","100","HIGH","S","bathydemersal",220,810,"68",2
+"Taxa0166","Gadiformes","215_Macrouridae","Macrouridae","Ventrifossa fusca","カラスヒゲ","D","100","HIGH","S","benthopelagic",NA,700,"50",1
+"Taxa0167","Gadiformes","215_Macrouridae","Macrouridae","Ventrifossa garmani","サガミソコダラ","D","100","MODERATE","S","bathydemersal",200,720,"86",3
+"Taxa0168","Gadiformes","216_Moridae","Moridae","Laemonema longipes","イトヒキダラ","D","99.4","HIGH","S","bathydemersal",80,1830,"559",6
+"Taxa0169","Gadiformes","216_Moridae","Moridae","Lepidion inosimae","ソコクロダラ","D","100","MODERATE","S","benthopelagic",580,1100,"67",2
+"Taxa0170","Gadiformes","216_Moridae","Moridae","Lotella phycis","イソアイナメ","D","100","HIGH","S","demersal",NA,NA,"114",1
+"Taxa0171","Gadiformes","216_Moridae","Moridae","U98.5_Lepidion inosimae","ソコクロダラと近縁な種","D","81","LOW","S","benthopelagic",580,1100,"18",1
+"Taxa0172","Gadiformes","220_Gadidae","Gadidae","Gadus chalcogrammus","スケトウダラ","D","100","LOW","BS","benthopelagic",NA,1280,"578",2
+"Taxa0173","Gadiformes","220_Gadidae","Gadidae","Gadus macrocephalus","マダラ","D","100","MODERATE","BS","demersal",10,1280,"1347",3
+"Taxa0174","Gadiformes","220_Gadidae","Gadidae","Gadus morhua","タイセイヨウマダラ","Ex","100","LOW","BS","benthopelagic",0,600,"9611",10
+"Taxa0175","Ophidiiformes","222_Ophidiidae","Ophidiidae","Brotula multibarbata","イタチウオ","C","100","HIGH","S","reef-associated",1,650,"985",21
+"Taxa0176","Ophidiiformes","222_Ophidiidae","Ophidiidae","Hoplobrotula armata","ヨロイイタチウオ","D","100","HIGH","S","bathydemersal",200,350,"21",1
+"Taxa0177","Ophidiiformes","222_Ophidiidae","Ophidiidae","Neobythites australiensis","ニテンイタチウオ","Ex","100","LOW","S","bathydemersal",42,350,"16",1
+"Taxa0178","Ophidiiformes","222_Ophidiidae","Ophidiidae","Spectrunculus grandis","ソコボウズ","D","99.2","HIGH","S","bathydemersal",800,4300,"1158",3
+"Taxa0179","Ophidiiformes","222_Ophidiidae","Ophidiidae","U98.5_Brotula sp CBM ZF 15570 gotu1","イタチウオ属の一種と近縁な種","C","93.7","LOW",NA,NA,NA,NA,"66",2
+"Taxa0180","Ophidiiformes","223_Bythitidae","Bythitidae","Dinematichthys iluocoeteoides","アカネイタチウオ","Ex","100","LOW","S","reef-associated",1,30,"124",1
+"Taxa0181","Batrachoidiformes","226_Batrachoididae","Batrachoididae","Allenbatrachus grunniens","該当属名・和名なし","Ex","100","HIGH","BS","demersal",NA,NA,"10",1
+"Taxa0182","Lophiiformes","227_Lophiidae","Lophiidae","Lophiomus setigerus","アンコウ","C","100","HIGH","S","demersal",30,800,"17",1
+"Taxa0183","Lophiiformes","227_Lophiidae","Lophiidae","Lophius litulon","キアンコウ","C","100","LOW","S","bathydemersal",25,560,"190",4
+"Taxa0184","Lophiiformes","228_Antennariidae","Antennariidae","Antennarius hispidus","ボンボリカエルアンコウ","C","99.7","LOW","S","reef-associated",0,90,"289",2
+"Taxa0185","Lophiiformes","232_Chaunacidae","Chaunacidae","Chaunax abei","ミドリフサアンコウ","D","99.6","MODERATE","S","demersal",90,500,"728",3
+"Taxa0186","Lophiiformes","228_Antennariidae","Antennariidae","Antennarius striatus","カエルアンコウ","C","100","MODERATE","BS","reef-associated",10,219,"159",1
+"Taxa0187","Lophiiformes","228_Antennariidae","Antennariidae","Antennarius striatus Genetype1","カスリカエルアンコウと同じ属の種","C","100","MODERATE","BS","reef-associated",10,219,"18",1
+"Taxa0188","Lophiiformes","232_Chaunacidae","Chaunacidae","Chaunax penicillatus","ミドリフサアンコウと同じ属の種","D","100","HIGH","S","bathydemersal",343,658,"28",1
+"Taxa0189","Lophiiformes","232_Chaunacidae","Chaunacidae","Chaunax sp KAUM I 111003","ミドリフサアンコウと同じ属の種","D","99.7","HIGH",NA,NA,NA,NA,"26",2
+"Taxa0190","Lophiiformes","233_Ogcocephalidae","Ogcocephalidae","Malthopsis kobayashii","ワヌケフウリュウウオと同じ属の種","D","99.4","HIGH","S","bathydemersal",NA,NA,"63",1
+"Taxa0191","Lophiiformes","236_Melanocetidae","Melanocetidae","Melanocetus murrayi","クロアンコウ","D","100","HIGH","S","bathypelagic",100,6370,"26",1
+"Taxa0192","Lophiiformes","239_Oneirodidae","Oneirodidae","Oneirodes carlsbergi","ユメアンコウと同じ属の種","D","98.8","HIGH","S","bathypelagic",360,1000,"53",1
+"Taxa0193","Lophiiformes","239_Oneirodidae","Oneirodidae","Oneirodes thompsoni","トゲラクダアンコウ","D","100","LOW","S","bathypelagic",100,2014,"30",2
+"Taxa0194","Lophiiformes","239_Oneirodidae","Oneirodidae","U98.5_Oneirodes luetkeni","ユメアンコウと同じ属の種と近縁な種","D","98.2","LOW","S","bathypelagic",NA,1750,"37",1
+"Taxa0195","Lophiiformes","240_Thaumatichthyidae","Thaumatichthyidae","Thaumatichthys pagidostomus","該当属名・和名なし","D","100","HIGH","S","bathydemersal",NA,1440,"10",1
+"Taxa0196","Mugiliformes","245_Mugilidae","Mugilidae","Ellochelon vaigiensis","オニボラ","C","98.8","MODERATE","FBS","reef-associated",0,5,"9",1
+"Taxa0197","Mugiliformes","245_Mugilidae","Mugilidae","Liza affinis","セスジボラ","C","100","LOW",NA,NA,NA,NA,"432",9
+"Taxa0198","Mugiliformes","245_Mugilidae","Mugilidae","Liza haematocheila","メナダ","C","100","LOW",NA,NA,NA,NA,"1830",6
+"Taxa0199","Mugiliformes","245_Mugilidae","Mugilidae","Liza macrolepis","コボラ","C","100","LOW",NA,NA,NA,NA,"180",4
+"Taxa0200","Mugiliformes","245_Mugilidae","Mugilidae","Moolgarda seheli","タイワンメナダ","C","100","LOW",NA,NA,NA,NA,"293",6
+"Taxa0201","Mugiliformes","245_Mugilidae","Mugilidae","Mugil cephalus","ボラ","C","99.98","HIGH","FBS","benthopelagic",0,120,"302,196",416
+"Taxa0202","Mugiliformes","245_Mugilidae","Mugilidae","Oedalechilus labiosus","ワニグチボラ","C","99.9","HIGH",NA,NA,NA,NA,"4551",31
+"Taxa0203","Mugiliformes","245_Mugilidae","Mugilidae","U98.5_Mugil cephalus","ボラと近縁な種","C","98.2","MODERATE","FBS","benthopelagic",0,120,"100",1
+"Taxa0204","Atheriniformes","247_Notocheiridae","Notocheiridae","Iso flosmaris","ナミノハナ","C","99.99","HIGH","S","demersal",NA,NA,"90,392",289
+"Taxa0205","Atheriniformes","251_Atherinidae","Atherinidae","Atherinomorus lacunosus","ヤクシマイワシ","C","99.4","LOW","FBS","reef-associated",1,39,"68",1
+"Taxa0206","Atheriniformes","251_Atherinidae","Atherinidae","Atherinomorus pinguis","ホソオビヤクシマイワシ","C","100","LOW","S","reef-associated",NA,NA,"111",1
+"Taxa0207","Atheriniformes","251_Atherinidae","Atherinidae","Atherion elymus","ムギイワシ","C","100","HIGH","S","reef-associated",0,3,"432,349",449
+"Taxa0208","Atheriniformes","251_Atherinidae","Atherinidae","Hypoatherina tsurugae","ギンイソイワシ","C","99.99","HIGH","S","pelagic-neritic",NA,NA,"94360",150
+"Taxa0209","Atheriniformes","251_Atherinidae","Atherinidae","Hypoatherina valenciennei","トウゴロウイワシ","C","100","MODERATE","BS","pelagic-neritic",NA,NA,"77376",97
+"Taxa0210","Atheriniformes","251_Atherinidae","Atherinidae","U98.5_Atherion elymus gotu1","ムギイワシと近縁な種","C","85.2","HIGH","S","reef-associated",0,3,"216",2
+"Taxa0211","Beloniformes","252_Adrianichthyidae","Adrianichthyidae","Oryzias latipes","メダカ","F","100","LOW","FB","benthopelagic",NA,NA,"106",2
+"Taxa0212","Beloniformes","252_Adrianichthyidae","Adrianichthyidae","Oryzias woworae","ジャワメダカと同じ属の種","Ex","100","HIGH","F","pelagic",NA,NA,"66",1
+"Taxa0213","Beloniformes","253_Exocoetidae","Exocoetidae","Cypselurus agoo agoo","トビウオ","C","99.4-100","LOW",NA,NA,NA,NA,"874",8
+"Taxa0214","Beloniformes","253_Exocoetidae","Exocoetidae","Cheilopogon doederleinii","ツクシトビウオ","C","99.98","LOW","S","pelagic-oceanic",0,NA,"11206",49
+"Taxa0215","Beloniformes","253_Exocoetidae","Exocoetidae","Cypselurus angusticeps","ヒメアカトビ","C","100","LOW","S","pelagic-oceanic",0,20,"70",1
+"Taxa0216","Beloniformes","253_Exocoetidae","Exocoetidae","Cypselurus atrisignis","アカトビ","C","100","MODERATE",NA,NA,NA,NA,"99",1
+"Taxa0217","Beloniformes","253_Exocoetidae","Exocoetidae","Cypselurus exiliens","オジロトビ","C","99.4","LOW",NA,NA,NA,NA,"42",2
+"Taxa0218","Beloniformes","253_Exocoetidae","Exocoetidae","Cypselurus heterurus doederleini","ツクシトビウオ","C","99.99","LOW",NA,NA,NA,NA,"17959",68
+"Taxa0219","Beloniformes","253_Exocoetidae","Exocoetidae","Cypselurus hiraii","ホソトビウオ","C","99.4","LOW","S","pelagic-neritic",0,NA,"92",1
+"Taxa0220","Beloniformes","253_Exocoetidae","Exocoetidae","Cypselurus naresii","ウチダトビウオ","C","100","LOW","S","pelagic-oceanic",0,20,"1861",19
+"Taxa0221","Beloniformes","253_Exocoetidae","Exocoetidae","Exocoetus volitans","イダテントビウオ","C","100","MODERATE","S","pelagic-neritic",0,20,"106",2
+"Taxa0222","Beloniformes","253_Exocoetidae","Exocoetidae","Parexocoetus brachypterus","ツマリトビウオと同じ属の種","C","100","LOW","S","pelagic-neritic",0,20,"104",2
+"Taxa0223","Beloniformes","253_Exocoetidae","Exocoetidae","Prognichthys sealei","ダルマトビ","C","100","MODERATE","S","pelagic-oceanic",0,20,"20",1
+"Taxa0224","Beloniformes","254_Hemiramphidae","Hemiramphidae","Euleptorhamphus viridis","トウザヨリ","C","100","HIGH","S","pelagic-oceanic",0,1,"13",1
+"Taxa0225","Beloniformes","254_Hemiramphidae","Hemiramphidae","Hemiramphus lutkei","ナンヨウサヨリ","C","99.4","MODERATE","BS","reef-associated",0,NA,"9",1
+"Taxa0226","Beloniformes","254_Hemiramphidae","Hemiramphidae","Hyporhamphus intermedius","クルメサヨリ","C","99.52","HIGH","FBS","pelagic-neritic",0,NA,"10368",5
+"Taxa0227","Beloniformes","254_Hemiramphidae","Hemiramphidae","Hyporhamphus sajori","サヨリ","C","99.91","HIGH","FBS","pelagic-neritic",30,NA,"8817",54
+"Taxa0228","Beloniformes","254_Hemiramphidae","Hemiramphidae","Hyporhamphus yuri","ユリサヨリ","C","100","HIGH","S","pelagic-neritic",0,NA,"48",1
+"Taxa0229","Beloniformes","254_Hemiramphidae","Hemiramphidae","Zenarchopterus dunckeri","コモチサヨリ","C","100","HIGH","B","pelagic",0,NA,"23",1
+"Taxa0230","Beloniformes","255_Belonidae","Belonidae","Ablennes hians","ハマダツ","C","100","HIGH","BS","reef-associated",0,3,"499",6
+"Taxa0231","Beloniformes","255_Belonidae","Belonidae","Strongylura anastomella","ダツ","C","99.97","HIGH","S","pelagic-oceanic",0,NA,"1,153",20
+"Taxa0232","Beloniformes","255_Belonidae","Belonidae","Tylosurus acus melanotus","テンジクダツ","C","100","HIGH",NA,NA,NA,NA,"145",3
+"Taxa0233","Beloniformes","255_Belonidae","Belonidae","Tylosurus crocodilus crocodilus","オキザヨリ","C","99.93","HIGH","S","reef-associated",0,13,"7126",42
+"Taxa0234","Beloniformes","255_Belonidae","Belonidae","U98.5_Ablennes hians","ハマダツと近縁な種","C","92.2","LOW","BS","reef-associated",0,3,"10",1
+"Taxa0235","Beloniformes","256_Scomberesocidae","Scomberesocidae","Cololabis saira","サンマ","C","100","HIGH","S","pelagic-oceanic",0,230,"4,139",23
+"Taxa0236","Cyprinodontiformes","266_Poeciliidae","Poeciliidae","Gambusia affinis","カダヤシ","F","100","MODERATE","FB","benthopelagic",NA,NA,"12",1
+"Taxa0237","Beryciformes","279_Monocentridae","Monocentridae","Monocentris japonicus","マツカサウオ","C","100","HIGH",NA,NA,NA,NA,"20",1
+"Taxa0238","Beryciformes","280_Trachichthyidae","Trachichthyidae","Aulotrachichthys prosthemius","ハリダシエビス","D","100","HIGH","S","bathypelagic",90,198,"59",1
+"Taxa0239","Beryciformes","280_Trachichthyidae","Trachichthyidae","Hoplostethus japonicus","ヒウチダイ","D","100","MODERATE","S","bathypelagic",336,605,"135",1
+"Taxa0240","Beryciformes","280_Trachichthyidae","Trachichthyidae","U98.5_Aulotrachichthys prosthemius","ハリダシエビスと近縁な種","C","94.6","LOW","S","bathypelagic",90,198,"54",1
+"Taxa0241","Beryciformes","281_Berycidae","Berycidae","Beryx mollis","フウセンキンメ","D","100","HIGH","S","benthopelagic",100,500,"44",1
+"Taxa0242","Beryciformes","281_Berycidae","Berycidae","Beryx splendens","キンメダイ","D","100","HIGH","S","benthopelagic",25,1300,"2510",22
+"Taxa0243","Beryciformes","282_Holocentridae","Holocentridae","Myripristis berndti","アカマツカサ","C","100","LOW","S","reef-associated",3,159,"12",1
+"Taxa0244","Beryciformes","282_Holocentridae","Holocentridae","Ostichthys kaianus","カイエビス","C","100","HIGH","S","bathydemersal",182,640,"501",3
+"Taxa0245","Beryciformes","282_Holocentridae","Holocentridae","Sargocentron praslin","クロオビエビス","C","100","HIGH","S","reef-associated",1,20,"46",1
+"Taxa0246","Beryciformes","282_Holocentridae","Holocentridae","Sargocentron punctatissimum","ホシエビス","C","100","HIGH","S","reef-associated",0,183,"35",1
+"Taxa0247","Beryciformes","282_Holocentridae","Holocentridae","Sargocentron rubrum","アヤメエビス","C","99.4","HIGH","S","reef-associated",1,84,"20",1
+"Taxa0248","Beryciformes","282_Holocentridae","Holocentridae","Sargocentron spiniferum","トガリエビス","C","100","MODERATE","S","reef-associated",1,122,"15",1
+"Taxa0249","Beryciformes","282_Holocentridae","Holocentridae","Sargocentron tiere","アオスジエビス","C","100","MODERATE","S","reef-associated",1,183,"122",1
+"Taxa0250","Zeiformes","287_Grammicolepididae","Grammicolepididae","U98.5_Grammicolepis brachiusculus","オオヒシマトウダイと近縁な種","D","92.4","MODERATE","S","bathypelagic",300,1026,"42",1
+"Taxa0251","Zeiformes","288_Zeidae","Zeidae","Zenion japonicum","ソコマトウダイ","D","100","HIGH","S","bathydemersal",200,400,"22",1
+"Taxa0252","Gasterosteiformes","290_Aulorhynchidae","Aulorhynchidae","Aulichthys japonicus","クダヤガラ","C","98.8","HIGH","S","benthopelagic",NA,NA,"11",1
+"Taxa0253","Gasterosteiformes","291_Gasterosteidae","Gasterosteidae","Pungitius pungitius","イバラトミヨ","Ex","100","LOW","FBS","benthopelagic",0,110,"325",5
+"Taxa0254","Gasterosteiformes","291_Gasterosteidae","Gasterosteidae","Pungitius sp Brackish","ミナミトミヨ汽水型","Ex","99.6","LOW",NA,NA,NA,NA,"475",3
+"Taxa0255","Gasterosteiformes","295_Syngnathidae","Syngnathidae","Corythoichthys haematopterus","イシヨウジ","C","100","HIGH","S","reef-associated",0,21,"15",1
+"Taxa0256","Gasterosteiformes","295_Syngnathidae","Syngnathidae","Hippocampus coronatus","タツノオトシゴ","C","99.63","HIGH","S","demersal",NA,NA,"2637",18
+"Taxa0257","Gasterosteiformes","295_Syngnathidae","Syngnathidae","Hippocampus mohnikei","サンゴタツ","C","100","HIGH","S","demersal",1,NA,"15",1
+"Taxa0258","Gasterosteiformes","295_Syngnathidae","Syngnathidae","Hippocampus sindonis","ハナタツ","C","100","HIGH","S","demersal",NA,NA,"74",1
+"Taxa0259","Gasterosteiformes","295_Syngnathidae","Syngnathidae","Hippocampus sp","オオハラタツと同じ属の種","C","100","HIGH",NA,NA,NA,NA,"91",1
+"Taxa0260","Gasterosteiformes","295_Syngnathidae","Syngnathidae","Hippocampus trimaculatus","タカクラタツ","C","100","MODERATE","S","reef-associated",0,100,"68",1
+"Taxa0261","Gasterosteiformes","295_Syngnathidae","Syngnathidae","Syngnathus schlegeli","ヨウジウオ","C","99.84","HIGH","BS","demersal",NA,NA,"1028",15
+"Taxa0262","Gasterosteiformes","295_Syngnathidae","Syngnathidae","Syngnathus sp ATLANTIC","トゲヨウジと同じ属の種","Ex","100","HIGH",NA,NA,NA,NA,"35",2
+"Taxa0263","Gasterosteiformes","295_Syngnathidae","Syngnathidae","U98.5_Cosmocampus banneri gotu1","ヒナヨウジと近縁な種","C","88.7","LOW","S","reef-associated",2,30,"56",2
+"Taxa0264","Gasterosteiformes","295_Syngnathidae","Syngnathidae","U98.5_Hippocampus mohnikei","サンゴタツと近縁な種","C","95.7","LOW","S","demersal",1,NA,"19",1
+"Taxa0265","Gasterosteiformes","295_Syngnathidae","Syngnathidae","Urocampus nanus","オクヨウジ","C","100","HIGH","BS","demersal",NA,NA,"33",2
+"Taxa0266","Gasterosteiformes","297_Fistulariidae","Fistulariidae","Fistularia commersonii","アオヤガラ","C","100","HIGH","S","reef-associated",0,132,"195",2
+"Taxa0267","Gasterosteiformes","297_Fistulariidae","Fistulariidae","Fistularia petimba","アカヤガラ","C","100","HIGH","BS","reef-associated",10,200,"85",3
+"Taxa0268","Gasterosteiformes","298_Macroramphosidae","Macroramphosidae","Macroramphosus scolopax","サギフエ","C","100","LOW","S","demersal",25,600,"298",5
+"Taxa0269","Synbranchiformes","302_Mastacembelidae","Mastacembelidae","Macrognathus siamensis","トゲウナギの一種","Ex","100","HIGH","F","benthopelagic",NA,NA,"140",1
+"Taxa0270","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Ablabys taenianotus","ツマジロオコゼ","C","100","HIGH","S","reef-associated",1,78,"48",1
+"Taxa0271","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Apistus carinatus","ハチ","C","99.88","HIGH","S","demersal",14,60,"416",10
+"Taxa0272","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Erosa erosa","ダルマオコゼ","C","100","HIGH","S","reef-associated",0,90,"12",1
+"Taxa0273","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Helicolenus hilgendorfi","ユメカサゴ","D","100","LOW","S","bathydemersal",50,1100,"15",1
+"Taxa0274","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Inimicus japonicus","オニオコゼ","C","100","HIGH","S","demersal",10,200,"274",4
+"Taxa0275","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Minous pusillus","ヤセオコゼ","C","100","HIGH","S","demersal",30,110,"12",1
+"Taxa0276","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Paracentropogon rubripinnis","ハオコゼ","C","99.93","HIGH","S","reef-associated",NA,NA,"14753",116
+"Taxa0277","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Parascorpaena mossambica","ネッタイフサカサゴ","C","99.88","HIGH","S","reef-associated",0,18,"785",10
+"Taxa0278","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Pterois spp.","ミノカサゴ属複合種群","C","99.88","LOW","BS","reef-associated",15,60,"272",5
+"Taxa0279","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Scorpaena miostoma","コクチフサカサゴ","C","99.27","LOW","S","demersal",NA,NA,"1028",14
+"Taxa0280","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Scorpaena neglecta","イズカサゴ","D","100","HIGH","S","demersal",100,150,"12",1
+"Taxa0281","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Scorpaena onaria","フサカサゴ","D","100","MODERATE","S","benthopelagic",223,500,"21",1
+"Taxa0282","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Scorpaena pepo","カボチャフサカサゴ","C","99.4","LOW","S","demersal",NA,200,"17",1
+"Taxa0283","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Scorpaenodes evides","イソカサゴ","C","99.82","HIGH","S","demersal",1,40,"10,434",103
+"Taxa0284","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Scorpaenopsis cirrosa","オニカサゴ","C","99.85","HIGH","S","demersal",3,91,"730",12
+"Taxa0285","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Scorpaenopsis neglecta","サツマカサゴ","C","100","HIGH","S","demersal",0,40,"167",4
+"Taxa0286","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Sebastes spp.","メバル属複合種群","C","99.4-100","LOW-MODERATE","S","demersal",9,600,"112058",437
+"Taxa0287","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Sebastiscus albofasciatus","アヤメカサゴ","C","100","HIGH","S","demersal",30,200,"102",1
+"Taxa0288","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Sebastiscus marmoratus","カサゴ","C","99.99","HIGH","S","demersal",NA,NA,"33265",139
+"Taxa0289","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Sebastolobus alascanus","アラスカキチジ","D","100","LOW","S","demersal",17,1600,"67",1
+"Taxa0290","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Setarches longimanus","アカカサゴ","D","100","HIGH","S","bathydemersal",180,704,"34",1
+"Taxa0291","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","Trachicephalus uranoscopus","該当属名・和名なし","Ex","100","HIGH","BS","demersal",2,25,"114",1
+"Taxa0292","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","U98.5_Scorpaena miostoma gotu1","コクチフサカサゴと近縁な種","C","87.61","LOW","S","demersal",NA,NA,"245",7
+"Taxa0293","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","U98.5_Scorpaena miostoma gotu2","コクチフサカサゴと近縁な種","C","86.5","LOW","S","demersal",NA,NA,"33",1
+"Taxa0294","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","U98.5_Scorpaena miostoma gotu3","コクチフサカサゴと近縁な種","C","87.6","LOW","S","demersal",NA,NA,"32",1
+"Taxa0295","Scorpaeniformes","304_Scorpaenidae","Scorpaenidae","U98.5_Scorpaenopsis cirrosa","オニカサゴと近縁な種","C","98.2","HIGH","S","demersal",3,91,"29",1
+"Taxa0296","Scorpaeniformes","306_Aploactinidae","Aploactinidae","U98.5_Cocotropus sp CBM ZF 17864 gotu1","イズオコゼと同じ属の種と近縁な種","C","95.3","HIGH",NA,NA,NA,NA,"844",3
+"Taxa0297","Scorpaeniformes","310_Triglidae","Triglidae","Bovitrigla acanthomoplate","該当属名・和名なし","Ex","100","MODERATE","S","bathydemersal",333,500,"102",1
+"Taxa0298","Scorpaeniformes","310_Triglidae","Triglidae","Chelidonichthys spinosus","ホウボウ","C","99.98","LOW","S","demersal",25,615,"5163",25
+"Taxa0299","Scorpaeniformes","310_Triglidae","Triglidae","Lepidotrigla alata","イゴダカホデリ","D","100","LOW","S","demersal",60,110,"94",2
+"Taxa0300","Scorpaeniformes","310_Triglidae","Triglidae","Lepidotrigla japonica","トゲカナガシラ","D","100","HIGH","S","demersal",40,115,"447",5
+"Taxa0301","Scorpaeniformes","310_Triglidae","Triglidae","Lepidotrigla kanagashira","ヒレナガカナガシラ","D","99.88","LOW","S","demersal",NA,NA,"473",5
+"Taxa0302","Scorpaeniformes","310_Triglidae","Triglidae","Lepidotrigla longifacata","ソコカナガシラと同じ属の種","D","99.4","LOW",NA,NA,NA,NA,"92",1
+"Taxa0303","Scorpaeniformes","310_Triglidae","Triglidae","Pterygotrigla multipunctata","ヒメソコホウボウ","D","100","HIGH","S","demersal",NA,NA,"107",2
+"Taxa0304","Scorpaeniformes","311_Peristediidae","Peristediidae","Scalicus amiscus","ヒゲキホウボウ","D","100","HIGH","S","demersal",NA,NA,"29",1
+"Taxa0305","Scorpaeniformes","313_Platycephalidae","Platycephalidae","Grammoplites scabe","ナップトゲゴチと同じ属の種","Ex","100","HIGH",NA,NA,NA,NA,"13",1
+"Taxa0306","Scorpaeniformes","313_Platycephalidae","Platycephalidae","Onigocia spinosa","オニゴチ","C","100","HIGH","S","demersal",8,250,"51",3
+"Taxa0307","Scorpaeniformes","313_Platycephalidae","Platycephalidae","Platycephalus cultellatus","コチと同じ属の種","Ex","100","HIGH","S","demersal",NA,NA,"32",1
+"Taxa0308","Scorpaeniformes","313_Platycephalidae","Platycephalidae","Platycephalus sp.","マゴチ","C","99.97","LOW","BS","reef-associated",20,200,"3899",58
+"Taxa0309","Scorpaeniformes","313_Platycephalidae","Platycephalidae","Platycephalus sp KAUM I 83735","コチと同じ属の種","C","100","HIGH",NA,NA,NA,NA,"757",3
+"Taxa0310","Scorpaeniformes","313_Platycephalidae","Platycephalidae","U98.5_Cymbacephalus beauforti","エンマゴチと近縁な種","C","81.9","LOW","S","reef-associated",1,12,"14",1
+"Taxa0311","Scorpaeniformes","316_Hexagrammidae","Hexagrammidae","Hexagrammos otakii・H. agrammus","アイナメ・クジメ複合種群","C","99.99-100","LOW-MODERATE","S","demersal",NA,NA,"101408",137
+"Taxa0312","Scorpaeniformes","316_Hexagrammidae","Hexagrammidae","Pleurogrammus azonus","ホッケ","Ex","100","HIGH","S","demersal",0,240,"992",4
+"Taxa0313","Scorpaeniformes","316_Hexagrammidae","Hexagrammidae","Pleurogrammus monopterygius","キタノホッケ","Ex","100","HIGH","S","demersal",0,720,"419",3
+"Taxa0314","Scorpaeniformes","320_Cottidae","Cottidae","Cottus amblystomopsis","エゾハナカジカ","Ex","99.7","HIGH","FBS","demersal",0,10,"54",2
+"Taxa0315","Scorpaeniformes","320_Cottidae","Cottidae","Cottus gobio","エゾハナカジカと同じ属の種","Ex","100","LOW","FB","demersal",2,2,"40",2
+"Taxa0316","Scorpaeniformes","320_Cottidae","Cottidae","Cottus pollux","カジカ","Ex","100","LOW","F","demersal",NA,NA,"67",1
+"Taxa0317","Scorpaeniformes","320_Cottidae","Cottidae","Furcina osimae typeA","サラサカジカと同じ属の種","C","100","MODERATE","S","reef-associated",NA,NA,"17",1
+"Taxa0318","Scorpaeniformes","320_Cottidae","Cottidae","Furcina osimae typeB","キヌカジカB型","C","99.98","HIGH","S","reef-associated",NA,NA,"11332",111
+"Taxa0319","Scorpaeniformes","320_Cottidae","Cottidae","Myoxocephalus polyacanthocephalus","トゲカジカ","C","100","LOW","S","demersal",0,775,"28",1
+"Taxa0320","Scorpaeniformes","320_Cottidae","Cottidae","Ocynectes maschalis","イダテンカジカ","C","100","HIGH","S","demersal",NA,NA,"401",7
+"Taxa0321","Scorpaeniformes","320_Cottidae","Cottidae","Ocynectes modestus","ムツカジカ","C","99.91","HIGH","S","demersal",NA,NA,"248",7
+"Taxa0322","Scorpaeniformes","320_Cottidae","Cottidae","Pseudoblennius cottoides Genetype1","アサヒアナハゼ 遺伝子型1","C","99.95","HIGH","S","demersal",NA,NA,"757",11
+"Taxa0323","Scorpaeniformes","320_Cottidae","Cottidae","Pseudoblennius cottoides Genetype2","アサヒアナハゼ 遺伝子型2","C","100","HIGH","S","demersal",NA,NA,"317",6
+"Taxa0324","Scorpaeniformes","320_Cottidae","Cottidae","Pseudoblennius marmoratus","アヤアナハゼ","C","99.99","HIGH","S","demersal",NA,NA,"154150",400
+"Taxa0325","Scorpaeniformes","320_Cottidae","Cottidae","Pseudoblennius percoides","アナハゼ","C","100","HIGH","S","demersal",NA,NA,"52833",206
+"Taxa0326","Scorpaeniformes","320_Cottidae","Cottidae","Pseudoblennius zonostigma","オビアナハゼ","C","99.87","HIGH","S","demersal",NA,NA,"2224",14
+"Taxa0327","Scorpaeniformes","320_Cottidae","Cottidae","U98.5_Vellitor minutus gotu1","ヒメスイと近縁な種","C","89.26","LOW","S","demersal",NA,NA,"2663",40
+"Taxa0328","Scorpaeniformes","320_Cottidae","Cottidae","Vellitor minutus","ヒメスイ","C","100","HIGH","S","demersal",NA,NA,"27",2
+"Taxa0329","Scorpaeniformes","324_Agonidae","Agonidae","Ulcina olrikii","該当属名・和名なし","Ex","99.4","HIGH",NA,NA,NA,NA,"46",1
+"Taxa0330","Scorpaeniformes","327_Cyclopteridae","Cyclopteridae","Lethotremus awae","ダンゴウオ","C","99.25","HIGH","S","demersal",0,20,"902",8
+"Taxa0331","Scorpaeniformes","328_Liparidae","Liparidae","Liparis punctulatus","スナビクニン","C","99.99","HIGH","S","demersal",0,20,"45338",145
+"Taxa0332","Scorpaeniformes","328_Liparidae","Liparidae","Paraliparis rosaceus","アオインキウオ","D","100","HIGH","S","bathydemersal",1050,3358,"361",3
+"Taxa0333","Scorpaeniformes","328_Liparidae","Liparidae","U98.5_Liparis punctulatus","スナビクニンと近縁な種","C","98.2","HIGH","S","demersal",0,20,"160",1
+"Taxa0334","Perciformes","330_Ambassidae","Ambassidae","Ambassis vachellii","トゲナガタカサゴイシモチと同じ属の種","Ex","100","LOW","FBS","demersal",NA,NA,"103",3
+"Taxa0335","Perciformes","330_Ambassidae","Ambassidae","Parambassis sp CBM ZF 18782","インディアングラスフィッシュと同じ属の種","Ex","100","HIGH",NA,NA,NA,NA,"13",1
+"Taxa0336","Perciformes","332_Moronidae","Moronidae","Lateolabrax japonicus","スズキ","C","99.99","HIGH","FBS","reef-associated",5,NA,"169,249",260
+"Taxa0337","Perciformes","332_Moronidae","Moronidae","Lateolabrax latus","ヒラスズキ","C","99.98","HIGH","S","demersal",NA,NA,"55,880",228
+"Taxa0338","Perciformes","333_Percichthyidae","Percichthyidae","Nannoperca australis","該当属名・和名なし","Ex","100","HIGH","F","benthopelagic",NA,NA,"66",2
+"Taxa0339","Perciformes","335_Acropomatidae","Acropomatidae","Malakichthys barbatus","ヒゲオオメハタ","D","100","MODERATE","S","bathypelagic",100,600,"178",3
+"Taxa0340","Perciformes","335_Acropomatidae","Acropomatidae","Malakichthys griseus","オオメハタ","D","100","MODERATE","S","pelagic-oceanic",NA,NA,"273",8
+"Taxa0341","Perciformes","335_Acropomatidae","Acropomatidae","Synagrops japonicus","スミクイウオ","D","100","LOW","S","benthopelagic",50,1000,"15",1
+"Taxa0342","Perciformes","338_Serranidae","Serranidae","Caprodon schlegelii","アカイサキ","C","99.95","HIGH","S","benthopelagic",50,200,"1,393",12
+"Taxa0343","Perciformes","338_Serranidae","Serranidae","Cephalopholis argus","アオノメハタ","C","100","HIGH","S","reef-associated",1,40,"10",1
+"Taxa0344","Perciformes","338_Serranidae","Serranidae","Chelidoperca hirundinacea","ヒメコダイ","C","100","HIGH","S","demersal",80,200,"805",2
+"Taxa0345","Perciformes","338_Serranidae","Serranidae","Cromileptes altivelis","サラサハタ","C","100","LOW","S","reef-associated",2,40,"87",2
+"Taxa0346","Perciformes","338_Serranidae","Serranidae","Epinephelu sp CBM DNA 19 231","該当属名・和名なし","C","98.8","LOW",NA,NA,NA,NA,"45",1
+"Taxa0347","Perciformes","338_Serranidae","Serranidae","Epinephelus akaara","キジハタ","C","100","HIGH","S","reef-associated",1,55,"24",1
+"Taxa0348","Perciformes","338_Serranidae","Serranidae","Epinephelus areolatus","オオモンハタ","C","100","HIGH","S","reef-associated",6,200,"222",8
+"Taxa0349","Perciformes","338_Serranidae","Serranidae","Epinephelus fasciatus","アカハタ","C","99.72","HIGH","BS","reef-associated",4,160,"520",13
+"Taxa0350","Perciformes","338_Serranidae","Serranidae","Epinephelus melanostigma","スミツキハタ","C","100","HIGH","S","reef-associated",0,30,"20",1
+"Taxa0351","Perciformes","338_Serranidae","Serranidae","Epinephelus merra","カンモンハタ","C","100","HIGH","S","reef-associated",0,50,"104",1
+"Taxa0352","Perciformes","338_Serranidae","Serranidae","Epinephelus miliaris","ホウセキハタモドキ","C","100","HIGH","S","reef-associated",1,200,"62",1
+"Taxa0353","Perciformes","338_Serranidae","Serranidae","Epinephelus moara","クエ","C","99.99","LOW",NA,NA,NA,NA,"1,958",41
+"Taxa0354","Perciformes","338_Serranidae","Serranidae","Epinephelus rivulatus","シモフリハタ","C","100","HIGH","S","reef-associated",1,150,"98",2
+"Taxa0355","Perciformes","338_Serranidae","Serranidae","Epinephelus septemfasciatus","マハタ","C","100","HIGH",NA,NA,NA,NA,"289",1
+"Taxa0356","Perciformes","338_Serranidae","Serranidae","Grammistes sexlineatus","ヌノサラシ","C","100","HIGH","S","reef-associated",1,130,"78",1
+"Taxa0357","Perciformes","338_Serranidae","Serranidae","Plectranthias azumanus","チゴハナダイと同じ属の種","Ex","100","HIGH",NA,NA,NA,NA,"586",2
+"Taxa0358","Perciformes","338_Serranidae","Serranidae","Pseudanthias hypselosoma","ケラマハナダイ","Ex","100","HIGH","S","reef-associated",6,50,"19",1
+"Taxa0359","Perciformes","338_Serranidae","Serranidae","Pseudanthias ignitus","フレーム・アンティアス","Ex","100","HIGH","S","reef-associated",10,40,"121",2
+"Taxa0360","Perciformes","338_Serranidae","Serranidae","Pseudanthias rubrolineatus","イトヒキコハクハナダイ","C","98.8","MODERATE","S","bathydemersal",60,400,"436",7
+"Taxa0361","Perciformes","338_Serranidae","Serranidae","Pseudanthias squamipinnis","キンギョハナダイ","C","98.8","MODERATE","S","reef-associated",0,55,"1420",13
+"Taxa0362","Perciformes","338_Serranidae","Serranidae","Sacura margaritacea","サクラダイ","C","100","HIGH","S","demersal",15,50,"456",11
+"Taxa0363","Perciformes","338_Serranidae","Serranidae","Selenanthias analis","スミツキハナダイ","D","100","HIGH","S","demersal",129,204,"88",1
+"Taxa0364","Perciformes","338_Serranidae","Serranidae","Serranidae sp JL-2015","該当属名・和名なし","C","99.8","LOW",NA,NA,NA,NA,"130",3
+"Taxa0365","Perciformes","338_Serranidae","Serranidae","Symphysanodon katayamai","カワリハナダイ","C","100","HIGH","S","demersal",91,183,"13",1
+"Taxa0366","Perciformes","338_Serranidae","Serranidae","U98.5_Pseudanthias rubrolineatus gotu1","イトヒキコハクハナダイと近縁な種","C","98.2","MODERATE","S","bathydemersal",60,400,"72",2
+"Taxa0367","Perciformes","341_Callanthiidae","Callanthiidae","Callanthias japonicus","シキシマハナダイ","C","100","HIGH","S","benthopelagic",70,200,"16",2
+"Taxa0368","Perciformes","342_Pseudochromidae","Pseudochromidae","Pseudochromis tapeinosoma","カツイロニセスズメ","C","100","HIGH","S","reef-associated",2,60,"287",5
+"Taxa0369","Perciformes","344_Plesiopidae","Plesiopidae","Plesiops nakaharae","ナカハラタナバタウオ","C","99.87","LOW","S","reef-associated",NA,NA,"235",9
+"Taxa0370","Perciformes","346_Opistognathidae","Opistognathidae","Opistognathus liturus","セトアマダイ","C","100","MODERATE","S","demersal",NA,NA,"169",1
+"Taxa0371","Perciformes","349_Centrarchidae","Centrarchidae","Lepomis macrochirus","ブルーギル","F","100","HIGH","F","benthopelagic",NA,NA,"375",1
+"Taxa0372","Perciformes","349_Centrarchidae","Centrarchidae","Micropterus salmoides salmoides","オオクチバス","F","100","LOW","F","benthopelagic",NA,7,"370",2
+"Taxa0373","Perciformes","350_Percidae","Percidae","Etheostoma caeruleum","バンデッドダーターと同じ属の種","Ex","100","HIGH","F","benthopelagic",NA,NA,"23",1
+"Taxa0374","Perciformes","351_Priacanthidae","Priacanthidae","Priacanthus blochii","アカネキントキ","C","100","LOW","S","reef-associated",15,30,"176",3
+"Taxa0375","Perciformes","352_Apogonidae","Apogonidae","Apogon coccineus","コミナトテンジクダイ","C","100","HIGH","S","reef-associated",8,35,"102",2
+"Taxa0376","Perciformes","352_Apogonidae","Apogonidae","Apogon seminigracaudus","アマミイシモチと同じ属の種","C","100","HIGH","S","reef-associated",1,30,"13",1
+"Taxa0377","Perciformes","352_Apogonidae","Apogonidae","Apogon unicolor","ハナイシモチ","C","100","HIGH","S","reef-associated",10,35,"144",1
+"Taxa0378","Perciformes","352_Apogonidae","Apogonidae","Apogonichthyoides niger","クロイシモチ","C","100","HIGH","S","demersal",NA,NA,"970",21
+"Taxa0379","Perciformes","352_Apogonidae","Apogonidae","Apogonichthys ocellatus","マトシボリ","C","100","HIGH","S","reef-associated",1,5,"21",1
+"Taxa0380","Perciformes","352_Apogonidae","Apogonidae","Ostorhinchus cookii","オオスジイシモチと同じ属の種","C","99.4","HIGH","S","reef-associated",1,10,"173",1
+"Taxa0381","Perciformes","352_Apogonidae","Apogonidae","Ostorhinchus doederleini","オオスジイシモチ","C","99.95","HIGH","S","reef-associated",0,10,"4017",49
+"Taxa0382","Perciformes","352_Apogonidae","Apogonidae","Ostorhinchus endekataenia","コスジイシモチ","C","100","HIGH","S","reef-associated",25,30,"867",14
+"Taxa0383","Perciformes","352_Apogonidae","Apogonidae","Ostorhinchus kiensis","テッポウイシモチ","C","100","HIGH","BS","reef-associated",0,50,"31",1
+"Taxa0384","Perciformes","352_Apogonidae","Apogonidae","Ostorhinchus notatus","クロホシイシモチ","C","100","HIGH","S","reef-associated",0,20,"7303",43
+"Taxa0385","Perciformes","352_Apogonidae","Apogonidae","Ostorhinchus properuptus","キンセンイシモチ","C","99.8","HIGH","S","reef-associated",1,30,"120",3
+"Taxa0386","Perciformes","352_Apogonidae","Apogonidae","Ostorhinchus semilineatus","ネンブツダイ","C","99.98","HIGH","BS","reef-associated",3,100,"5223",78
+"Taxa0387","Perciformes","352_Apogonidae","Apogonidae","Ostorhinchus sp NSMT P62210","オオスジイシモチと同じ属の種","C","99.4","HIGH",NA,NA,NA,NA,"223",4
+"Taxa0388","Perciformes","352_Apogonidae","Apogonidae","Pristiapogon exostigma","該当属名・和名なし","C","100","HIGH","S","reef-associated",3,40,"1251",10
+"Taxa0389","Perciformes","352_Apogonidae","Apogonidae","Pseudamiops gracilicauda","クダリボウズギスモドキ","C","100","MODERATE","S","reef-associated",5,30,"45",1
+"Taxa0390","Perciformes","352_Apogonidae","Apogonidae","Rhabdamia spilota","スカシテンジクダイ属の一種","C","100","HIGH","S","reef-associated",20,55,"51",1
+"Taxa0391","Perciformes","352_Apogonidae","Apogonidae","U98.5_Apogon semiornatus","ヤミテンジクダイと近縁な種","C","98.2","HIGH","S","reef-associated",5,30,"19",1
+"Taxa0392","Perciformes","352_Apogonidae","Apogonidae","U98.5_Apogon sp RYUKYU-ISHIMOCHI gotu1","アマミイシモチと同じ属の種と近縁な種","C","86.2","LOW",NA,NA,NA,NA,"140",2
+"Taxa0393","Perciformes","352_Apogonidae","Apogonidae","U98.5_Apogon unicolor gotu1","ハナイシモチと近縁な種","C","84.9","LOW","S","reef-associated",10,35,"1044",19
+"Taxa0394","Perciformes","352_Apogonidae","Apogonidae","U98.5_Jaydia carinatus gotu1","テンジクダイと同じ属の種と近縁な種","C","85.1","LOW","S","reef-associated",50,146,"328",7
+"Taxa0395","Perciformes","352_Apogonidae","Apogonidae","U98.5_Jaydia carinatus gotu2","テンジクダイと同じ属の種と近縁な種","C","85.7","LOW","S","reef-associated",50,146,"146",6
+"Taxa0396","Perciformes","352_Apogonidae","Apogonidae","U98.5_Ostorhinchus sp NSMT P62210 gotu1","オオスジイシモチと同じ属の種と近縁な種","C","97","MODERATE",NA,NA,NA,NA,"250",5
+"Taxa0397","Perciformes","354_Sillaginidae","Sillaginidae","Sillago ingenuua","ホシギスと同じ属の種","Ex","99.6","LOW","S","demersal",20,50,"86",3
+"Taxa0398","Perciformes","354_Sillaginidae","Sillaginidae","Sillago japonica","シロギス","C","99.99","HIGH","S","demersal",0,30,"27658",120
+"Taxa0399","Perciformes","355_Malacanthidae","Malacanthidae","Branchiostegus japonicus","アカアマダイ","C","100","MODERATE","S","demersal",30,200,"22",1
+"Taxa0400","Perciformes","355_Malacanthidae","Malacanthidae","Branchiostegus okinawaensis","シロアマダイと同じ属の種","Ex","100","LOW",NA,NA,NA,NA,"44",1
+"Taxa0401","Perciformes","355_Malacanthidae","Malacanthidae","Hoplolatilus purpureus","ホプロラティルス・プルプレウス","Ex","100","HIGH","S","reef-associated",30,85,"15",1
+"Taxa0402","Perciformes","358_Scombropidae","Scombropidae","Scombrops boops","ムツ","C","99.92","MODERATE","S","benthopelagic",20,400,"15281",63
+"Taxa0403","Perciformes","358_Scombropidae","Scombropidae","Scombrops sp SI-2017","ムツと同じ属の種","C","99.4","LOW",NA,NA,NA,NA,"26",1
+"Taxa0404","Perciformes","363_Echeneidae","Echeneidae","Remora osteochir","ヒシコバン","C","100","HIGH","S","pelagic-oceanic",NA,200,"288",6
+"Taxa0405","Perciformes","364_Carangidae","Carangidae","Carangoides orthogrammus","ナンヨウカイワリ","C","100","HIGH","S","reef-associated",3,168,"28",2
+"Taxa0406","Perciformes","364_Carangidae","Carangidae","Caranx ignobilis","ロウニンアジ","C","100","HIGH","BS","reef-associated",10,188,"15",1
+"Taxa0407","Perciformes","364_Carangidae","Carangidae","Decapterus macarellus","クサヤモロ","C","100","HIGH","S","pelagic-oceanic",0,400,"169",6
+"Taxa0408","Perciformes","364_Carangidae","Carangidae","Decapterus macrosoma","モロ","C","100","HIGH","S","reef-associated",20,214,"48",2
+"Taxa0409","Perciformes","364_Carangidae","Carangidae","Decapterus maruadsi","マルアジ","C","99.99","HIGH","S","reef-associated",0,NA,"5,123",44
+"Taxa0410","Perciformes","364_Carangidae","Carangidae","Decapterus muroadsi","ムロアジ","C","100","HIGH","S","pelagic-oceanic",1,320,"50",1
+"Taxa0411","Perciformes","364_Carangidae","Carangidae","Pseudocaranx dentex","シマアジ","C","100","HIGH","BS","reef-associated",10,238,"2688",25
+"Taxa0412","Perciformes","364_Carangidae","Carangidae","Selar crumenophthalmus","メアジ","C","100","HIGH","S","reef-associated",0,170,"350",5
+"Taxa0413","Perciformes","364_Carangidae","Carangidae","Seriola dumerili","カンパチ","C","99.94","HIGH","S","reef-associated",1,360,"7,033",31
+"Taxa0414","Perciformes","364_Carangidae","Carangidae","Seriola lalandi","ヒラマサ","C","100","HIGH","BS","benthopelagic",3,825,"3111",32
+"Taxa0415","Perciformes","364_Carangidae","Carangidae","Seriola quinqueradiata","ブリ","C","99.35","HIGH","S","demersal",NA,100,"12028",61
+"Taxa0416","Perciformes","364_Carangidae","Carangidae","Seriola rivoliana","ヒレナガカンパチ","C","100","HIGH","S","reef-associated",5,245,"618",2
+"Taxa0417","Perciformes","364_Carangidae","Carangidae","Trachinotus baillonii","コバンアジ","C","100","HIGH","BS","reef-associated",0,3,"1357",17
+"Taxa0418","Perciformes","364_Carangidae","Carangidae","Trachinotus blochii","マルコバン","C","100","HIGH","BS","reef-associated",1,7,"42",2
+"Taxa0419","Perciformes","364_Carangidae","Carangidae","Trachurus japonicus","マアジ","C","99.98-100","LOW-MODERATE","BS","pelagic-oceanic",0,1050,"75049",208
+"Taxa0420","Perciformes","364_Carangidae","Carangidae","U98.5_Seriola quinqueradiata","ブリと近縁な種","C","98.3","MODERATE","S","demersal",NA,100,"13",1
+"Taxa0421","Perciformes","366_Leiognathidae","Leiognathidae","Equulites elongatus","ヒメヒイラギ","C","100","HIGH","S","demersal",20,100,"47",1
+"Taxa0422","Perciformes","366_Leiognathidae","Leiognathidae","Equulites rivulatus","オキヒイラギ","C","99.97","HIGH","S","demersal",NA,20,"4,700",37
+"Taxa0423","Perciformes","366_Leiognathidae","Leiognathidae","Nuchequula nuchalis","ヒイラギ","C","99.98","HIGH","BS","pelagic-neritic",NA,NA,"4069",32
+"Taxa0424","Perciformes","367_Bramidae","Bramidae","U98.5_Pterycombus petersii","リュウグウノヒメと近縁な種","P","83.4","LOW","S","pelagic-oceanic",0,340,"129",1
+"Taxa0425","Perciformes","369_Emmelichthyidae","Emmelichthyidae","Erythrocles microceps","ヒチビキ","P","100","HIGH","S","demersal",NA,120,"15",1
+"Taxa0426","Perciformes","369_Emmelichthyidae","Emmelichthyidae","Erythrocles schlegelii","ハチビキ","P","100","HIGH","S","demersal",NA,NA,"443",3
+"Taxa0427","Perciformes","370_Lutjanidae","Lutjanidae","Lutjanus bengalensis","ベンガルフエダイ","C","99.4","HIGH","S","reef-associated",10,30,"570",1
+"Taxa0428","Perciformes","370_Lutjanidae","Lutjanidae","Lutjanus fulviflamma","ニセクロホシフエダイ","C","100","HIGH","BS","reef-associated",3,35,"480",2
+"Taxa0429","Perciformes","370_Lutjanidae","Lutjanidae","Lutjanus monostigma","イッテンフエダイ","C","100","MODERATE","S","reef-associated",1,60,"212",4
+"Taxa0430","Perciformes","370_Lutjanidae","Lutjanidae","Lutjanus quinquelineatus","ロクセンフエダイ","C","100","LOW","S","reef-associated",2,40,"96",2
+"Taxa0431","Perciformes","370_Lutjanidae","Lutjanidae","Lutjanus rivulatus","ナミフエダイ","C","100","MODERATE","S","reef-associated",50,100,"122",3
+"Taxa0432","Perciformes","371_Caesionidae","Caesionidae","Pterocaesio marri","ニセタカサゴ","C","100","LOW","S","reef-associated",2,25,"30",1
+"Taxa0433","Perciformes","373_Gerreidae","Gerreidae","Gerres oyena","クロサギ","C","100","LOW","BS","reef-associated",0,20,"193",7
+"Taxa0434","Perciformes","373_Gerreidae","Gerreidae","Gerres sp CBM ZF 19209","セッパリサギと同じ属の種","C","100","HIGH",NA,NA,NA,NA,"105",2
+"Taxa0435","Perciformes","374_Haemulidae","Haemulidae","Diagramma picta","コロダイ","C","99.95","LOW",NA,NA,NA,NA,"415",11
+"Taxa0436","Perciformes","374_Haemulidae","Haemulidae","Hapalogenys kishinouyei","シマセトダイ","C","100","HIGH","S","benthopelagic",NA,NA,"116",1
+"Taxa0437","Perciformes","374_Haemulidae","Haemulidae","Hapalogenys sennin","ヒゲダイ","C","100","HIGH","S","pelagic-neritic",NA,50,"114",4
+"Taxa0438","Perciformes","374_Haemulidae","Haemulidae","Parapristipoma trilineatum","イサキ","C","99.98","HIGH","S","benthopelagic",NA,NA,"18537",106
+"Taxa0439","Perciformes","374_Haemulidae","Haemulidae","Plectorhinchus cinctus","コショウダイ","C","99.96","HIGH","S","reef-associated",NA,NA,"16041",134
+"Taxa0440","Perciformes","374_Haemulidae","Haemulidae","Pomadasys maculatum","マダラミゾイサキ","C","100","HIGH",NA,NA,NA,NA,"27",2
+"Taxa0441","Perciformes","374_Haemulidae","Haemulidae","Pomadasys sp CBM ZF 18112","ホシミゾイサキ属の一種","C","100","HIGH",NA,NA,NA,NA,"5164",5
+"Taxa0442","Perciformes","376_Nemipteridae","Nemipteridae","Nemipterus japonicus","ニホンイトヨリ","Ex","100","HIGH","S","demersal",5,80,"27",1
+"Taxa0443","Perciformes","376_Nemipteridae","Nemipteridae","Nemipterus nematophorus","ヒライトヨリと同じ属の種","Ex","100","HIGH","S","demersal",NA,75,"228",2
+"Taxa0444","Perciformes","376_Nemipteridae","Nemipteridae","Pentapodus bifasciatus","キツネウオ属の一種","Ex","100","HIGH","S","reef-associated",2,20,"105",1
+"Taxa0445","Perciformes","376_Nemipteridae","Nemipteridae","Pentapodus setosus","キツネウオ属の一種","Ex","100","HIGH","S","reef-associated",5,50,"231",2
+"Taxa0446","Perciformes","377_Lethrinidae","Lethrinidae","Lethrinus genivittatus","イトフエフキ"," C","100","HIGH","BS","reef-associated",5,25,"597",8
+"Taxa0447","Perciformes","377_Lethrinidae","Lethrinidae","Lethrinus microdon","オオフエフキ","Ex","100","HIGH","S","reef-associated",10,80,"174",1
+"Taxa0448","Perciformes","377_Lethrinidae","Lethrinidae","Lethrinus nebulosus","ハマフエフキ","C","100","HIGH","BS","reef-associated",10,75,"310",4
+"Taxa0449","Perciformes","377_Lethrinidae","Lethrinidae","U98.5_Lethrinus olivaceus","キツネフエフキと近縁な種","C","96.4","LOW","S","reef-associated",1,185,"28",1
+"Taxa0450","Perciformes","378_Sparidae","Sparidae","Acanthopagrus latus","キチヌ","C","100","HIGH","FBS","demersal",NA,NA,"2,661",20
+"Taxa0451","Perciformes","378_Sparidae","Sparidae","Acanthopagrus schlegelii","クロダイ","C","100","LOW","BS","demersal",15,NA,"621,772",504
+"Taxa0452","Perciformes","378_Sparidae","Sparidae","Dentex hypselosomus","キダイ","C","100","MODERATE","S","demersal",NA,NA,"64",1
+"Taxa0453","Perciformes","378_Sparidae","Sparidae","Evynnis tumifrons","チダイ","C","99.95-100","LOW-MODERATE","S","demersal",30,346,"3,458",27
+"Taxa0454","Perciformes","378_Sparidae","Sparidae","Pagrus major","マダイ","C","99.99","HIGH","S","demersal",10,200,"17468",110
+"Taxa0455","Perciformes","378_Sparidae","Sparidae","Rhabdosargus sarba","ヘダイ","C","100","HIGH","BS","reef-associated",0,60,"2241",28
+"Taxa0456","Perciformes","380_Polynemidae","Polynemidae","Polydactylus microstomus","ツバメコノシロと同じ属の種","C","100","HIGH","BS","demersal",2,55,"17",1
+"Taxa0457","Perciformes","380_Polynemidae","Polynemidae","Polydactylus plebeius","ツバメコノシロ","C","100","HIGH","BS","demersal",NA,122,"9",1
+"Taxa0458","Perciformes","380_Polynemidae","Polynemidae","Polydactylus sexfilis","ナンヨウアゴナシ","C","100","HIGH","FBS","reef-associated",1,50,"15",1
+"Taxa0459","Perciformes","380_Polynemidae","Polynemidae","Polynemus aquilonaris","該当属名・和名なし","C","100","MODERATE","FB","demersal",NA,NA,"56",1
+"Taxa0460","Perciformes","381_Sciaenidae","Sciaenidae","Argyrosomus japonicus","オオニベ","C","100","LOW","BS","benthopelagic",NA,NA,"15",1
+"Taxa0461","Perciformes","381_Sciaenidae","Sciaenidae","Johnius carouna","ヒゲイシモチと同じ属の種","Ex","100","HIGH","FBS","benthopelagic",NA,NA,"102",1
+"Taxa0462","Perciformes","381_Sciaenidae","Sciaenidae","Nibea mitsukurii","ニベ","C","99.92","LOW","S","benthopelagic",NA,NA,"3,271",32
+"Taxa0463","Perciformes","381_Sciaenidae","Sciaenidae","Pennahia anea","ペンナヒア・アネア","C","100","HIGH","S","demersal",NA,60,"72",1
+"Taxa0464","Perciformes","381_Sciaenidae","Sciaenidae","Pennahia argentata","シログチ","C","100","HIGH","S","benthopelagic",20,140,"407",4
+"Taxa0465","Perciformes","382_Mullidae","Mullidae","Mulloidichthys vanicolensis","アカヒメジ","C","100","HIGH","S","reef-associated",1,113,"73",1
+"Taxa0466","Perciformes","382_Mullidae","Mullidae","Parupeneus ciliatus","ホウライヒメジ","C","100","HIGH","S","reef-associated",2,91,"12,458",114
+"Taxa0467","Perciformes","382_Mullidae","Mullidae","Parupeneus indicus","コバンヒメジ","C","100","HIGH","BS","reef-associated",10,30,"916",19
+"Taxa0468","Perciformes","382_Mullidae","Mullidae","Parupeneus multifasciatus","オジサン","C","100","LOW",NA,NA,NA,NA,"178",5
+"Taxa0469","Perciformes","382_Mullidae","Mullidae","Parupeneus spilurus","オキナヒメジ","C","99.92","HIGH","BS","reef-associated",10,80,"366",8
+"Taxa0470","Perciformes","382_Mullidae","Mullidae","Upeneus japonicus","ヒメジ","C","100","LOW","S","reef-associated",4,200,"689",18
+"Taxa0471","Perciformes","382_Mullidae","Mullidae","Upeneus tragula","ヨメヒメジ","C","100","HIGH","BS","reef-associated",0,42,"705",16
+"Taxa0472","Perciformes","383_Pempheridae","Pempheridae","Parapriacanthus ransonneti","キンメモドキ","C","99.95","HIGH","S","reef-associated",NA,550,"1090",13
+"Taxa0473","Perciformes","383_Pempheridae","Pempheridae","Pempheris adusta","リュウキュウハタンポ ","C","100","HIGH","S","reef-associated",0,20,"453",5
+"Taxa0474","Perciformes","383_Pempheridae","Pempheridae","Pempheris japonica","ツマグロハタンポ","C","99.98","HIGH","S","benthopelagic",NA,NA,"5929",29
+"Taxa0475","Perciformes","383_Pempheridae","Pempheridae","Pempheris oualensis","ユメハタンポ","C","99.4","HIGH","S","reef-associated",1,36,"18",1
+"Taxa0476","Perciformes","383_Pempheridae","Pempheridae","Pempheris schwenkii","ミナミハタンポ","C","99.99","LOW","S","reef-associated",5,40,"47249",153
+"Taxa0477","Perciformes","391_Kyphosidae","Kyphosidae","Girella leonina","クロメジナ","C","100","HIGH","S","reef-associated",1,15,"211932",363
+"Taxa0478","Perciformes","391_Kyphosidae","Kyphosidae","Girella mezina","オキナメジナ","C","100","HIGH","S","reef-associated",NA,NA,"3485",35
+"Taxa0479","Perciformes","391_Kyphosidae","Kyphosidae","Girella punctata","メジナ","C","100","HIGH","S","reef-associated",NA,NA,"953,938",532
+"Taxa0480","Perciformes","391_Kyphosidae","Kyphosidae","Kyphosus bigibbus","ノトイスズミ","C","99.99","HIGH","S","reef-associated",2,NA,"42837",190
+"Taxa0481","Perciformes","391_Kyphosidae","Kyphosidae","Kyphosus cinerascens","テンジクイサキ","C","100","MODERATE","S","reef-associated",1,45,"6004",56
+"Taxa0482","Perciformes","391_Kyphosidae","Kyphosidae","Kyphosus vaigiensis","イスズミ","C","99.99","MODERATE","S","reef-associated",0,40,"5877",46
+"Taxa0483","Perciformes","391_Kyphosidae","Kyphosidae","Labracoglossa argenteiventris","タカベ","C","99.97","HIGH","S","reef-associated",NA,NA,"10765",64
+"Taxa0484","Perciformes","391_Kyphosidae","Kyphosidae","Microcanthus strigatus","カゴカキダイ","C","99.99","HIGH","BS","reef-associated",1,140,"17813",159
+"Taxa0485","Perciformes","393_Chaetodontidae","Chaetodontidae","Chaetodon adiergastos","クラカケチョウチョウウオ","C","99.4","LOW","S","reef-associated",1,30,"716",16
+"Taxa0486","Perciformes","393_Chaetodontidae","Chaetodontidae","Chaetodon auriga","トゲチョウチョウウオ","C","99.95","MODERATE","S","reef-associated",1,60,"1536",22
+"Taxa0487","Perciformes","393_Chaetodontidae","Chaetodontidae","Chaetodon auripes","チョウチョウウオ","C","100","MODERATE","S","reef-associated",1,30,"13,360",116
+"Taxa0488","Perciformes","393_Chaetodontidae","Chaetodontidae","Chaetodon lunula","チョウハン","C","99.92","LOW","S","reef-associated",0,170,"406",8
+"Taxa0489","Perciformes","393_Chaetodontidae","Chaetodontidae","Chaetodon nippon","シラコダイ","C","100","HIGH","S","reef-associated",5,30,"26",1
+"Taxa0490","Perciformes","393_Chaetodontidae","Chaetodontidae","Chaetodon vagabundus","フウライチョウチョウウオ","C","100","HIGH","S","reef-associated",5,30,"3,954",28
+"Taxa0491","Perciformes","394_Pomacanthidae","Pomacanthidae","Chaetodontoplus septentrionalis","キンチャクダイ","C","100","LOW","S","reef-associated",5,15,"215",4
+"Taxa0492","Perciformes","394_Pomacanthidae","Pomacanthidae","Pomacanthus semicirculatus","サザナミヤッコ","C","100","HIGH","S","reef-associated",1,40,"255",5
+"Taxa0493","Perciformes","396_Pentacerotidae","Pentacerotidae","Evistias acutirostris","テングダイ","C","100","HIGH","S","reef-associated",18,193,"191",3
+"Taxa0494","Perciformes","396_Pentacerotidae","Pentacerotidae","U98.5_Histiopterus typus","カワビシャと近縁な種","C","95.3","MODERATE","S","reef-associated",40,421,"14",1
+"Taxa0495","Perciformes","399_Teraponidae","Teraponidae","Rhynchopelates oxyrhynchus","シマイサキ","C","100","HIGH","FBS","benthopelagic",NA,NA,"918",16
+"Taxa0496","Perciformes","399_Teraponidae","Teraponidae","Terapon jarbua","コトヒキ","C","100","HIGH","FBS","demersal",20,350,"970",13
+"Taxa0497","Perciformes","400_Kuhliidae","Kuhliidae","Kuhlia mugil","ギンユゴイ","C","100","HIGH","BS","reef-associated",3,18,"8,350",52
+"Taxa0498","Perciformes","401_Oplegnathidae","Oplegnathidae","Oplegnathus fasciatus","イシダイ","C","99.99","HIGH","S","reef-associated",1,10,"48348",242
+"Taxa0499","Perciformes","401_Oplegnathidae","Oplegnathidae","Oplegnathus punctatus","イシガキダイ","C","99.97","HIGH","S","reef-associated",3,135,"7,596",87
+"Taxa0500","Perciformes","402_Cirrhitidae","Cirrhitidae","Cirrhitichthys aurens","オキゴンベ","C","100","HIGH",NA,NA,NA,NA,"48",2
+"Taxa0501","Perciformes","402_Cirrhitidae","Cirrhitidae","Cirrhitichthys oxycephalus","ヒメゴンベ","Ex","100","HIGH","S","reef-associated",1,40,"16",1
+"Taxa0502","Perciformes","402_Cirrhitidae","Cirrhitidae","Cirrhitus pinnulatus","イソゴンベ","C","100","HIGH","S","reef-associated",0,23,"216",1
+"Taxa0503","Perciformes","402_Cirrhitidae","Cirrhitidae","Oxycirrhites typus","クダゴンベ","C","100","HIGH","S","reef-associated",0,100,"11",1
+"Taxa0504","Perciformes","405_Cheilodactylidae","Cheilodactylidae","Cheilodactylus zebra","ミギマキ","C","100","HIGH","S","reef-associated",NA,NA,"42",1
+"Taxa0505","Perciformes","405_Cheilodactylidae","Cheilodactylidae","Cheilodactylus zonatus","タカノハダイ","C","99.98","LOW","S","benthopelagic",NA,NA,"76886",409
+"Taxa0506","Perciformes","405_Cheilodactylidae","Cheilodactylidae","U98.5_Cheilodactylus zonatus gotu1","タカノハダイと近縁な種","C","98.2","LOW","S","benthopelagic",NA,NA,"139",5
+"Taxa0507","Perciformes","407_Cepolidae","Cepolidae","Acanthocepola indica","インドアカタチ","C","100","HIGH","S","benthopelagic",NA,300,"99",1
+"Taxa0508","Perciformes","409_Cichlidae","Cichlidae","Etroplus suratensis","該当属名・和名なし","C","100","HIGH","B","benthopelagic",10,NA,"16",1
+"Taxa0509","Perciformes","410_Embiotocidae","Embiotocidae","Ditrema jordani","アカタナゴ","C","100","HIGH","S","demersal",NA,NA,"758",14
+"Taxa0510","Perciformes","410_Embiotocidae","Embiotocidae","Ditrema temminckii temminckii","ウミタナゴ","C","100","LOW",NA,NA,NA,NA,"116,929",241
+"Taxa0511","Perciformes","410_Embiotocidae","Embiotocidae","Neoditrema ransonneti","オキタナゴ","C","99.96","HIGH",NA,NA,NA,NA,"1,589",14
+"Taxa0512","Perciformes","410_Embiotocidae","Embiotocidae","U98.5_Ditrema jordani","アカタナゴと近縁な種","C","91.7","LOW","S","demersal",NA,NA,"13",1
+"Taxa0513","Perciformes","411_Pomacentridae","Pomacentridae","Abudefduf bengalensis","テンジクスズメダイ","C","100","HIGH","S","reef-associated",1,6,"198",3
+"Taxa0514","Perciformes","411_Pomacentridae","Pomacentridae","Abudefduf notatus","イソスズメダイ","C","100","HIGH","S","reef-associated",1,12,"128",6
+"Taxa0515","Perciformes","411_Pomacentridae","Pomacentridae","Abudefduf saxatilis","オヤビッチャ属の種と近縁な種","C","98.8","LOW","S","reef-associated",0,20,"18",1
+"Taxa0516","Perciformes","411_Pomacentridae","Pomacentridae","Abudefduf septemfasciatus","シチセンスズメダイ","C","100","HIGH","S","reef-associated",0,3,"39",1
+"Taxa0517","Perciformes","411_Pomacentridae","Pomacentridae","Abudefduf sexfasciatus","ロクセンスズメダイ","C","99.99","LOW","S","reef-associated",1,20,"28100",138
+"Taxa0518","Perciformes","411_Pomacentridae","Pomacentridae","Abudefduf sordidus","シマスズメダイ","C","99.96","HIGH","BS","reef-associated",0,3,"4,433",48
+"Taxa0519","Perciformes","411_Pomacentridae","Pomacentridae","Abudefduf vaigiensis","オヤビッチャ","C","99.98","MODERATE","S","reef-associated",1,15,"14408",104
+"Taxa0520","Perciformes","411_Pomacentridae","Pomacentridae","Chromis notata notata","スズメダイ","C","100","HIGH","S","reef-associated",2,15,"254",4
+"Taxa0521","Perciformes","411_Pomacentridae","Pomacentridae","Chrysiptera biocellata","スジブチスズメダイ","C","100","LOW","S","reef-associated",0,5,"37",1
+"Taxa0522","Perciformes","411_Pomacentridae","Pomacentridae","Plectroglyphidodon leucozonus","ハクセンスズメダイ","C","99.9","HIGH","S","reef-associated",0,6,"1069",18
+"Taxa0523","Perciformes","411_Pomacentridae","Pomacentridae","Pomacentrus caeruleopunctatus","ソラスズメダイ属の種と近縁な種","C","99.99","LOW","S","reef-associated",7,10,"58,752",129
+"Taxa0524","Perciformes","411_Pomacentridae","Pomacentridae","Pomacentrus pavo","クジャクスズメダイ","C","100","MODERATE","S","reef-associated",1,18,"70",1
+"Taxa0525","Perciformes","411_Pomacentridae","Pomacentridae","Stegastes altus","セダカスズメダイ","C","99.91","HIGH","S","reef-associated",5,20,"13430",137
+"Taxa0526","Perciformes","411_Pomacentridae","Pomacentridae","U98.5_Abudefduf saxatilis gotu1","オヤビッチャ属の種と近縁な種","C","97","LOW","S","reef-associated",0,20,"382",3
+"Taxa0527","Perciformes","412_Labridae","Labridae","Bodianus izuensis","タヌキベラ","C","100","HIGH","S","reef-associated",30,70,"13",1
+"Taxa0528","Perciformes","412_Labridae","Labridae","Bodianus oxycephalus","キツネダイ","C","100","HIGH","S","reef-associated",NA,NA,"312",2
+"Taxa0529","Perciformes","412_Labridae","Labridae","Cheilinus fasciatus","ヤシャベラ","Ex","100","HIGH","S","reef-associated",4,60,"80",1
+"Taxa0530","Perciformes","412_Labridae","Labridae","Choerodon azurio","イラ","C","100","HIGH","S","reef-associated",NA,NA,"95",4
+"Taxa0531","Perciformes","412_Labridae","Labridae","Choerodon margaritiferus","ユウモドロベラ","Ex","100","HIGH","S","demersal",NA,72,"67",1
+"Taxa0532","Perciformes","412_Labridae","Labridae","Halichoeres chloropterus","ハリコエレス・クロロプテルス","Ex","100","HIGH","S","reef-associated",0,10,"65",1
+"Taxa0533","Perciformes","412_Labridae","Labridae","Halichoeres poecilopterus","キュウセン","C","99.99","MODERATE",NA,NA,NA,NA,"4337",66
+"Taxa0534","Perciformes","412_Labridae","Labridae","Halichoeres tenuispinis","ホンベラ","C","100","HIGH","S","reef-associated",0,4,"16345",161
+"Taxa0535","Perciformes","412_Labridae","Labridae","Labroides dimidiatus","ホンソメワケベラ","C","100","HIGH","S","reef-associated",1,40,"24",1
+"Taxa0536","Perciformes","412_Labridae","Labridae","Pseudojuloides elongatus","オトヒメベラ","C","100","HIGH","S","reef-associated",5,50,"43",1
+"Taxa0537","Perciformes","412_Labridae","Labridae","Pseudolabrus eoethinus","アカササノハベラ","C","99.99","HIGH","S","reef-associated",NA,NA,"31051",291
+"Taxa0538","Perciformes","412_Labridae","Labridae","Pseudolabrus sieboldi","ホシササノハベラ","C","99.95","HIGH","S","demersal",NA,NA,"31,507",233
+"Taxa0539","Perciformes","412_Labridae","Labridae","Pteragogus aurigarius","オハグロベラ","C","100","HIGH","S","reef-associated",NA,NA,"48",3
+"Taxa0540","Perciformes","412_Labridae","Labridae","Semicossyphus reticulatus","カンダイ","C","99.99","HIGH","S","demersal",NA,NA,"5960",69
+"Taxa0541","Perciformes","412_Labridae","Labridae","Stethojulis interrupta terina","カミナリベラ","C","99.99","HIGH","S","reef-associated",NA,18,"32639",227
+"Taxa0542","Perciformes","412_Labridae","Labridae","Suezichthys gracilis","イトベラ","C","100","HIGH","S","reef-associated",NA,NA,"25",1
+"Taxa0543","Perciformes","412_Labridae","Labridae","Thalassoma amblycephalum","コガシラベラ","C","100","MODERATE","S","reef-associated",1,15,"94",2
+"Taxa0544","Perciformes","412_Labridae","Labridae","Thalassoma cupido","ニシキベラ","C","100","HIGH","S","demersal",NA,NA,"326773",436
+"Taxa0545","Perciformes","412_Labridae","Labridae","Thalassoma lunare","オトメベラ","C","100","LOW","S","reef-associated",1,20,"285",5
+"Taxa0546","Perciformes","412_Labridae","Labridae","Thalassoma lutescens","ヤマブキベラ","C","100","LOW","S","reef-associated",1,30,"218",4
+"Taxa0547","Perciformes","412_Labridae","Labridae","Thalassoma quinquevittatum","ハコベラ","C","99.57","MODERATE","S","reef-associated",0,40,"300",7
+"Taxa0548","Perciformes","412_Labridae","Labridae","Thalassoma trilobatum","リュウグウベラ","C","100","LOW","S","reef-associated",0,10,"228",5
+"Taxa0549","Perciformes","412_Labridae","Labridae","U98.5_Stethojulis interrupta terina","カミナリベラと近縁な種","C","98.2","MODERATE","S","reef-associated",NA,18,"16",1
+"Taxa0550","Perciformes","414_Scaridae","Scaridae","Calotomus japonicus","ブダイ","C","99.97","HIGH","S","reef-associated",NA,NA,"8,710",130
+"Taxa0551","Perciformes","414_Scaridae","Scaridae","Calotomus spinidens","チビブダイ","C","100","HIGH","S","reef-associated",1,72,"16",1
+"Taxa0552","Perciformes","414_Scaridae","Scaridae","Leptoscarus vaigiensis","タイワンブダイ","C","100","HIGH","S","reef-associated",1,15,"175",5
+"Taxa0553","Perciformes","414_Scaridae","Scaridae","Scarus chameleon","カメレオンブダイ","C","99.7","LOW","S","reef-associated",3,30,"144",2
+"Taxa0554","Perciformes","414_Scaridae","Scaridae","Scarus ovifrons","アオブダイ","C","100","HIGH","S","reef-associated",NA,NA,"67",4
+"Taxa0555","Perciformes","416_Zoarcidae","Zoarcidae","Lycodes tanakae","タナカゲンゲ","Ex","100","LOW","S","bathydemersal",10,1100,"67",1
+"Taxa0556","Perciformes","416_Zoarcidae","Zoarcidae","Lycodes teraoi","ヒナゲンゲ","Ex","100","MODERATE","S","demersal",NA,NA,"54",1
+"Taxa0557","Perciformes","417_Stichaeidae","Stichaeidae","Dictyosoma burgeri Form a","ダイナンギンポa型","C","99.89","HIGH","S","demersal",NA,NA,"11,913",84
+"Taxa0558","Perciformes","417_Stichaeidae","Stichaeidae","Dictyosoma rubrimaculatum","ベニツケギンポ","C","99.97","HIGH","S","reef-associated",NA,NA,"126831",365
+"Taxa0559","Perciformes","417_Stichaeidae","Stichaeidae","Eumesogrammus praecisus","トゲギンポ","C","98.8","LOW","S","benthopelagic",5,400,"55",1
+"Taxa0560","Perciformes","417_Stichaeidae","Stichaeidae","Opisthocentrus tenuis","ハナジロガジ","Ex","100","HIGH","S","demersal",1,300,"25",1
+"Taxa0561","Perciformes","417_Stichaeidae","Stichaeidae","Zoarchias glaber","トビイトギンポ","C","99.94","HIGH","S","demersal",NA,NA,"30026",134
+"Taxa0562","Perciformes","417_Stichaeidae","Stichaeidae","Zoarchias neglectus","コモンイトギンポ","C","100","HIGH","S","demersal",NA,NA,"76164",181
+"Taxa0563","Perciformes","419_Pholidae","Pholidae","Pholis clemensi","タケギンポと同じ属の種","C","99.38","LOW","S","demersal",7,64,"2,406",27
+"Taxa0564","Perciformes","419_Pholidae","Pholidae","Pholis crassispina","タケギンポ","C","100","HIGH","S","demersal",0,5,"636",4
+"Taxa0565","Perciformes","419_Pholidae","Pholidae","Pholis nebulosa","ギンポ","C","99.62","LOW","S","demersal",0,200,"2990",19
+"Taxa0566","Perciformes","433_Champsodontidae","Champsodontidae","Champsodon pantolepis","ヨロイワニギス","D","100","HIGH","S","bathydemersal",NA,406,"71",1
+"Taxa0567","Perciformes","433_Champsodontidae","Champsodontidae","Champsodon snyderi","ワニギス","D","100","HIGH","S","demersal",NA,370,"96",3
+"Taxa0568","Perciformes","433_Champsodontidae","Champsodontidae","Champsodon vorax","クロワニギスと同じ属の種","D","100","HIGH","S","demersal",34,84,"595",2
+"Taxa0569","Perciformes","433_Champsodontidae","Champsodontidae","U98.5_Champsodon snyderi","ワニギスと近縁な種","D","94.7","HIGH","S","demersal",NA,370,"362",1
+"Taxa0570","Perciformes","435_Pinguipedidae","Pinguipedidae","Parapercis diplospilus","アカトラギスと同じ属の種","C","99.4","HIGH","S","demersal",20,50,"41",1
+"Taxa0571","Perciformes","435_Pinguipedidae","Pinguipedidae","Parapercis kentingensis","アカトラギスと同じ属の種","Ex","100","HIGH","S","benthopelagic",50,150,"21",1
+"Taxa0572","Perciformes","435_Pinguipedidae","Pinguipedidae","Parapercis lutevittata","アカトラギスと同じ属の種","Ex","100","HIGH","S","demersal",50,100,"131",2
+"Taxa0573","Perciformes","435_Pinguipedidae","Pinguipedidae","Parapercis pulchella","トラギス","C","100","HIGH","S","demersal",NA,NA,"20",1
+"Taxa0574","Perciformes","435_Pinguipedidae","Pinguipedidae","Parapercis snyderi","コウライトラギス","C","100","HIGH","S","reef-associated",10,40,"162",5
+"Taxa0575","Perciformes","437_Trichonotidae","Trichonotidae","Trichonotus setiger","ベラギンポ","C","100","HIGH","BS","reef-associated",10,80,"124",2
+"Taxa0576","Perciformes","437_Trichonotidae","Trichonotidae","Trichonotus sp BSKU 65703","リュウグウベラギンポと同じ属の種","C","99.4","HIGH",NA,NA,NA,NA,"29",1
+"Taxa0577","Perciformes","439_Percophidae","Percophidae","U98.5_Bembrops curvatura gotu1","ナミアイトラギスと近縁な種","D","87.97","LOW","S","demersal",100,280,"259",4
+"Taxa0578","Perciformes","441_Ammodytidae","Ammodytidae","Ammodytes personatus","イカナゴ","C","99.7","LOW","S","demersal",0,172,"458",2
+"Taxa0579","Perciformes","441_Ammodytidae","Ammodytidae","U98.5_Ammodytes hexapterus","キタイカナゴと近縁な種","C","95.2","LOW","BS","benthopelagic",0,275,"12",1
+"Taxa0580","Perciformes","443_Uranoscopidae","Uranoscopidae","Uranoscopus chinensis","キビレミシマ","C","100","HIGH","S","benthopelagic",7,64,"59",2
+"Taxa0581","Perciformes","443_Uranoscopidae","Uranoscopidae","Uranoscopus japonicus","ミシマオコゼ","D","99.94","HIGH","S","bathydemersal",250,300,"663",10
+"Taxa0582","Perciformes","443_Uranoscopidae","Uranoscopidae","Uranoscopus sp KAUM I 94698","ミシマオコゼ属の一種","Ex","100","HIGH",NA,NA,NA,NA,"75",1
+"Taxa0583","Perciformes","445_Tripterygiidae","Tripterygiidae","Enneapterygius erythrosoma","ゴマフヘビギンポと同じ属の種","C","100","HIGH",NA,NA,NA,NA,"24",1
+"Taxa0584","Perciformes","445_Tripterygiidae","Tripterygiidae","Enneapterygius etheostomus","ヘビギンポ","C","99.97","HIGH","S","demersal",0,21,"345006",378
+"Taxa0585","Perciformes","445_Tripterygiidae","Tripterygiidae","Enneapterygius fuscoventer","ゴマフヘビギンポと同じ属の種","C","100","LOW","S","reef-associated",0,5,"11",1
+"Taxa0586","Perciformes","445_Tripterygiidae","Tripterygiidae","Enneapterygius leucopunctatus","ハクテンヘビギンポ","C","99.85","HIGH","S","demersal",0,12,"127",4
+"Taxa0587","Perciformes","445_Tripterygiidae","Tripterygiidae","Enneapterygius philippinus","クサギンポ","C","100","HIGH","S","reef-associated",0,8,"17",1
+"Taxa0588","Perciformes","445_Tripterygiidae","Tripterygiidae","Enneapterygius phoenicosoma","ゴマフヘビギンポと同じ属の種","C","100","HIGH",NA,NA,NA,NA,"709",12
+"Taxa0589","Perciformes","445_Tripterygiidae","Tripterygiidae","Enneapterygius sp KAUM I 101347","ゴマフヘビギンポと同じ属の種","C","100","HIGH",NA,NA,NA,NA,"39",1
+"Taxa0590","Perciformes","445_Tripterygiidae","Tripterygiidae","Springerichthys bapturus","ヒメギンポ","C","100","HIGH","S","demersal",NA,NA,"13606",103
+"Taxa0591","Perciformes","447_Blenniidae","Blenniidae","Andamia tetradactyla","ヨダレカケ","C","100","HIGH",NA,NA,NA,NA,"134",1
+"Taxa0592","Perciformes","447_Blenniidae","Blenniidae","Cirripectes imitator","アミメミノカエルウオ","C","99.8","HIGH","S","reef-associated",0,10,"126",3
+"Taxa0593","Perciformes","447_Blenniidae","Blenniidae","Entomacrodus caudofasciatus","アオモンギンポ","C","99.47","HIGH","S","reef-associated",0,3,"8507",46
+"Taxa0594","Perciformes","447_Blenniidae","Blenniidae","Entomacrodus stellifer stellifer","ホシギンポ","C","100","HIGH","S","reef-associated",NA,NA,"160278",377
+"Taxa0595","Perciformes","447_Blenniidae","Blenniidae","Entomacrodus striatus","スジギンポ","C","99.9","HIGH","S","reef-associated",0,3,"2573",29
+"Taxa0596","Perciformes","447_Blenniidae","Blenniidae","Entomacrodus thalassinus","アオモンギンポと同じ属の種","C","99.77","HIGH","S","reef-associated",0,5,"2083",18
+"Taxa0597","Perciformes","447_Blenniidae","Blenniidae","Istiblennius edentulus","ニセカエルウオ","C","99.67","LOW","BS","reef-associated",0,5,"4,277",29
+"Taxa0598","Perciformes","447_Blenniidae","Blenniidae","Istiblennius enosimae","カエルウオ","C","99.99","MODERATE",NA,NA,NA,NA,"711100",409
+"Taxa0599","Perciformes","447_Blenniidae","Blenniidae","Omobranchus elegans","ナベカ","C","99.99","HIGH","S","demersal",NA,NA,"101540",292
+"Taxa0600","Perciformes","447_Blenniidae","Blenniidae","Omobranchus smithi","ナベカと同じ属の種","C","100","HIGH","S","demersal",NA,NA,"121",4
+"Taxa0601","Perciformes","447_Blenniidae","Blenniidae","Parablennius yatabei","イソギンポ","C","99.97","HIGH","S","demersal",NA,NA,"131707",379
+"Taxa0602","Perciformes","447_Blenniidae","Blenniidae","Petroscirtes breviceps","ニジギンポ","C","100","MODERATE","BS","reef-associated",1,15,"1048",21
+"Taxa0603","Perciformes","447_Blenniidae","Blenniidae","Petroscirtes mitratus","ハタタテギンポ","C","100","HIGH","S","reef-associated",0,8,"840",10
+"Taxa0604","Perciformes","447_Blenniidae","Blenniidae","Praealticus margaritarius","タマギンポ","C","100","HIGH","S","demersal",NA,NA,"71",1
+"Taxa0605","Perciformes","447_Blenniidae","Blenniidae","Rhabdoblennius nitidus","ロウソクギンポ","C","100","HIGH","S","reef-associated",0,2,"391",6
+"Taxa0606","Perciformes","447_Blenniidae","Blenniidae","Salarias luctuosus","シマギンポ","C","100","HIGH","S","reef-associated",NA,NA,"25",1
+"Taxa0607","Perciformes","447_Blenniidae","Blenniidae","U98.5_Entomacrodus caudofasciatus","アオモンギンポと近縁な種","C","92.8","MODERATE","S","reef-associated",0,3,"59",1
+"Taxa0608","Perciformes","447_Blenniidae","Blenniidae","U98.5_Entomacrodus striatus gotu1","スジギンポと近縁な種","C","90.4","LOW","S","reef-associated",0,3,"115",2
+"Taxa0609","Perciformes","447_Blenniidae","Blenniidae","U98.5_Entomacrodus striatus gotu2","スジギンポと近縁な種","C","94.6","MODERATE","S","reef-associated",0,3,"194",4
+"Taxa0610","Perciformes","447_Blenniidae","Blenniidae","U98.5_Entomacrodus thalassinus","アオモンギンポと同じ属の種と近縁な種","C","95.2","HIGH","S","reef-associated",0,5,"17",1
+"Taxa0611","Perciformes","447_Blenniidae","Blenniidae","U98.5_Istiblennius edentulus gotu1","ニセカエルウオと近縁な種","C","91","LOW","BS","reef-associated",0,5,"279",3
+"Taxa0612","Perciformes","447_Blenniidae","Blenniidae","U98.5_Istiblennius edentulus gotu2","ニセカエルウオと近縁な種","C","85.5","LOW","BS","reef-associated",0,5,"77",2
+"Taxa0613","Perciformes","447_Blenniidae","Blenniidae","U98.5_Parablennius yatabei gotu1","イソギンポと近縁な種","C","95.82","MODERATE","S","demersal",NA,NA,"142",4
+"Taxa0614","Perciformes","447_Blenniidae","Blenniidae","U98.5_Petroscirtes breviceps","ニジギンポと近縁な種","C","89.8","LOW","BS","reef-associated",1,15,"58",1
+"Taxa0615","Perciformes","447_Blenniidae","Blenniidae","U98.5_Scartella cristata","タテガミギンポと近縁な種","C","97","HIGH","S","reef-associated",0,10,"26",1
+"Taxa0616","Perciformes","450_Chaenopsidae","Chaenopsidae","Neoclinus bryope","コケギンポ","C","100","HIGH","S","demersal",NA,NA,"128423",238
+"Taxa0617","Perciformes","450_Chaenopsidae","Chaenopsidae","U98.5_Neoclinus bryope gotu1","コケギンポと近縁な種","C","89.35","LOW","S","demersal",NA,NA,"436",12
+"Taxa0618","Perciformes","450_Chaenopsidae","Chaenopsidae","U98.5_Neoclinus nudus gotu1","コケギンポと同じ属の種と近縁な種","C","93.88","LOW","S","reef-associated",NA,4,"8996",29
+"Taxa0619","Perciformes","450_Chaenopsidae","Chaenopsidae","U98.5_Neoclinus nudus gotu2","コケギンポと同じ属の種と近縁な種","C","93.12","LOW","S","reef-associated",NA,4,"24334",80
+"Taxa0620","Perciformes","450_Chaenopsidae","Chaenopsidae","U98.5_Neoclinus nudus gotu3","コケギンポと同じ属の種と近縁な種","C","92.3","LOW","S","reef-associated",NA,4,"2841",2
+"Taxa0621","Perciformes","450_Chaenopsidae","Chaenopsidae","U98.5_Neoclinus nudus gotu4","コケギンポと同じ属の種と近縁な種","C","94.32","MODERATE","S","reef-associated",NA,4,"369",4
+"Taxa0622","Perciformes","450_Chaenopsidae","Chaenopsidae","U98.5_Neoclinus nudus gotu5","コケギンポと同じ属の種と近縁な種","C","93.5","MODERATE","S","reef-associated",NA,4,"366",3
+"Taxa0623","Perciformes","450_Chaenopsidae","Chaenopsidae","U98.5_Neoclinus nudus gotu6","コケギンポと同じ属の種と近縁な種","C","93.58","LOW","S","reef-associated",NA,4,"608",6
+"Taxa0624","Perciformes","450_Chaenopsidae","Chaenopsidae","U98.5_Neoclinus nudus gotu7","コケギンポと同じ属の種と近縁な種","C","92.9","LOW","S","reef-associated",NA,4,"12",1
+"Taxa0625","Perciformes","452_Gobiesocidae","Gobiesocidae","Aspasma minima","ウバウオ","C","99.99","HIGH","S","demersal",NA,NA,"1653",58
+"Taxa0626","Perciformes","452_Gobiesocidae","Gobiesocidae","Conidens laticephalus","アンコウウバウオ","C","99.99","HIGH","S","demersal",NA,NA,"6737",61
+"Taxa0627","Perciformes","452_Gobiesocidae","Gobiesocidae","Lepadichthys frenatus","ミサキウバウオ","C","98.8","HIGH","S","reef-associated",1,6,"92",4
+"Taxa0628","Perciformes","452_Gobiesocidae","Gobiesocidae","U98.5_Discotrema lineata","タスジウミシダウバウオと近縁な種","C","85.5","LOW",NA,NA,NA,NA,"60",1
+"Taxa0629","Perciformes","452_Gobiesocidae","Gobiesocidae","U98.5_Lepadichthys frenatus gotu1","ミサキウバウオと近縁な種","C","90.3","LOW","S","reef-associated",1,6,"724",23
+"Taxa0630","Perciformes","453_Callionymidae","Callionymidae","Callionymus enneactis","トビヌメリと同じ属の種","C","100","LOW","BS","reef-associated",1,15,"27",1
+"Taxa0631","Perciformes","453_Callionymidae","Callionymidae","Callionymus guenther","トビヌメリと同じ属の種","C","100","MODERATE",NA,NA,NA,NA,"15",1
+"Taxa0632","Perciformes","453_Callionymidae","Callionymidae","Calliurichthys izuensis","イズヌメリ","C","100","HIGH",NA,NA,NA,NA,"61",2
+"Taxa0633","Perciformes","453_Callionymidae","Callionymidae","Paradiplogrammus enneactis","ハナビヌメリ","C","100","HIGH",NA,NA,NA,NA,"7",1
+"Taxa0634","Perciformes","453_Callionymidae","Callionymidae","Repomucenus beniteguri","トビヌメリ","C","99.97","LOW",NA,NA,NA,NA,"931",22
+"Taxa0635","Perciformes","453_Callionymidae","Callionymidae","Repomucenus curvicornis","ネズミゴチ","C","99.86","LOW",NA,NA,NA,NA,"1499",26
+"Taxa0636","Perciformes","453_Callionymidae","Callionymidae","Repomucenus sp KAUM I 94720","トビヌメリと同じ属の種","C","100","HIGH",NA,NA,NA,NA,"117",1
+"Taxa0637","Perciformes","453_Callionymidae","Callionymidae","Repomucenus valenciennei","ハタタテヌメリ","C","100","HIGH",NA,NA,NA,NA,"65",2
+"Taxa0638","Perciformes","453_Callionymidae","Callionymidae","U98.5_Callionymus meridionalis gotu1","トビヌメリと同じ属の種と近縁な種","C","87.18","LOW","S","demersal",NA,70,"160",5
+"Taxa0639","Perciformes","453_Callionymidae","Callionymidae","U98.5_Calliurichthys izuensis gotu1","イズヌメリと近縁な種","C","91.32","LOW",NA,NA,NA,NA,"507",8
+"Taxa0640","Perciformes","453_Callionymidae","Callionymidae","U98.5_Repomucenus valenciennei gotu1","ハタタテヌメリと近縁な種","C","97.5","HIGH",NA,NA,NA,NA,"26",1
+"Taxa0641","Perciformes","453_Callionymidae","Callionymidae","U98.5_Repomucenus valenciennei gotu2","ハタタテヌメリと近縁な種","C","85.3","LOW",NA,NA,NA,NA,"25",1
+"Taxa0642","Perciformes","456_Odontobutidae","Odontobutidae","Odontobutis obscura","ドンコ","F","100","HIGH","F","benthopelagic",NA,NA,"1202",13
+"Taxa0643","Perciformes","456_Odontobutidae","Odontobutidae","Odontobutis potamophila","カラドンコ","Ex","99.7","HIGH","F","benthopelagic",NA,NA,"81",2
+"Taxa0644","Perciformes","457_Eleotridae","Eleotridae","Bostrychus zonatus","ジャノメハゼと同じ属の種","Ex","100","HIGH","FB","demersal",NA,NA,"87",1
+"Taxa0645","Perciformes","457_Eleotridae","Eleotridae","Eleotris oxycephala","カワアナゴ","C","100","HIGH","FBS","demersal",NA,NA,"73",1
+"Taxa0646","Perciformes","460_Gobiidae","Gobiidae","Acanthogobius flavimanus","マハゼ","C","99.99","HIGH","FBS","demersal",1,6,"22188",104
+"Taxa0647","Perciformes","460_Gobiidae","Gobiidae","Acanthogobius lactipes","アシシロハゼ","C","99.8","HIGH","FBS","demersal",NA,NA,"90",3
+"Taxa0648","Perciformes","460_Gobiidae","Gobiidae","Acentrogobius multifasciatus","セイタカスジハゼ","C","100","HIGH","BS","demersal",NA,NA,"89",2
+"Taxa0649","Perciformes","460_Gobiidae","Gobiidae","Acentrogobius pflaumii","モヨウハゼ","C","100","HIGH","BS","demersal",NA,NA,"157",5
+"Taxa0650","Perciformes","460_Gobiidae","Gobiidae","Acentrogobius virgatulus","スジハゼ","C","100","HIGH",NA,NA,NA,NA,"485",12
+"Taxa0651","Perciformes","460_Gobiidae","Gobiidae","Amblygobius phalaena","サラサハゼ","C","100","HIGH","S","reef-associated",NA,52,"31",1
+"Taxa0652","Perciformes","460_Gobiidae","Gobiidae","Asterropteryx semipunctata","ホシハゼ","C","100","HIGH","S","reef-associated",1,20,"254",4
+"Taxa0653","Perciformes","460_Gobiidae","Gobiidae","Astrabe lacticella","セジロハゼと同じ属の種","C","100","HIGH",NA,NA,NA,NA,"3380",29
+"Taxa0654","Perciformes","460_Gobiidae","Gobiidae","Barbuligobius boehlkei","イトヒゲモジャハゼ","C","100","HIGH","S","demersal",1,15,"81",2
+"Taxa0655","Perciformes","460_Gobiidae","Gobiidae","Bathygobius coalitus","クロヤハズハゼ","C","100","HIGH","S","reef-associated",0,5,"115",3
+"Taxa0656","Perciformes","460_Gobiidae","Gobiidae","Bathygobius cocosensis","スジクモハゼ","C","99.97","HIGH","BS","reef-associated",0,10,"694",18
+"Taxa0657","Perciformes","460_Gobiidae","Gobiidae","Bathygobius cyclopterus","ヤハズハゼ","C","100","HIGH","BS","reef-associated",0,20,"1671",7
+"Taxa0658","Perciformes","460_Gobiidae","Gobiidae","Bathygobius fuscus","クモハゼ","C","99.99","HIGH","FBS","reef-associated",0,6,"34513",171
+"Taxa0659","Perciformes","460_Gobiidae","Gobiidae","Bathygobius laddi","ヤミクモハゼ","C","99.4","HIGH","S","reef-associated",NA,NA,"86",2
+"Taxa0660","Perciformes","460_Gobiidae","Gobiidae","Bathygobius cotticeps","クサビハゼ","C","100","HIGH",NA,NA,NA,NA,"34",1
+"Taxa0661","Perciformes","460_Gobiidae","Gobiidae","Callogobius snelliusi","シュンカンハゼ","C","100","HIGH","S","reef-associated",3,15,"343",3
+"Taxa0662","Perciformes","460_Gobiidae","Gobiidae","Callogobius sp KAUM I 104414","ヒレグロフタスジハゼと同じ属の種","C","100","HIGH",NA,NA,NA,NA,"151",2
+"Taxa0663","Perciformes","460_Gobiidae","Gobiidae","Callogobius sp KAUM I 99028","ヒレグロフタスジハゼと同じ属の種","C","100","HIGH",NA,NA,NA,NA,"290",1
+"Taxa0664","Perciformes","460_Gobiidae","Gobiidae","Chaenogobius annularis","アゴハゼ","C","99.99","HIGH","F","demersal",NA,NA,"421791",471
+"Taxa0665","Perciformes","460_Gobiidae","Gobiidae","Chaenogobius gulosus","ドロメ","C","99.99","HIGH","BS","demersal",0,2,"109082",269
+"Taxa0666","Perciformes","460_Gobiidae","Gobiidae","Clariger cosmurus","セジロハゼ","C","99.96","HIGH","S","demersal",NA,NA,"7,607",89
+"Taxa0667","Perciformes","460_Gobiidae","Gobiidae","Clariger papillosus","ヒゲセジロハゼ","C","99.99","HIGH","S","demersal",NA,NA,"3823",54
+"Taxa0668","Perciformes","460_Gobiidae","Gobiidae","Clariger sp CBM ZF 18879","アワユキセジロハゼと同じ属の種","C","99.98","HIGH",NA,NA,NA,NA,"3811",48
+"Taxa0669","Perciformes","460_Gobiidae","Gobiidae","Clariger sp SHIROHIGE SEJIROHAZE","シロヒゲセジロハゼ","C","99.94","HIGH",NA,NA,NA,NA,"4206",63
+"Taxa0670","Perciformes","460_Gobiidae","Gobiidae","Clariger sp SHIROHIGE SEJIROHAZE Genetype2","アワユキセジロハゼと同じ属の種","C","99.99","HIGH",NA,NA,NA,NA,"5,233",68
+"Taxa0671","Perciformes","460_Gobiidae","Gobiidae","Drombus sp KUROKO HAZE","クロコハゼ","C","100","HIGH",NA,NA,NA,NA,"25",1
+"Taxa0672","Perciformes","460_Gobiidae","Gobiidae","Elacatinus oceanops","該当属名・和名なし","Ex","100","HIGH","S","reef-associated",1,45,"12",1
+"Taxa0673","Perciformes","460_Gobiidae","Gobiidae","Eviota abax","イソハゼ","C","99.99","HIGH","S","reef-associated",NA,NA,"39048",274
+"Taxa0674","Perciformes","460_Gobiidae","Gobiidae","Eviota guttata","イソハゼと同じ属の種","C","100","HIGH","S","reef-associated",1,15,"10",1
+"Taxa0675","Perciformes","460_Gobiidae","Gobiidae","Eviota korechika","シボリイソハゼ","C","100","HIGH","S","benthopelagic",0,60,"217",4
+"Taxa0676","Perciformes","460_Gobiidae","Gobiidae","Eviota masudai","アカイソハゼ","C","100","HIGH","S","reef-associated",2,64,"489",5
+"Taxa0677","Perciformes","460_Gobiidae","Gobiidae","Eviota punctulata","ミツバイソハゼ","C","99.4","HIGH","S","reef-associated",1,29,"602",17
+"Taxa0678","Perciformes","460_Gobiidae","Gobiidae","Favonigobius gymnauchen","ヒメハゼ","C","99.88","HIGH","FBS","reef-associated",NA,NA,"203",5
+"Taxa0679","Perciformes","460_Gobiidae","Gobiidae","Favonigobius sp CBM ZF 19041","ヒメハゼと同じ属の種","C","99.4","HIGH",NA,NA,NA,NA,"24",1
+"Taxa0680","Perciformes","460_Gobiidae","Gobiidae","Gnatholepis cauerensis","カタボシオオモンハゼ","C","99.4","HIGH","BS","reef-associated",2,50,"24",1
+"Taxa0681","Perciformes","460_Gobiidae","Gobiidae","Gobiodon quinquestrigatus KAUM I 63272","イチモンジコバンハゼと同じ属の種","C","100","HIGH","S","reef-associated",0,70,"16",1
+"Taxa0682","Perciformes","460_Gobiidae","Gobiidae","Gymnogobius breunigii","ビリンゴ","C","99.9","HIGH","FB","demersal",NA,NA,"524",6
+"Taxa0683","Perciformes","460_Gobiidae","Gobiidae","Gymnogobius cylindricus","キセルハゼ","C","100","LOW","BS","demersal",0,NA,"14",1
+"Taxa0684","Perciformes","460_Gobiidae","Gobiidae","Gymnogobius heptacanthus","ニクハゼ","C","99.85","HIGH","S","demersal",NA,NA,"1109",8
+"Taxa0685","Perciformes","460_Gobiidae","Gobiidae","Gymnogobius opperiens","シマウキゴリ","C","99.94","LOW","FBS","demersal",NA,NA,"1466",20
+"Taxa0686","Perciformes","460_Gobiidae","Gobiidae","Gymnogobius petschiliensis","スミウキゴリ","C","100","MODERATE","FBS","demersal",NA,NA,"147",3
+"Taxa0687","Perciformes","460_Gobiidae","Gobiidae","Gymnogobius castaneus","ジュズカケハゼ広域種群","C","100","LOW",NA,NA,NA,NA,"521",2
+"Taxa0688","Perciformes","460_Gobiidae","Gobiidae","Gymnogobius urotaenia","ウキゴリ","C","100","MODERATE","FBS","demersal",NA,NA,"378",5
+"Taxa0689","Perciformes","460_Gobiidae","Gobiidae","Inu ama","アマハゼ","C","99.92","HIGH",NA,NA,NA,NA,"1396",23
+"Taxa0690","Perciformes","460_Gobiidae","Gobiidae","Inu koma","コマハゼ","C","99.74","HIGH",NA,NA,NA,NA,"901",14
+"Taxa0691","Perciformes","460_Gobiidae","Gobiidae","Istigobius campbelli","クツワハゼ","C","99.97","LOW","S","demersal",3,14,"6410",96
+"Taxa0692","Perciformes","460_Gobiidae","Gobiidae","Istigobius campbelli KAUM I 66130","クツワハゼ鹿児島型","C","99.4","LOW","S","demersal",3,14,"91",4
+"Taxa0693","Perciformes","460_Gobiidae","Gobiidae","Istigobius hoshinonis","ホシノハゼ","C","100","HIGH","S","demersal",3,14,"408",3
+"Taxa0694","Perciformes","460_Gobiidae","Gobiidae","Lentipes armatus","ヨロイボウズハゼ","C","99.4","HIGH","FBS","benthopelagic",NA,NA,"134",2
+"Taxa0695","Perciformes","460_Gobiidae","Gobiidae","Leucopsarion petersii","シロウオ","C","99.97","LOW","FBS","demersal",1,NA,"711",22
+"Taxa0696","Perciformes","460_Gobiidae","Gobiidae","Luciogobius guttatus","ミミズハゼ","C","99.7","MODERATE","FBS","demersal",1,NA,"64",2
+"Taxa0697","Perciformes","460_Gobiidae","Gobiidae","Luciogobius parvulus","ナンセンミミズハゼ","C","99.9","HIGH","S","demersal",NA,NA,"433",6
+"Taxa0698","Perciformes","460_Gobiidae","Gobiidae","Luciogobius platycephalus","ヤリミミズハゼ","C","99.91","LOW","S","demersal",NA,NA,"439",13
+"Taxa0699","Perciformes","460_Gobiidae","Gobiidae","Luciogobius platycephalus Genetype1","ヤリミミズハゼ","C","99.85","HIGH","S","demersal",NA,NA,"118",4
+"Taxa0700","Perciformes","460_Gobiidae","Gobiidae","Luciogobius sp BAKE MIMIZU HAZE","バケミミズハゼ ","C","100","LOW",NA,NA,NA,NA,"27",1
+"Taxa0701","Perciformes","460_Gobiidae","Gobiidae","Paragobiodon kasaii","ダルマハゼと同じ属の種","Ex","100","HIGH","S","reef-associated",2,16,"29",1
+"Taxa0702","Perciformes","460_Gobiidae","Gobiidae","Paratrypauchen sp KAUM I 113116","アカウオと同じ属の種","Ex","100","MODERATE",NA,NA,NA,NA,"13",1
+"Taxa0703","Perciformes","460_Gobiidae","Gobiidae","Parkraemeria saltator","ギンポハゼと同じ属の種","C","99.4","HIGH","BS","benthopelagic",0,2,"43",1
+"Taxa0704","Perciformes","460_Gobiidae","Gobiidae","Priolepis latifascima","フトスジイレズミハゼ","C","100","HIGH","S","reef-associated",0,5,"52",2
+"Taxa0705","Perciformes","460_Gobiidae","Gobiidae","Priolepis semidoliata","イレズミハゼ","C","100","HIGH","S","reef-associated",2,30,"17",1
+"Taxa0706","Perciformes","460_Gobiidae","Gobiidae","Priolepis sp CBM ZF 12222","コクテンベンケイハゼと同じ属の種","Ex","100","LOW",NA,NA,NA,NA,"11",1
+"Taxa0707","Perciformes","460_Gobiidae","Gobiidae","Pseudogobius masago","マサゴハゼ","C","100","HIGH","B","demersal",NA,NA,"53",2
+"Taxa0708","Perciformes","460_Gobiidae","Gobiidae","Pterogobius elapoides","キヌバリ","C","99.99","LOW","S","demersal",NA,NA,"45808",256
+"Taxa0709","Perciformes","460_Gobiidae","Gobiidae","Pterogobius virgo","ニシキハゼ","C","100","HIGH","S","demersal",NA,NA,"265",2
+"Taxa0710","Perciformes","460_Gobiidae","Gobiidae","Pterogobius zonoleucus","チャガラ","C","99.94","HIGH","S","demersal",NA,NA,"20698",121
+"Taxa0711","Perciformes","460_Gobiidae","Gobiidae","Redigobius balteatus","タスキヒナハゼ","Ex","100","HIGH","FBS","benthopelagic",0,5,"76",1
+"Taxa0712","Perciformes","460_Gobiidae","Gobiidae","Redigobius bikolanus","ヒナハゼ","C","100","HIGH","FBS","benthopelagic",0,5,"127",1
+"Taxa0713","Perciformes","460_Gobiidae","Gobiidae","Rhinogobius spp.","ヨシノボリ属複合種群","C","100","LOW","FBS","demersal",NA,NA,"2962",31
+"Taxa0714","Perciformes","460_Gobiidae","Gobiidae","Rhinogobius flumineus","カワヨシノボリ","F","100","HIGH","F","benthopelagic",NA,NA,"455",1
+"Taxa0715","Perciformes","460_Gobiidae","Gobiidae","Rhinogobius giurinus","ゴクラクハゼ","C","99.9","HIGH","FBS","demersal",NA,NA,"147",6
+"Taxa0716","Perciformes","460_Gobiidae","Gobiidae","Sagamia geneionema","サビハゼ","C","99.93","HIGH","S","demersal",NA,NA,"14181",129
+"Taxa0717","Perciformes","460_Gobiidae","Gobiidae","Sicyopterus japonicus","ボウズハゼ","C","100","HIGH","FBS","demersal",NA,NA,"223",3
+"Taxa0718","Perciformes","460_Gobiidae","Gobiidae","Stenogobius sp TANEKAWA HAZE","タネカワハゼ","C","100","LOW",NA,NA,NA,NA,"35",1
+"Taxa0719","Perciformes","460_Gobiidae","Gobiidae","Stonogobiops xanthorhinica","ネジリンボウ","C","99.9","HIGH","S","reef-associated",3,45,"166",6
+"Taxa0720","Perciformes","460_Gobiidae","Gobiidae","Suruga fundicola","ヤミハゼ","D","100","HIGH","S","demersal",80,300,"21",1
+"Taxa0721","Perciformes","460_Gobiidae","Gobiidae","Taenioides cirratus","チワラスボ","C","100","LOW","FBS","demersal",0,6,"83",1
+"Taxa0722","Perciformes","460_Gobiidae","Gobiidae","Tridentiger bifasciatus","シモフリシマハゼ","C","100","LOW","FBS","demersal",NA,NA,"11",1
+"Taxa0723","Perciformes","460_Gobiidae","Gobiidae","Tridentiger obscurus","チチブ","C","100","LOW","FBS","demersal",NA,NA,"2,028",22
+"Taxa0724","Perciformes","460_Gobiidae","Gobiidae","Tridentiger trigonocephalus","アカオビシマハゼ","C","99.99","HIGH","FBS","demersal",NA,NA,"6914",61
+"Taxa0725","Perciformes","460_Gobiidae","Gobiidae","Trimma caesiura","ベニハゼ","C","100","MODERATE","S","reef-associated",NA,70,"49",1
+"Taxa0726","Perciformes","460_Gobiidae","Gobiidae","Trimma marinae","カスリモヨウベニハゼ","Ex","100","HIGH","S","reef-associated",9,26,"17",1
+"Taxa0727","Perciformes","460_Gobiidae","Gobiidae","Trypauchen vagina","テンジクアカウオ","Ex","100","MODERATE","BS","demersal",NA,NA,"27",1
+"Taxa0728","Perciformes","460_Gobiidae","Gobiidae","U98.5_Amoya moloanus","フタスジノボリハゼと同じ属の種と近縁な種","C","86.8","LOW",NA,NA,NA,NA,"24",1
+"Taxa0729","Perciformes","460_Gobiidae","Gobiidae","U98.5_Astrabe lacticella gotu1","セジロハゼと同じ属の種と近縁な種","C","92.4","LOW",NA,NA,NA,NA,"254",3
+"Taxa0730","Perciformes","460_Gobiidae","Gobiidae","U98.5_Bathygobius sp CBM ZF 17917","クモハゼ属の一種と近縁な種","C","91","LOW",NA,NA,NA,NA,"44",1
+"Taxa0731","Perciformes","460_Gobiidae","Gobiidae","U98.5_Chaenogobius annularis","アゴハゼと近縁な種","C","98.2","HIGH","F","demersal",NA,NA,"13",1
+"Taxa0732","Perciformes","460_Gobiidae","Gobiidae","U98.5_Clariger papillosus gotu1","ヒゲセジロハゼと近縁な種","C","92.1","LOW","S","demersal",NA,NA,"220",3
+"Taxa0733","Perciformes","460_Gobiidae","Gobiidae","U98.5_Clariger papillosus gotu2","ヒゲセジロハゼと近縁な種","C","95.2","LOW","S","demersal",NA,NA,"49",1
+"Taxa0734","Perciformes","460_Gobiidae","Gobiidae","U98.5_Eviota masudai gotu1","アカイソハゼと近縁な種","C","85.1","LOW","S","reef-associated",2,64,"687",4
+"Taxa0735","Perciformes","460_Gobiidae","Gobiidae","U98.5_Luciogobius grandis gotu1","オオミミズハゼと近縁な種","C","86.4","LOW","S","demersal",NA,NA,"1745",2
+"Taxa0736","Perciformes","460_Gobiidae","Gobiidae","U98.5_Luciogobius sp BAKE MIMIZU HAZE","バケミミズハゼ と近縁な種","C","97.6","LOW",NA,NA,NA,NA,"13",1
+"Taxa0737","Perciformes","460_Gobiidae","Gobiidae","U98.5_Luciogobius sp DAIDAI ISO MIMIZU HAZE gotu1","ダイダイイソミミズハゼと近縁な種","C","86.65","LOW",NA,NA,NA,NA,"240",2
+"Taxa0738","Perciformes","460_Gobiidae","Gobiidae","U98.5_Luciogobius sp MIZUHIKI NAGA MIMIZU HAZE gotu1","ミズヒキナガミミズハゼと近縁な種","C","86.5","LOW",NA,NA,NA,NA,"18",1
+"Taxa0739","Perciformes","460_Gobiidae","Gobiidae","U98.5_Luciogobius sp MIZUHIKI NAGA MIMIZU HAZE gotu2","ミズヒキナガミミズハゼと近縁な種","C","85","LOW",NA,NA,NA,NA,"12",1
+"Taxa0740","Perciformes","460_Gobiidae","Gobiidae","U98.5_Pterogobius zacalles","リュウグウハゼと近縁な種","C","83.1","LOW","S","demersal",5,30,"92",1
+"Taxa0741","Perciformes","460_Gobiidae","Gobiidae","Valenciennea longipinnis","サザナミハゼ","C","100","HIGH","S","reef-associated",2,30,"16",1
+"Taxa0742","Perciformes","460_Gobiidae","Gobiidae","Yongeichthys criniger","ツムギハゼ","Ex","100","HIGH","BS","demersal",NA,NA,"117",2
+"Taxa0743","Perciformes","461_Microdesmidae","Microdesmidae","U98.5_Gunnellichthys monostigma","クロエリオオメワラスボと近縁な種","C","88","LOW","S","reef-associated",1,20,"71",1
+"Taxa0744","Perciformes","462_Ptereleotridae","Ptereleotridae","Parioglossus dotui","サツキハゼ","C","99.94","HIGH","BS","benthopelagic",0,5,"591",10
+"Taxa0745","Perciformes","462_Ptereleotridae","Ptereleotridae","Ptereleotris hanae","ハナハゼ","C","99.4","HIGH","S","reef-associated",3,50,"57",2
+"Taxa0746","Perciformes","462_Ptereleotridae","Ptereleotridae","Ptereleotris microlepis","イトマンクロユリハゼ","C","100","HIGH","S","reef-associated",1,50,"14",1
+"Taxa0747","Perciformes","462_Ptereleotridae","Ptereleotridae","U98.5_Ptereleotris hanae","ハナハゼと近縁な種","C","98.2","HIGH","S","reef-associated",3,50,"33",1
+"Taxa0748","Perciformes","465_Ephippidae","Ephippidae","Platax orbicularis","ナンヨウツバメウオ","C","100","MODERATE","BS","reef-associated",5,30,"157",2
+"Taxa0749","Perciformes","465_Ephippidae","Ephippidae","Platax teira","ツバメウオ","C","100","LOW","S","reef-associated",3,25,"13799",13
+"Taxa0750","Perciformes","465_Ephippidae","Ephippidae","U98.5_Platax teira gotu1","ゼブラ・バットフィッシュと同じ属の種と近縁な種","C","96.4","LOW","S","reef-associated",3,25,"50",1
+"Taxa0751","Perciformes","465_Ephippidae","Ephippidae","U98.5_Platax teira gotu2","ゼブラ・バットフィッシュと同じ属の種と近縁な種","C","97.6","LOW","S","reef-associated",3,25,"24",1
+"Taxa0752","Perciformes","467_Siganidae","Siganidae","Siganus fuscescens","アイゴ","C","100","LOW","BS","reef-associated",1,50,"601,049",407
+"Taxa0753","Perciformes","467_Siganidae","Siganidae","Siganus spinus","アミアイゴ","C","99.95","MODERATE","S","reef-associated",1,50,"830",12
+"Taxa0754","Perciformes","470_Acanthuridae","Acanthuridae","Acanthurus dussumieri","カンランハギ","C","99.91","HIGH","S","reef-associated",4,131,"765",13
+"Taxa0755","Perciformes","470_Acanthuridae","Acanthuridae","Acanthurus gahhm","クロモンツキ","C","99.4","LOW","S","reef-associated",1,40,"209",3
+"Taxa0756","Perciformes","470_Acanthuridae","Acanthuridae","Acanthurus maculiceps","イレズミニザ","C","100","HIGH","S","reef-associated",1,15,"12",1
+"Taxa0757","Perciformes","470_Acanthuridae","Acanthuridae","Acanthurus mata","ヒラニザ","C","99.4","MODERATE","S","reef-associated",5,100,"102",1
+"Taxa0758","Perciformes","470_Acanthuridae","Acanthuridae","Acanthurus nigrofuscus","ナガニザ","C","100","HIGH","S","reef-associated",0,25,"54",1
+"Taxa0759","Perciformes","470_Acanthuridae","Acanthuridae","Acanthurus olivaceus","モンツキハギ","C","100","HIGH","S","reef-associated",3,46,"21",1
+"Taxa0760","Perciformes","470_Acanthuridae","Acanthuridae","Acanthurus triostegus","シマハギ","C","99.62","HIGH","S","reef-associated",0,90,"660",11
+"Taxa0761","Perciformes","470_Acanthuridae","Acanthuridae","Ctenochaetus striatus","サザナミハギ","C","100","HIGH","S","reef-associated",1,35,"47",2
+"Taxa0762","Perciformes","470_Acanthuridae","Acanthuridae","Naso tuberosus","トサカハギ","C","100","MODERATE","BS","reef-associated",NA,NA,"29",1
+"Taxa0763","Perciformes","470_Acanthuridae","Acanthuridae","Naso unicornis","テングハギ","C","99.4","LOW","S","reef-associated",1,180,"532",4
+"Taxa0764","Perciformes","470_Acanthuridae","Acanthuridae","Naso vlamingii","サザナミトサカハギ","C","100","LOW","S","reef-associated",1,50,"18",1
+"Taxa0765","Perciformes","470_Acanthuridae","Acanthuridae","Prionurus scalprum","ニザダイ","C","99.98","HIGH","S","reef-associated",NA,NA,"101318",250
+"Taxa0766","Perciformes","470_Acanthuridae","Acanthuridae","Zebrasoma veliferum","ヒレナガハギ","C","100","MODERATE","S","reef-associated",1,45,"19",1
+"Taxa0767","Perciformes","472_Sphyraenidae","Sphyraenidae","Sphyraena japonica","ヤマトカマス","C","100","HIGH","S","pelagic-neritic",NA,NA,"2294",21
+"Taxa0768","Perciformes","472_Sphyraenidae","Sphyraenidae","Sphyraena obtusata","タイワンカマス","C","100","HIGH","BS","reef-associated",5,200,"794",14
+"Taxa0769","Perciformes","472_Sphyraenidae","Sphyraenidae","Sphyraena pinguis Genetype1","アカカマス 遺伝型1","C","99.96","HIGH","S","pelagic-neritic",3,6,"6,961",61
+"Taxa0770","Perciformes","472_Sphyraenidae","Sphyraenidae","Sphyraena pinguis Genetype2","アカカマス 遺伝型2","C","100","LOW","S","pelagic-neritic",3,6,"130",2
+"Taxa0771","Perciformes","472_Sphyraenidae","Sphyraenidae","U98.5_Sphyraena obtusata gotu1","タイワンカマスと近縁な種","C","94.9","MODERATE","BS","reef-associated",5,200,"65",2
+"Taxa0772","Perciformes","473_Gempylidae","Gempylidae","Diplospinus multistriatus","ホソクロタチ","D","99.85","HIGH","S","benthopelagic",50,1000,"265",4
+"Taxa0773","Perciformes","473_Gempylidae","Gempylidae","Nealotus tripes","フウライカマス","D","100","HIGH","S","bathypelagic",914,1646,"652",11
+"Taxa0774","Perciformes","473_Gempylidae","Gempylidae","Rexea bengalensis","オオメカゴカマスと同じ属の種","D","100","HIGH","BS","benthopelagic",143,820,"241",3
+"Taxa0775","Perciformes","473_Gempylidae","Gempylidae","Ruvettus pretiosus","バラムツ","D","100","HIGH","S","benthopelagic",100,800,"180",1
+"Taxa0776","Perciformes","475_Scombridae","Scombridae","Acanthocybium solandri","カマスサワラ","C","100","LOW","S","pelagic-oceanic",0,20,"26",1
+"Taxa0777","Perciformes","475_Scombridae","Scombridae","Auxis rochei","マルソウダ","C","99.86","MODERATE","BS","pelagic-neritic",10,NA,"10086",31
+"Taxa0778","Perciformes","475_Scombridae","Scombridae","Euthynnus affinis","スマ","C","100","MODERATE","S","pelagic-neritic",0,200,"353",8
+"Taxa0779","Perciformes","475_Scombridae","Scombridae","Katsuwonus pelamis","カツオ","P","99.98","MODERATE","S","pelagic-oceanic",0,260,"6186",26
+"Taxa0780","Perciformes","475_Scombridae","Scombridae","Scomber spp.","マサバ・ゴマサバ複合種群","C","99.98","LOW","S","pelagic-neritic",87,200,"100318",231
+"Taxa0781","Perciformes","475_Scombridae","Scombridae","Scomber scombrus","タイセイヨウサバ","Ex","100","HIGH","BS","pelagic-neritic",0,1000,"1014",5
+"Taxa0782","Perciformes","475_Scombridae","Scombridae","Scomberomorus niphonius","サワラ","C","100","HIGH","S","pelagic-neritic",0,200,"1,702",15
+"Taxa0783","Perciformes","475_Scombridae","Scombridae","Scomberomorus sinensis","ウシサワラ","P","100","HIGH","FBS","pelagic-neritic",10,NA,"71",1
+"Taxa0784","Perciformes","475_Scombridae","Scombridae","Thunnus alalunga","ビンナガ","P","100","LOW","S","pelagic-oceanic",0,600,"3,837",12
+"Taxa0785","Perciformes","475_Scombridae","Scombridae","Thunnus albacares","キハダ","P","99.96","LOW","BS","pelagic-oceanic",1,250,"928",14
+"Taxa0786","Perciformes","476_Xiphiidae","Xiphiidae","Xiphias gladius","メカジキ","P","100","HIGH","S","pelagic-oceanic",0,800,"28",1
+"Taxa0787","Perciformes","477_Istiophoridae","Istiophoridae","Istiophoridae gen. sp.","マカジキ科複合種群","P","100","LOW","S","pelagic-oceanic",0,200,"760",6
+"Taxa0788","Perciformes","479_Centrolophidae","Centrolophidae","Psenopsis anomala","イボダイ","C","100","HIGH","S","benthopelagic",0,370,"16",1
+"Taxa0789","Perciformes","479_Centrolophidae","Centrolophidae","Psenopsis shojimai","ニセイボダイ","C","100","LOW","S","benthopelagic",NA,NA,"97",2
+"Taxa0790","Perciformes","480_Nomeidae","Nomeidae","Psenes pellucidus","ハナビラウオ","P","100","HIGH","S","bathypelagic",NA,1000,"24",1
+"Taxa0791","Perciformes","481_Ariommatidae","Ariommatidae","Ariomma lurida","オオメメダイ","D","100","LOW",NA,NA,NA,NA,"69",1
+"Taxa0792","Perciformes","486_Osphronemidae","Osphronemidae","Trichogaster fasciata","パール・グラミィと同じ属の種","Ex","100","HIGH","F","benthopelagic",NA,NA,"288",3
+"Taxa0793","Perciformes","486_Osphronemidae","Osphronemidae","Trichopsis vittata","クローキンググーラミィ","Ex","99.4","HIGH","F","demersal",NA,NA,"26",1
+"Taxa0794","Perciformes","488_Caproidae","Caproidae","Antigonia rubicunda","ミナミヒシダイ","D","100","HIGH","S","bathydemersal",125,340,"167",1
+"Taxa0795","Pleuronectiformes","492_Paralichthyidae","Paralichthyidae","Paralichthys olivaceus","ヒラメ","C","99.94","HIGH","S","demersal",10,200,"17059",163
+"Taxa0796","Pleuronectiformes","492_Paralichthyidae","Paralichthyidae","Pseudorhombus cinnamoneus","ガンゾウビラメ","C","100","HIGH","S","demersal",20,164,"13",1
+"Taxa0797","Pleuronectiformes","492_Paralichthyidae","Paralichthyidae","Pseudorhombus pentophthalmus","タマガンゾウビラメ","C","99.4","HIGH","S","demersal",38,150,"17",1
+"Taxa0798","Pleuronectiformes","493_Pleuronectidae","Pleuronectidae","Eopsetta grigorjewi","ムシガレイ","C","100","HIGH","S","demersal",60,1325,"401",1
+"Taxa0799","Pleuronectiformes","493_Pleuronectidae","Pleuronectidae","Platichthys stellatus","ヌマガレイ","Ex","100","LOW",NA,NA,NA,NA,"64",1
+"Taxa0800","Pleuronectiformes","493_Pleuronectidae","Pleuronectidae","Kareius bicoloratus","イシガレイ","C","99.92","MODERATE","FBS","demersal",NA,150,"995",8
+"Taxa0801","Pleuronectiformes","493_Pleuronectidae","Pleuronectidae","Limanda aspera","マガレイと同じ属の種","Ex","100","LOW","S","demersal",0,700,"13",1
+"Taxa0802","Pleuronectiformes","493_Pleuronectidae","Pleuronectidae","Pleuronichthys cornutus","メイタガレイ","C","100","HIGH","S","demersal",2,170,"537",6
+"Taxa0803","Pleuronectiformes","493_Pleuronectidae","Pleuronectidae","Pleuronichthys japonicus","ナガレメイタガレイ","C","100","HIGH","S","benthopelagic",40,143,"564",4
+"Taxa0804","Pleuronectiformes","493_Pleuronectidae","Pleuronectidae","Pseudopleuronectes yokohamae","マコガレイ","C","99.92","LOW","S","demersal",NA,NA,"434",8
+"Taxa0805","Pleuronectiformes","493_Pleuronectidae","Pleuronectidae","Reinhardtius hippoglossoides","カラスガレイ","C","99.4","LOW","S","benthopelagic",1,2200,"26",1
+"Taxa0806","Pleuronectiformes","494_Bothidae","Bothidae","Bothus pantherinus","トゲダルマガレイ","C","100","HIGH","S","reef-associated",3,150,"48",1
+"Taxa0807","Pleuronectiformes","494_Bothidae","Bothidae","Laeops kitaharae","ヤリガレイ","D","100","LOW","S","demersal",70,300,"37",1
+"Taxa0808","Pleuronectiformes","494_Bothidae","Bothidae","Neolaeops microphthalmus","オオクチヤリガレイ","D","99.4","HIGH","S","bathydemersal",275,400,"35",1
+"Taxa0809","Pleuronectiformes","501_Soleidae","Soleidae","Aseraggodes kobensis","トビササウシノシタ","C","100","HIGH","S","demersal",80,100,"347",7
+"Taxa0810","Pleuronectiformes","501_Soleidae","Soleidae","Brachirus siamensis","ミナミシマウシノシタ属の一種","Ex","100","HIGH","F","demersal",NA,NA,"433",4
+"Taxa0811","Pleuronectiformes","501_Soleidae","Soleidae","Dexillus muelleri","該当属名・和名なし","Ex","100","HIGH","S","demersal",NA,NA,"252",2
+"Taxa0812","Pleuronectiformes","501_Soleidae","Soleidae","Heteromycteris japonicus","ササウシノシタ","C","100","LOW","S","demersal",NA,NA,"316",15
+"Taxa0813","Pleuronectiformes","501_Soleidae","Soleidae","Pseudaesopia japonica","セトウシノシタ","C","100","HIGH","S","demersal",1,68,"81",1
+"Taxa0814","Pleuronectiformes","501_Soleidae","Soleidae","Zebrias quagga","ツノウシノシタと同じ属の種","C","100","LOW","S","demersal",NA,NA,"469",9
+"Taxa0815","Pleuronectiformes","502_Cynoglossidae","Cynoglossidae","Cynoglossus interruptus","ゲンコ","C","100","HIGH","S","demersal",50,150,"50",1
+"Taxa0816","Pleuronectiformes","502_Cynoglossidae","Cynoglossidae","Cynoglossus joyneri","アカシタビラメ","C","99.4","HIGH","S","demersal",20,70,"12",1
+"Taxa0817","Pleuronectiformes","502_Cynoglossidae","Cynoglossidae","Cynoglossus puncticeps","コウライアカシタビラメと同じ属の種","C","100","HIGH","FBS","demersal",1,140,"133",1
+"Taxa0818","Pleuronectiformes","502_Cynoglossidae","Cynoglossidae","Paraplagusia japonica","クロウシノシタ","C","100","HIGH","S","demersal",20,65,"273",8
+"Taxa0819","Pleuronectiformes","502_Cynoglossidae","Cynoglossidae","Symphurus cf microrhynchus","ウシノシタと同じ属の種","C","100","HIGH",NA,NA,NA,NA,"44",2
+"Taxa0820","Tetraodontiformes","504_Triacanthidae","Triacanthidae","Triacanthus biaculeatus","ギマ","C","99.96","HIGH","BS","demersal",NA,60,"6052",33
+"Taxa0821","Tetraodontiformes","505_Balistidae","Balistidae","Canthidermis maculata","アミモンガラ","C","100","LOW","S","reef-associated",1,110,"716",4
+"Taxa0822","Tetraodontiformes","505_Balistidae","Balistidae","Melichthys niger","ソロイモンガラ","C","100","LOW","S","reef-associated",0,75,"50",1
+"Taxa0823","Tetraodontiformes","505_Balistidae","Balistidae","Rhinecanthus rectangulus","タスキモンガラ","C","100","HIGH","S","reef-associated",10,20,"97",1
+"Taxa0824","Tetraodontiformes","505_Balistidae","Balistidae","Xanthichthys ringens","ホシモンガラと同じ属の種","C","100","LOW","S","reef-associated",25,80,"15",1
+"Taxa0825","Tetraodontiformes","506_Monacanthidae","Monacanthidae","Aluterus scriptus","ソウシハギ","C","100","LOW","S","reef-associated",3,120,"16",1
+"Taxa0826","Tetraodontiformes","506_Monacanthidae","Monacanthidae","Brachaluteres ulvarum","アオオサハギ","C","100","HIGH","S","reef-associated",25,30,"249",4
+"Taxa0827","Tetraodontiformes","506_Monacanthidae","Monacanthidae","Cantherhines pullus","センウマヅラハギ属の一種","C","100","LOW","S","reef-associated",3,50,"48",1
+"Taxa0828","Tetraodontiformes","506_Monacanthidae","Monacanthidae","Paraluteres prionurus","ノコギリハギ","C","100","HIGH","S","reef-associated",1,25,"114",1
+"Taxa0829","Tetraodontiformes","506_Monacanthidae","Monacanthidae","Paramonacanthus choirocephalus","ヨソギ属の一種","C","100","LOW","S","demersal",3,25,"124",2
+"Taxa0830","Tetraodontiformes","506_Monacanthidae","Monacanthidae","Paramonacanthus pusillus","ツラナガハギ","C","100","HIGH","S","demersal",28,79,"599",3
+"Taxa0831","Tetraodontiformes","506_Monacanthidae","Monacanthidae","Rudarius ercodes","アミメハギ","C","100","HIGH","S","reef-associated",NA,NA,"2274",31
+"Taxa0832","Tetraodontiformes","506_Monacanthidae","Monacanthidae","Stephanolepis cirrhifer","カワハギ","C","99.98","MODERATE","S","demersal",NA,NA,"8233",108
+"Taxa0833","Tetraodontiformes","506_Monacanthidae","Monacanthidae","Thamnaconus modestus","ウマヅラハギ","C","100","HIGH","S","reef-associated",NA,NA,"1475",21
+"Taxa0834","Tetraodontiformes","506_Monacanthidae","Monacanthidae","Thamnaconus tessellatus","ゴイシウマヅラハギ","D","98.8","LOW","S","bathydemersal",230,600,"27",1
+"Taxa0835","Tetraodontiformes","507_Ostraciidae","Ostraciidae","Lactoria cornuta","コンゴウフグ","C","100","HIGH","BS","reef-associated",1,100,"97",1
+"Taxa0836","Tetraodontiformes","507_Ostraciidae","Ostraciidae","Lactoria diaphana","ウミスズメ","C","100","HIGH","BS","reef-associated",8,50,"1000",4
+"Taxa0837","Tetraodontiformes","507_Ostraciidae","Ostraciidae","Ostracion cubicus","ミナミハコフグ","C","99.99","LOW","S","reef-associated",1,280,"27,258",187
+"Taxa0838","Tetraodontiformes","507_Ostraciidae","Ostraciidae","U98.5_Tetrosomus concatenatus gotu1","ハマフグと近縁な種","C","94.5","LOW","S","reef-associated",NA,60,"5427",6
+"Taxa0839","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Arothron hispidus","サザナミフグ","C","99.85","HIGH","BS","reef-associated",1,50,"314",4
+"Taxa0840","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Canthigaster janthinoptera","シボリキンチャクフグ","C","100","LOW","S","reef-associated",1,30,"111",2
+"Taxa0841","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Canthigaster rivulata","キタマクラ","C","99.98","MODERATE","S","reef-associated",0,350,"23474",221
+"Taxa0842","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Canthigaster rostrata","シャープノーズ・パッファー","C","100","MODERATE","S","reef-associated",1,40,"155",3
+"Taxa0843","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Dichotomyctere nigroviridis","ミドリフグ","Ex","100","MODERATE","FB","demersal",NA,NA,"87",1
+"Taxa0844","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Lagocephalus gloveri","クロサバフグ","C","100","HIGH","S","demersal",NA,NA,"132",2
+"Taxa0845","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Lagocephalus lagocephalus","クマサカフグ","C","100","HIGH","S","benthopelagic",10,476,"20",1
+"Taxa0846","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Lagocephalus sceleratus","センニンフグ","C","100","HIGH","S","reef-associated",18,100,"765",1
+"Taxa0847","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Lagocephalus spadiceus","シロサバフグ","C","100","LOW","BS","demersal",NA,NA,"4469",22
+"Taxa0848","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Takifugu fasciatus","コモンダマシと同じ属の種","C","99.99","LOW",NA,NA,NA,NA,"61,716",87
+"Taxa0849","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Takifugu niphobles","クサフグ","C","99.66","LOW","S","demersal",NA,NA,"969,734",525
+"Taxa0850","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Takifugu orbimaculatus","コモンダマシと同じ属の種","C","99.4","LOW","F","demersal",NA,NA,"97",1
+"Taxa0851","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Takifugu rubripes","トラフグ","C","100","LOW","FBS","demersal",NA,NA,"467",5
+"Taxa0852","Tetraodontiformes","509_Tetraodontidae","Tetraodontidae","Takifugu stictonotus","ゴマフグ","C","100","LOW","S","demersal",NA,NA,"62218",96
+"Taxa0853","Tetraodontiformes","510_Diodontidae","Diodontidae","Chilomycterus reticulatus","イシガキフグ","C","100","LOW","S","reef-associated",20,100,"154",4
+"Taxa0854","Tetraodontiformes","510_Diodontidae","Diodontidae","Diodon holocanthus","ハリセンボン","C","100","LOW","S","reef-associated",2,200,"930",3
+"Taxa0855","Tetraodontiformes","511_Molidae","Molidae","Mola mola","マンボウ","C","100","MODERATE","S","pelagic-oceanic",30,480,"76",2
+"Taxa0856","Lophiiformes","228_Antennariidae","Antennariidae","Antennatus nummifer","ムチカエルアンコウ","C","100","HIGH","S","reef-associated",0,293,"826",1
