@@ -2,10 +2,6 @@
 #### Boso Peninsula project
 #### Temperature dependence of fish interactions
 #### - Species-specific pattern
-####
-#### 2021.10.13 Ushio
-#### 2022.05.17 GAM added, Ushio (R4.1.2)
-#### 2022.11.10 Ushio (R4.2.1)
 #### 2022.12.14 GAM revised, Ushio
 ####
 
@@ -13,10 +9,6 @@
 
 # Load workspace
 load("../09_StatisticalFishSpOut/09_StatisticalFishSpOut.RData")
-
-# Load saved objects
-# gamm_sums <- readRDS("../08_StatisticalGeneralOut/gamm_summaries.obj")
-# pred_all <- readRDS("../08_StatisticalGeneralOut/pred_all.obj")
 
 # Load tidyverse
 library(tidyverse); packageVersion("tidyverse") # 1.3.2, 2022.11.11

@@ -14,7 +14,7 @@ header-includes:
 <center>
 
 ![
-**Figure 1 | Study sites and overall dynamics of environmental DNA (eDNA) concentrations and the number of fish species detected.** (**a**) Study sites in the Boso Peninsula. The study sites are influenced by the Kuroshio current (red arrow; left panel) and distributed along the coastal line in the Boso Peninsula (right panel). (**b**) Total eDNA copy numbers estimated by quantitative eDNA metabarcoding (see Methods for detail). (**c**) Fish species richness detected by eDNA metabarcoding. Points and lines indicate raw values and LOESS smoothing lines, respectively. The line color indicates the sampling site. Warmer colors generally correspond to study sites with a higher mean water temperature. For the high resolution figure, see https://bit.ly/3uUZKHE.
+**Figure 1 | Study sites and overall dynamics of environmental DNA (eDNA) concentrations and the number of fish species detected.** (**a**) Study sites in the Boso Peninsula. The study sites are influenced by the Kuroshio current (red arrow; left panel) and distributed along the coastal line in the Boso Peninsula (right panel). (**b**) Total eDNA copy numbers estimated by quantitative eDNA metabarcoding (see Methods for detail). (**c**) Fish species richness detected by eDNA metabarcoding. Points and lines indicate raw values and LOESS smoothing lines, respectively. The line color indicates the sampling site. Warmer colors generally correspond to study sites with a higher mean water temperature.
 ](0_FormattedFigs/Figure_01.pdf){width=80%}
 
 </center>
@@ -23,7 +23,7 @@ header-includes:
 <center>
 
 ![
-**Figure 2 | Interaction networks of the fish community in the Boso Peninsula coastal region.** The “average” interaction network reconstructed by quantifying information transfer between eDNA time series. Transfer entropy (TE) was quantified by leveraging all eDNA time series from multiple study sites to draw this network. Only information flow larger than 80% quantiles (i.e., strong interaction) was shown as interspecific interactions for visualization. The edge color indicates scaled transfer entropy values, and fish illustration colors represent their ecology (e.g., habitat and feeding behavior). Node colors and node sizes indicate the fish family and fish abundance (total eDNA copy numbers of the fish species), respectively. For the high resolution figure, see https://bit.ly/3uUZKHE.
+**Figure 2 | Interaction networks of the fish community in the Boso Peninsula coastal region.** The “average” interaction network reconstructed by quantifying information transfer between eDNA time series. Transfer entropy (TE) was quantified by leveraging all eDNA time series from multiple study sites to draw this network. Only information flow larger than 80% quantiles (i.e., strong interaction) was shown as interspecific interactions for visualization. TE values were scaled from 0 to 10. The edge color indicates scaled transfer entropy values, and fish illustration colors represent their ecology (e.g., habitat and feeding behavior). Node colors and node sizes indicate the fish family and fish abundance (total eDNA copy numbers of the fish species), respectively.
 ](0_FormattedFigs/Figure_02.jpg){width=80%}
 
 </center>

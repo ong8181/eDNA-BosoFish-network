@@ -1,13 +1,7 @@
 ####
 #### Boso Peninsula project
 #### Format figures
-#### 2021.10.13 Ushio
-#### 2021.10.29 Ushio
-#### 2021.11.10 Ushio
-#### 2022.04.01 Ushio
-#### 2022.05.17 Ushio (R4.1.2)
-#### 2022.11.11 Ushio (R4.2.1)
-#### 2022.12.14 Ushio (R4.2.1)
+#### 2023.04.13 Ushio (R4.2.3)
 ####
 
 #setwd("FigCode/")
@@ -49,7 +43,7 @@ Fig_CorPairs <- readRDS(paste0(fig_folder1, "/Fig_CorPairs.obj"))
 
 # UIC-based network structure
 #Fig_NetworkAll_raw <- readRDS(paste0(fig_folder1, "/Fig_NetworkAll.obj")) # Vector version
-Fig_NetworkAll <- image_read("0_Illustrations/FishNetworkAll_pls_Fish2.jpg") # Image version
+Fig_NetworkAll <- image_read("0_Illustrations/FishNetworkAll_pls_Fish3.jpg") # Image version
 Fig_NetworkAll <- ggdraw() + draw_image(Fig_NetworkAll)
 Fig_NetworkProp <- readRDS(paste0(fig_folder1, "/Fig_NetworkProp.obj"))
 

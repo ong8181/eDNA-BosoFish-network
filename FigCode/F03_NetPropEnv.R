@@ -1,11 +1,6 @@
 ####
 #### Boso Peninsula project
 #### No. 4 Figure: Environmental variables and network patterns
-#### 2021.10.13 Ushio
-#### 2021.10.29 Ushio (R4.1.0)
-#### 2021.11.10 Ushio (R4.1.2)
-#### 2022.11.10 Ushio (R4.2.1)
-#### 2022.11.14 Ushio: Do SMA
 #### 2022.12.14 GAM revised, Ushio
 #### R 4.2.1
 ####

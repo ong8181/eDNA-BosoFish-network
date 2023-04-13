@@ -1,7 +1,6 @@
 ####
 #### Boso Peninsula project
 #### Load fish images
-#### 2022.04.01 Ushio (R4.1.2)
 #### 2022.11.11 Ushio (R4.2.1)
 ####
 

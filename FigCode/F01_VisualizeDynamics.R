@@ -1,9 +1,6 @@
 ####
 #### Boso Peninsula project
 #### No.1: Visualize eDNA dynamics
-#### 2021.10.13 Ushio
-#### 2021.11.10 Ushio
-#### 2022.11.10 Ushio (R4.2.1)
 ####
 
 #setwd("FigCode/")
@@ -151,14 +148,10 @@ sample_df$total_div <- rowSums(asv_df_conv > 0)
 ## Quant-IT (log)
 dna_lm <- sample_df %>%
   smatr::sma("total_dna_per_ml + 0.5 ~ water_temp", data = ., log = "y")
-  #lm(log10(total_dna_per_ml + 0.5) ~ water_temp, data = .)
 dna_lm_slope <- dna_lm$coef[[1]][2,1]
 dna_lm_intct <- dna_lm$coef[[1]][1,1]
-#dna_lm_slope <- dna_lm$coef[[2]]
-#dna_lm_intct <- dna_lm$coef[[1]]
 div_lm <- sample_df %>%
   smatr::sma("total_div ~ water_temp", data = .)
-  #lm(total_div ~ water_temp, data = .)
 div_lm_slope <- div_lm$coef[[1]][2,1]
 div_lm_intct <- div_lm$coef[[1]][1,1]
 

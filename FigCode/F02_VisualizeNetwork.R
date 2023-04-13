@@ -1,8 +1,6 @@
 ####
 #### Boso Peninsula project
 #### No.2: Visualize fish interaction network (all sites combined)
-#### 2021.10.13 Ushio
-#### 2021.11.10 Ushio
 #### 2022.11.10 Ushio
 ####
 
@@ -39,11 +37,6 @@ palette_c4a <- c4a("palette36", 28)
 #------------------------------------------#
 # Visualize each fish dynamics
 #------------------------------------------#
-# Original data
-#taxa_vertices
-# Select color palettes
-#c4a_gui()
-
 # Convert jp name to en name
 tax_tbl$scientific_name
 tax_tbl$common_jp_name
@@ -88,7 +81,6 @@ gn3 <- gn1 +
         legend.key.width = grid::unit(0.6, "cm"),
         legend.text = element_text(size = 7),
         plot.title = element_text(vjust = 8)) +
-  #theme(plot.background = element_rect("white")) +
   NULL
 #gn3
 ggsave(file = sprintf("%s/JPG_FishNetworkAll.jpg", fig_folder1),
@@ -125,7 +117,6 @@ ggsave(file = sprintf("%s/PDF_FishNetworkProperty.pdf", fig_folder1),
 # Save R objects
 saveRDS(gn3, sprintf("%s/Fig_NetworkAll.obj", fig_folder1))
 saveRDS(p_list, sprintf("%s/Fig_NetworkProp.obj", fig_folder1))
-#readRDS(sprintf("%s/Fig_NetworkAll.obj", fig_folder1))
 
 # Save supplementary materials
 ## Output TE matrix for check
