@@ -1,5 +1,5 @@
-# Analysis codes for Ushio et al. (2022) "Temperature sensitivity of interspecific interaction strength of coastal marine fish communities"
-This repository contains analysis codes to reproduce the results in Ushio et al. (2022) "Temperature sensitivity of interspecific interaction strength of coastal marine fish communities" _bioRxiv_ https://doi.org/10.1101/2022.06.02.494625
+# Analysis codes for Ushio et al. (2023) "Temperature sensitivity of interspecific interaction strength of coastal marine fish communities"
+This repository contains analysis codes to reproduce the results in Ushio et al. (2023) "Temperature sensitivity of interspecific interaction strength of coastal marine fish communities," Reviewed preprint in _eLife_ https://doi.org/10.7554/eLife.85795.1. _bioRxiv_ version is here: https://doi.org/10.1101/2022.06.02.494625.
 
 # License
 See LICENSE
