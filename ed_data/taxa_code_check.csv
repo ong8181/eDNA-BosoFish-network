@@ -1,0 +1,857 @@
+﻿Taxa_ID,Family,Scientific Name,Common Name,Coastal fish,Ave. Identity,Ave. LOD,Water area,Habitat,DepthS,DepthD
+Taxa0001,001_Myxinidae,Eptatretus atami,クロヌタウナギ,D,100,MODERATE,S,bathydemersal,300,536
+Taxa0002,001_Myxinidae,U98.5_Myxine garmani,ホソヌタウナギと近縁な種,D,90,MODERATE,S,bathydemersal,500,800
+Taxa0003,002_Petromyzontidae,Lethenteron spN,カワヤツメと同じ属の種,F,100,MODERATE,NA,NA,NA,NA
+Taxa0004,037_Somniosidae,Somniosus microcephalus,ニシオンデンザメ,D,100,MODERATE,BS,benthopelagic,0,2200
+Taxa0005,040_Squatinidae,Squatina japonica,カスザメ,C,100,HIGH,S,demersal,NA,NA
+Taxa0006,048_Rajidae,Amblyraja georgiana,ミツボシカスベと同じ属の種,D,99.4,LOW,S,bathydemersal,20,350
+Taxa0007,048_Rajidae,Bathyraja kincaidii,チヒロカスベと同じ属の種,D,99.4,LOW,NA,NA,NA,NA
+Taxa0008,048_Rajidae,Bathyraja matsubarai,マツバラエイ,D,98.9,LOW,S,bathydemersal,120,2000
+Taxa0009,048_Rajidae,Rajella bigelowi,フカミガンギエイと同じ属の種,D,100,MODERATE,S,bathydemersal,650,4156
+Taxa0010,048_Rajidae,Rajella fyllae,フカミガンギエイと同じ属の種,D,99.4,LOW,S,bathydemersal,170,2050
+Taxa0011,074_Anguillidae,Anguilla japonica,ウナギ,C,99.93,HIGH,FBS,demersal,1,400
+Taxa0012,074_Anguillidae,Anguilla marmorata,オオウナギ,C,100,LOW,FBS,demersal,1,400
+Taxa0013,079_Muraenidae,Anarchias sp Ansp,タカマユウツボ属の一種,C,99.84,LOW,NA,NA,NA,NA
+Taxa0014,079_Muraenidae,Echidna xanthospilos,クモウツボと同じ属の種,C,100,LOW,S,demersal,NA,NA
+Taxa0015,079_Muraenidae,Enchelycore anatina,コケウツボ属の一種,C,98.8,HIGH,S,demersal,3,60
+Taxa0016,079_Muraenidae,Enchelycore pardalis,トラウツボ,C,99.97,HIGH,S,reef-associated,8,60
+Taxa0017,079_Muraenidae,Gymnothorax chilospilus,ミナミウツボ,C,99.7,HIGH,S,reef-associated,1,45
+Taxa0018,079_Muraenidae,Gymnothorax eurostus,ワカウツボ,C,100,HIGH,S,reef-associated,1,74
+Taxa0019,079_Muraenidae,Gymnothorax isingteena,ニセゴイシウツボ,C,100,HIGH,S,reef-associated,3,30
+Taxa0020,079_Muraenidae,Gymnothorax kidako,ウツボ,C,99.98,HIGH,S,reef-associated,2,350
+Taxa0021,079_Muraenidae,Gymnothorax leucostigma,ユリウツボ,C,99.4,LOW,NA,NA,NA,NA
+Taxa0022,079_Muraenidae,Gymnothorax meleagris,ハナビラウツボ,C,100,HIGH,FBS,reef-associated,1,51
+Taxa0023,079_Muraenidae,Gymnothorax phasmatodes,シノビウツボ,C,98.8,HIGH,S,demersal,NA,NA
+Taxa0024,079_Muraenidae,Gymnothorax pictus,アセウツボ,C,100,HIGH,BS,reef-associated,5,100
+Taxa0025,079_Muraenidae,Gymnothorax reticularis,アミウツボ,C,100,LOW,S,demersal,NA,56
+Taxa0026,079_Muraenidae,Gymnothorax thyrsoideus,サビウツボ,C,100,HIGH,S,reef-associated,0,30
+Taxa0027,079_Muraenidae,U98.5_Enchelycore anatina gotu1,コケウツボ属の一種と近縁な種,C,98.13,HIGH,S,demersal,3,60
+Taxa0028,079_Muraenidae,U98.5_Gymnothorax kidako gotu1,ウツボと近縁な種,C,98.22,LOW,S,reef-associated,2,350
+Taxa0029,081_Ophichthidae,Brachysomophis crocodilinus,タツウミヘビ,C,99.4,HIGH,S,reef-associated,0,30
+Taxa0030,081_Ophichthidae,Neenchelys sp KAUM I 113282,ムカシウミヘビと同じ属の種,D,100,LOW,NA,NA,NA,NA
+Taxa0031,081_Ophichthidae,Ophichthus erabo,モンガラドオシ,C,99.55,HIGH,S,reef-associated,NA,155
+Taxa0032,081_Ophichthidae,Ophisurus macrorhynchos,ダイナンウミヘビ,C,100,HIGH,S,demersal,NA,NA
+Taxa0033,081_Ophichthidae,Pisodonophis zophistius,ホタテウミヘビ,C,100,LOW,NA,NA,NA,NA
+Taxa0034,081_Ophichthidae,U98.5_Brachysomophis crocodilinus,タツウミヘビと近縁な種,C,84.9,LOW,S,reef-associated,0,30
+Taxa0035,081_Ophichthidae,U98.5_Echelus myrus,ヒレアナゴと同じ属の種と近縁な種,C,91.3,LOW,BS,demersal,3,550
+Taxa0036,081_Ophichthidae,U98.5_Xyrias revulsus gotu1,ボウウミヘビと近縁な種,D,94.8,LOW,S,demersal,146,209
+Taxa0037,086_Congridae,Ariosoma scheelei,ハナアナゴと同じ属の種,D,99.7,MODERATE,S,reef-associated,9,55
+Taxa0038,086_Congridae,Ariosoma shiroanago,ハナアナゴと同じ属の種,D,100,LOW,S,demersal,NA,NA
+Taxa0039,086_Congridae,Gnathophis bathytopos,ギンアナゴと同じ属の種,C,100,MODERATE,S,bathydemersal,180,370
+Taxa0040,086_Congridae,Gnathophis nystromi,ギンアナゴ,C,99.92,LOW,S,reef-associated,144,577
+Taxa0041,086_Congridae,U98.5_Gnathophis bathytopos gotu1,ギンアナゴと同じ属の種と近縁な種,C,95.2,LOW,S,bathydemersal,180,370
+Taxa0042,086_Congridae,U98.5_Gnathophis bathytopos gotu2,ギンアナゴと同じ属の種と近縁な種,C,97,LOW,S,bathydemersal,180,370
+Taxa0043,087_Nettastomatidae,Nettastoma solitarium,ニセクズアナゴ,D,100,MODERATE,S,benthopelagic,415,610
+Taxa0044,095_Engraulidae,Encrasicholina punctifer,タイワンアイノコイワシ,C,99.96,HIGH,S,reef-associated,5,35
+Taxa0045,095_Engraulidae,Engraulis japonicus,カタクチイワシ,C,99.97,HIGH,S,pelagic-neritic,0,400
+Taxa0046,095_Engraulidae,U98.5_Engraulis japonicus gotu1,カタクチイワシと近縁な種,C,98.2,MODERATE,S,pelagic-neritic,0,400
+Taxa0047,095_Engraulidae,U98.5_Engraulis japonicus gotu2,カタクチイワシと近縁な種,C,98.2,MODERATE,S,pelagic-neritic,0,400
+Taxa0048,095_Engraulidae,U98.5_Engraulis japonicus gotu3,カタクチイワシと近縁な種,C,98.2,MODERATE,S,pelagic-neritic,0,400
+Taxa0049,097_Clupeidae,Etrumeus teres,ウルメイワシ,C,99.98,MODERATE,NA,NA,NA,NA
+Taxa0050,097_Clupeidae,Konosirus punctatus,コノシロ,C,99.97,HIGH,BS,pelagic-neritic,NA,NA
+Taxa0051,097_Clupeidae,Nematalosa nasus,メナガ,C,100,HIGH,FBS,pelagic-neritic,0,30
+Taxa0052,097_Clupeidae,Sardinella lemuru,カタボシイワシ,C,99.68,LOW,S,pelagic-neritic,15,100
+Taxa0053,097_Clupeidae,Sardinops melanostictus,マイワシ,C,99.98,LOW,NA,NA,NA,NA
+Taxa0054,097_Clupeidae,Spratelloides gracilis,キビナゴ,C,100,HIGH,S,pelagic-neritic,NA,40
+Taxa0055,097_Clupeidae,U98.5_Sardinella lemuru gotu1,カタボシイワシと近縁な種,C,97.1,LOW,S,pelagic-neritic,15,100
+Taxa0056,097_Clupeidae,U98.5_Spratelloides gracilis gotu1,キビナゴと近縁な種,C,98.2,HIGH,S,pelagic-neritic,NA,40
+Taxa0057,097_Clupeidae,U98.5_Spratelloides gracilis gotu2,キビナゴと近縁な種,C,97.6,HIGH,S,pelagic-neritic,NA,40
+Taxa0058,099_Gonorhynchidae,Gonorynchus abbreviatus,ネズミギス,D,100,HIGH,S,demersal,50,100
+Taxa0059,102_Cyprinidae,Abbottina rivularis,ツチフキ,F,100,HIGH,F,benthopelagic,NA,NA
+Taxa0060,102_Cyprinidae,Acheilognathus cyanostigma,イチモンジタナゴ,F,100,MODERATE,F,benthopelagic,NA,NA
+Taxa0061,102_Cyprinidae,Acheilognathus typus,ゼニタナゴ,F,99.4,HIGH,F,benthopelagic,NA,NA
+Taxa0062,102_Cyprinidae,Barbus barbus,バルブス・カンプタカンタスと同じ属の種,Ex,100,HIGH,F,benthopelagic,10,NA
+Taxa0063,102_Cyprinidae,Carassius auratus subsp,ギンブナと同じ属の種,F,100,LOW,F,benthopelagic,0,20
+Taxa0064,102_Cyprinidae,Carassius auratus subsp KINBUNA,キンブナ,F,99.8,LOW,F,benthopelagic,0,20
+Taxa0065,102_Cyprinidae,Carassius cuvieri,ゲンゴロウブナ,F,100,MODERATE,F,demersal,NA,NA
+Taxa0066,102_Cyprinidae,Carassius gibelio,ギベリオブナ,F,100,LOW,FB,benthopelagic,0,NA
+Taxa0067,102_Cyprinidae,Cyprinus carpio,コイ,F,100,HIGH,FB,benthopelagic,NA,NA
+Taxa0068,102_Cyprinidae,Cyprinus carpio haematopterus,コイ,F,99.99,LOW,FB,benthopelagic,NA,NA
+Taxa0069,102_Cyprinidae,Gobio gobio,タイリクスナムグリ,F,100,HIGH,FB,benthopelagic,NA,NA
+Taxa0070,102_Cyprinidae,Hypophthalmichthys molitrix,ハクレン,F,100,HIGH,F,benthopelagic,0,20
+Taxa0071,102_Cyprinidae,Nipponocypris temminckii,カワムツ,F,100,HIGH,F,benthopelagic,NA,NA
+Taxa0072,102_Cyprinidae,Opsariichthys uncirostris,ハス,F,100,LOW,F,benthopelagic,NA,NA
+Taxa0073,102_Cyprinidae,Pseudogobio esocinus,カマツカ,F,100,MODERATE,F,benthopelagic,NA,NA
+Taxa0074,102_Cyprinidae,Pseudogobio esocinus Clade A,カマツカと同じ属の種,F,100,MODERATE,F,benthopelagic,NA,NA
+Taxa0075,102_Cyprinidae,Pseudorasbora parva,モツゴ,F,100,HIGH,F,benthopelagic,NA,NA
+Taxa0076,102_Cyprinidae,Rhodeus atremius atremius,カゼトゲタナゴ,F,100,HIGH,F,benthopelagic,NA,NA
+Taxa0077,102_Cyprinidae,Rhodeus ocellatus,タイリクバラタナゴ,F,100,HIGH,F,benthopelagic,NA,NA
+Taxa0078,102_Cyprinidae,Rhynchocypris lagowskii steindachneri,アブラハヤと同じ属の種,F,100,HIGH,F,benthopelagic,NA,NA
+Taxa0079,102_Cyprinidae,Rhynchocypris oxycephalus jouyi,タカハヤ,F,99.7,MODERATE,F,demersal,NA,NA
+Taxa0080,102_Cyprinidae,Squalidus chankaensis tsuchigae,コウライモロコ,F,100,LOW,F,benthopelagic,NA,10
+Taxa0081,102_Cyprinidae,Squalidus gracilis gracilis,イトモロコ,F,100,HIGH,F,benthopelagic,NA,NA
+Taxa0082,102_Cyprinidae,Tanakia limbata,アブラボテ,F,99.8,LOW,F,benthopelagic,NA,NA
+Taxa0083,102_Cyprinidae,Tribolodon brandtii,マルタ,C,100,LOW,FBS,demersal,NA,NA
+Taxa0084,102_Cyprinidae,Tribolodon sachalinensis,エゾウグイ,Ex,100,LOW,NA,NA,NA,NA
+Taxa0085,102_Cyprinidae,Tribolodon hakonensis,ウグイ,C,99.74,HIGH,FB,benthopelagic,NA,NA
+Taxa0086,102_Cyprinidae,U98.5_Phoxinus phoxinus tumensis gotu1,ノーザンレッドベリーデイスと同じ属の種と近縁な種,Ex,97.1,LOW,FB,demersal,NA,NA
+Taxa0087,102_Cyprinidae,U98.5_Phoxinus sp UAIC 14401 01 gotu1,ノーザンレッドベリーデイスと同じ属の種と近縁な種,Ex,96.97,LOW,NA,NA,NA,NA
+Taxa0088,102_Cyprinidae,Zacco platypus,オイカワ,F,100,HIGH,F,benthopelagic,NA,NA
+Taxa0089,106_Cobitidae,Cobitis matsubarai,ヤマトシマドジョウ,F,100,MODERATE,F,demersal,NA,NA
+Taxa0090,106_Cobitidae,Cobitis sp BIWAE typeB,ニシシマドジョウ,F,99.7,HIGH,NA,NA,NA,NA
+Taxa0091,106_Cobitidae,Cobitis sp BIWAE typeC,ヒガシシマドジョウ,F,100,MODERATE,NA,NA,NA,NA
+Taxa0092,106_Cobitidae,Cobitis sp Kumamoto,シマドジョウと同じ属の種,F,99.97,LOW,NA,NA,NA,NA
+Taxa0093,106_Cobitidae,Misgurnus anguillicaudatus,ドジョウ,F,100,HIGH,F,demersal,5,NA
+Taxa0094,106_Cobitidae,Misgurnus mizolepis,カラドジョウ,F,100,LOW,F,demersal,NA,NA
+Taxa0095,106_Cobitidae,Misgurnus sp CladeA,キタドジョウ,F,100,HIGH,NA,NA,NA,NA
+Taxa0096,106_Cobitidae,Niwaella delicata,アジメドジョウ,F,100,HIGH,F,demersal,NA,NA
+Taxa0097,107_Balitoridae,Lefua echigonia S Kanto Population,ヒメドジョウと同じ属の種,F,100,HIGH,F,demersal,NA,NA
+Taxa0098,107_Balitoridae,U98.5_Barbatula barbatula,フクドジョウ属の一種と同じ属の種と近縁な種,F,98.2,LOW,F,demersal,NA,NA
+Taxa0099,147_Siluridae,Silurus asotus,ナマズ,F,100,MODERATE,F,demersal,NA,NA
+Taxa0100,151_Plotosidae,Plotosus japonicus,ゴンズイ,C,99.95,HIGH,S,benthopelagic,NA,NA
+Taxa0101,159_Bagridae,Mystus mysticetus,ストライプ・ミスタスと同じ属の種,Ex,100,LOW,F,demersal,NA,NA
+Taxa0102,168_Microstomatidae,Lipolagus ochotensis,ソコイワシ,D,99.79,HIGH,S,bathypelagic,930,6100
+Taxa0103,171_Alepocephalidae,Alepocephalus bairdii,オオメハゲイワシ,D,100,HIGH,S,bathydemersal,365,1700
+Taxa0104,172_Osmeridae,Neosalanx anderssoni,アリアケヒメシラウオと同じ属の種,Ex,100,HIGH,FBS,demersal,NA,NA
+Taxa0105,172_Osmeridae,Plecoglossus altivelis,アユ,C,99.85-100,LOW-MODERATE,FBS,demersal,10,NA
+Taxa0106,172_Osmeridae,Protosalanx chinensis,該当属名・和名なし,Ex,100,MODERATE,F,demersal,NA,NA
+Taxa0107,172_Osmeridae,Salangichthys ishikawae,イシカワシラウオ,C,99.98,HIGH,NA,NA,NA,NA
+Taxa0108,172_Osmeridae,Salangichthys microdon,シラウオ,C,100,HIGH,FBS,demersal,NA,NA
+Taxa0109,175_Salmonidae,Oncorhynchus keta,サケ,C,100,MODERATE,FBS,benthopelagic,0,250
+Taxa0110,175_Salmonidae,Oncorhynchus kisutch,ギンザケ,Ex,100,MODERATE,FBS,demersal,0,250
+Taxa0111,175_Salmonidae,Oncorhynchus mykiss,ニジマス,F,99.7,MODERATE,FBS,benthopelagic,0,200
+Taxa0112,175_Salmonidae,Oncorhynchus nerka,ベニザケ,Ex,99.8,MODERATE,FBS,pelagic-oceanic,0,250
+Taxa0113,175_Salmonidae,Salvelinus fontinalis,カワマス,F,100,LOW,FBS,benthopelagic,15,27
+Taxa0114,175_Salmonidae,Salvelinus leucomaenis imbrius,ゴギ,F,99.93,LOW,FBS,benthopelagic,0,50
+Taxa0115,175_Salmonidae,Salvelinus leucomaenis pluvius,ニッコウイワナ,F,100,LOW,FBS,benthopelagic,0,50
+Taxa0116,179_Gonostomatidae,Cyclothone alba,ユキオニハダカ,D,99.4,LOW,S,bathypelagic,25,4938
+Taxa0117,179_Gonostomatidae,Cyclothone atraria,オニハダカ,D,100,MODERATE,S,bathypelagic,298,4938
+Taxa0118,180_Sternoptychidae,Maurolicus japonicus,キュウリエソ,D,99.85,MODERATE,S,bathypelagic,50,400
+Taxa0119,180_Sternoptychidae,Maurolicus muelleri,キュウリエソ属の一種,D,100,MODERATE,S,bathypelagic,271,1524
+Taxa0120,180_Sternoptychidae,Polyipnus spinifer,ノコバホウネンエソ,D,99.4,LOW,S,benthopelagic,154,380
+Taxa0121,180_Sternoptychidae,U98.5_Polyipnus spinifer,ノコバホウネンエソと近縁な種,D,98.2,LOW,S,benthopelagic,154,380
+Taxa0122,181_Phosichthyidae,U98.5_Vinciguerria nimbaria gotu1,ヤベウキエソと近縁な種,D,97.52,LOW,S,bathypelagic,20,5000
+Taxa0123,181_Phosichthyidae,Vinciguerria nimbaria,ヤベウキエソ,D,100,LOW,S,bathypelagic,20,5000
+Taxa0124,182_Stomiidae,Stomias affinis,ワニトカゲギス,D,99.7,MODERATE,S,bathypelagic,0,3182
+Taxa0125,182_Stomiidae,Stomias nebulosus,ヨロイホシエソ,D,100,HIGH,S,bathypelagic,640,730
+Taxa0126,182_Stomiidae,U98.5_Stomias affinis,ワニトカゲギスと近縁な種,D,96.4,LOW,S,bathypelagic,0,3182
+Taxa0127,183_Ateleopodidae,Ateleopus japonicus,シャチフリ,D,100,HIGH,S,bathydemersal,140,600
+Taxa0128,185_Aulopidae,Hime japonica,ヒメ,D,100,HIGH,S,demersal,85,510
+Taxa0129,187_Synodontidae,Saurida elongata,トカゲエソ,C,100,LOW,S,demersal,20,100
+Taxa0130,187_Synodontidae,Saurida spp.,マエソ属複合種群,C,100,LOW,S,reef-associated,1,350
+Taxa0131,187_Synodontidae,Saurida wanieso,ワニエソ,C,100,LOW,S,demersal,NA,NA
+Taxa0132,187_Synodontidae,Synodus hoshinonis,ホシノエソ,C,100,HIGH,BS,demersal,60,96
+Taxa0133,191_Notosudidae,U98.5_Scopelosaurus harryi,ハリーフデエソと近縁な種,D,93.6,LOW,S,bathypelagic,0,1500
+Taxa0134,200_Myctophidae,Benthosema pterotum,イワハダカ,D,99.89,HIGH,S,benthopelagic,10,300
+Taxa0135,200_Myctophidae,Bolinichthys indicus,ミカヅキハダカ属の一種,D,99.6,HIGH,S,bathypelagic,25,900
+Taxa0136,200_Myctophidae,Diaphus chrysorhynchus,サガミハダカ,D,100,HIGH,S,bathypelagic,213,587
+Taxa0137,200_Myctophidae,Diaphus garmani,ヒロハダカ,D,99.9,HIGH,S,bathypelagic,0,2091
+Taxa0138,200_Myctophidae,Diaphus sp NMMBP1206,メハダカと同じ属の種,D,98.8,LOW,NA,NA,NA,NA
+Taxa0139,200_Myctophidae,Diaphus suborbitalis,センハダカ,D,99.76,HIGH,S,pelagic-oceanic,387,1537
+Taxa0140,200_Myctophidae,Diaphus watasei,ハダカイワシ,D,100,HIGH,S,benthopelagic,100,2005
+Taxa0141,200_Myctophidae,Hygophum hygomii,ススキハダカと同じ属の種,D,98.8,HIGH,S,bathypelagic,0,1485
+Taxa0142,200_Myctophidae,Hygophum reinhardtii,ドングリハダカ,D,100,HIGH,S,bathypelagic,0,1050
+Taxa0143,200_Myctophidae,Hygophum sp CBM ZF 14740,ススキハダカと同じ属の種,D,100,HIGH,NA,NA,NA,NA
+Taxa0144,200_Myctophidae,Lampanyctus alatus,トミハダカ,D,100,HIGH,S,bathypelagic,40,1500
+Taxa0145,200_Myctophidae,Lampanyctus jordani,マメハダカ,D,100,HIGH,S,bathypelagic,588,3400
+Taxa0146,200_Myctophidae,Lampanyctus tenuiformes Russia,オオメニジハダカと同じ属の種,D,98.8,MODERATE,NA,NA,NA,NA
+Taxa0147,200_Myctophidae,Myctophum asperum,アラハダカ,D,100,LOW,S,bathypelagic,244,1948
+Taxa0148,200_Myctophidae,Myctophum brachygnathum,アラハダカと同じ属の種,D,98.8,LOW,S,bathypelagic,NA,NA
+Taxa0149,200_Myctophidae,Nannobrachium fernae,トンガリハダカと同じ属の種,D,99.49,LOW,S,bathypelagic,0,750
+Taxa0150,200_Myctophidae,Notoscopelus japonicus,オオクチイワシ,D,99.95,HIGH,S,bathypelagic,391,794
+Taxa0151,200_Myctophidae,Notoscopelus sp HUMZ 222547,オオセビレハダカと同じ属の種,D,100,MODERATE,NA,NA,NA,NA
+Taxa0152,200_Myctophidae,Symbolophorus californiensis,ナガハダカ,D,100,LOW,S,pelagic-oceanic,557,1497
+Taxa0153,200_Myctophidae,Symbolophorus cf californiensis,ナガハダカと同じ属の種,D,99.52,LOW,NA,NA,NA,NA
+Taxa0154,200_Myctophidae,Symbolophorus cf evermanni,ナガハダカと同じ属の種,D,100,HIGH,NA,NA,NA,NA
+Taxa0155,200_Myctophidae,Symbolophorus cf rufinus,ナガハダカと同じ属の種,D,99.4,LOW,NA,NA,NA,NA
+Taxa0156,200_Myctophidae,U98.5_Benthosema suborbitale gotu1,ソコハダカと近縁な種,D,98.3,HIGH,S,bathypelagic,50,2500
+Taxa0157,200_Myctophidae,U98.5_Benthosema suborbitale gotu2,ソコハダカと近縁な種,D,98.2,HIGH,S,bathypelagic,50,2500
+Taxa0158,200_Myctophidae,U98.5_Diaphus garmani,ヒロハダカと近縁な種,D,95.9,LOW,S,bathypelagic,0,2091
+Taxa0159,200_Myctophidae,U98.5_Diogenichthys atlanticus gotu1,イタハダカと近縁な種,D,95.22,LOW,S,bathypelagic,0,1050
+Taxa0160,200_Myctophidae,U98.5_Lampadena luminosa gotu1,カガミイワシと近縁な種,D,97.6,LOW,S,bathypelagic,50,1021
+Taxa0161,200_Myctophidae,U98.5_Myctophum cf orientale,アラハダカと同じ属の種と近縁な種,D,98.3,MODERATE,NA,NA,NA,NA
+Taxa0162,200_Myctophidae,U98.5_Myctophum orientale gotu1,ウスハダカと近縁な種,D,98.3,LOW,S,bathypelagic,NA,NA
+Taxa0163,200_Myctophidae,U98.5_Nannobrachium fernae,トンガリハダカと同じ属の種と近縁な種,D,98.2,LOW,S,bathypelagic,0,750
+Taxa0164,215_Macrouridae,Coryphaenoides brevibarbis,イバラヒゲと同じ属の種,D,99.82,HIGH,S,bathypelagic,1500,4700
+Taxa0165,215_Macrouridae,Hymenocephalus lethonemus,イトダラ,D,100,HIGH,S,bathydemersal,220,810
+Taxa0166,215_Macrouridae,Ventrifossa fusca,カラスヒゲ,D,100,HIGH,S,benthopelagic,NA,700
+Taxa0167,215_Macrouridae,Ventrifossa garmani,サガミソコダラ,D,100,MODERATE,S,bathydemersal,200,720
+Taxa0168,216_Moridae,Laemonema longipes,イトヒキダラ,D,99.4,HIGH,S,bathydemersal,80,1830
+Taxa0169,216_Moridae,Lepidion inosimae,ソコクロダラ,D,100,MODERATE,S,benthopelagic,580,1100
+Taxa0170,216_Moridae,Lotella phycis,イソアイナメ,D,100,HIGH,S,demersal,NA,NA
+Taxa0171,216_Moridae,U98.5_Lepidion inosimae,ソコクロダラと近縁な種,D,81,LOW,S,benthopelagic,580,1100
+Taxa0172,220_Gadidae,Gadus chalcogrammus,スケトウダラ,D,100,LOW,BS,benthopelagic,NA,1280
+Taxa0173,220_Gadidae,Gadus macrocephalus,マダラ,D,100,MODERATE,BS,demersal,10,1280
+Taxa0174,220_Gadidae,Gadus morhua,タイセイヨウマダラ,Ex,100,LOW,BS,benthopelagic,0,600
+Taxa0175,222_Ophidiidae,Brotula multibarbata,イタチウオ,C,100,HIGH,S,reef-associated,1,650
+Taxa0176,222_Ophidiidae,Hoplobrotula armata,ヨロイイタチウオ,D,100,HIGH,S,bathydemersal,200,350
+Taxa0177,222_Ophidiidae,Neobythites australiensis,ニテンイタチウオ,Ex,100,LOW,S,bathydemersal,42,350
+Taxa0178,222_Ophidiidae,Spectrunculus grandis,ソコボウズ,D,99.2,HIGH,S,bathydemersal,800,4300
+Taxa0179,222_Ophidiidae,U98.5_Brotula sp CBM ZF 15570 gotu1,イタチウオ属の一種と近縁な種,C,93.7,LOW,NA,NA,NA,NA
+Taxa0180,223_Bythitidae,Dinematichthys iluocoeteoides,アカネイタチウオ,Ex,100,LOW,S,reef-associated,1,30
+Taxa0181,226_Batrachoididae,Allenbatrachus grunniens,該当属名・和名なし,Ex,100,HIGH,BS,demersal,NA,NA
+Taxa0182,227_Lophiidae,Lophiomus setigerus,アンコウ,C,100,HIGH,S,demersal,30,800
+Taxa0183,227_Lophiidae,Lophius litulon,キアンコウ,C,100,LOW,S,bathydemersal,25,560
+Taxa0184,228_Antennariidae,Antennarius hispidus,ボンボリカエルアンコウ,C,99.7,LOW,S,reef-associated,0,90
+Taxa0185,232_Chaunacidae,Chaunax abei,ミドリフサアンコウ,D,99.6,MODERATE,S,demersal,90,500
+Taxa0186,228_Antennariidae,Antennarius striatus,カエルアンコウ,C,100,MODERATE,BS,reef-associated,10,219
+Taxa0187,228_Antennariidae,Antennarius striatus Genetype1,カスリカエルアンコウと同じ属の種,C,100,MODERATE,BS,reef-associated,10,219
+Taxa0188,232_Chaunacidae,Chaunax penicillatus,ミドリフサアンコウと同じ属の種,D,100,HIGH,S,bathydemersal,343,658
+Taxa0189,232_Chaunacidae,Chaunax sp KAUM I 111003,ミドリフサアンコウと同じ属の種,D,99.7,HIGH,NA,NA,NA,NA
+Taxa0190,233_Ogcocephalidae,Malthopsis kobayashii,ワヌケフウリュウウオと同じ属の種,D,99.4,HIGH,S,bathydemersal,NA,NA
+Taxa0191,236_Melanocetidae,Melanocetus murrayi,クロアンコウ,D,100,HIGH,S,bathypelagic,100,6370
+Taxa0192,239_Oneirodidae,Oneirodes carlsbergi,ユメアンコウと同じ属の種,D,98.8,HIGH,S,bathypelagic,360,1000
+Taxa0193,239_Oneirodidae,Oneirodes thompsoni,トゲラクダアンコウ,D,100,LOW,S,bathypelagic,100,2014
+Taxa0194,239_Oneirodidae,U98.5_Oneirodes luetkeni,ユメアンコウと同じ属の種と近縁な種,D,98.2,LOW,S,bathypelagic,NA,1750
+Taxa0195,240_Thaumatichthyidae,Thaumatichthys pagidostomus,該当属名・和名なし,D,100,HIGH,S,bathydemersal,NA,1440
+Taxa0196,245_Mugilidae,Ellochelon vaigiensis,オニボラ,C,98.8,MODERATE,FBS,reef-associated,0,5
+Taxa0197,245_Mugilidae,Liza affinis,セスジボラ,C,100,LOW,NA,NA,NA,NA
+Taxa0198,245_Mugilidae,Liza haematocheila,メナダ,C,100,LOW,NA,NA,NA,NA
+Taxa0199,245_Mugilidae,Liza macrolepis,コボラ,C,100,LOW,NA,NA,NA,NA
+Taxa0200,245_Mugilidae,Moolgarda seheli,タイワンメナダ,C,100,LOW,NA,NA,NA,NA
+Taxa0201,245_Mugilidae,Mugil cephalus,ボラ,C,99.98,HIGH,FBS,benthopelagic,0,120
+Taxa0202,245_Mugilidae,Oedalechilus labiosus,ワニグチボラ,C,99.9,HIGH,NA,NA,NA,NA
+Taxa0203,245_Mugilidae,U98.5_Mugil cephalus,ボラと近縁な種,C,98.2,MODERATE,FBS,benthopelagic,0,120
+Taxa0204,247_Notocheiridae,Iso flosmaris,ナミノハナ,C,99.99,HIGH,S,demersal,NA,NA
+Taxa0205,251_Atherinidae,Atherinomorus lacunosus,ヤクシマイワシ,C,99.4,LOW,FBS,reef-associated,1,39
+Taxa0206,251_Atherinidae,Atherinomorus pinguis,ホソオビヤクシマイワシ,C,100,LOW,S,reef-associated,NA,NA
+Taxa0207,251_Atherinidae,Atherion elymus,ムギイワシ,C,100,HIGH,S,reef-associated,0,3
+Taxa0208,251_Atherinidae,Hypoatherina tsurugae,ギンイソイワシ,C,99.99,HIGH,S,pelagic-neritic,NA,NA
+Taxa0209,251_Atherinidae,Hypoatherina valenciennei,トウゴロウイワシ,C,100,MODERATE,BS,pelagic-neritic,NA,NA
+Taxa0210,251_Atherinidae,U98.5_Atherion elymus gotu1,ムギイワシと近縁な種,C,85.2,HIGH,S,reef-associated,0,3
+Taxa0211,252_Adrianichthyidae,Oryzias latipes,メダカ,F,100,LOW,FB,benthopelagic,NA,NA
+Taxa0212,252_Adrianichthyidae,Oryzias woworae,ジャワメダカと同じ属の種,Ex,100,HIGH,F,pelagic,NA,NA
+Taxa0213,253_Exocoetidae,Cypselurus agoo agoo,トビウオ,C,99.4-100,LOW,NA,NA,NA,NA
+Taxa0214,253_Exocoetidae,Cheilopogon doederleinii,ツクシトビウオ,C,99.98,LOW,S,pelagic-oceanic,0,NA
+Taxa0215,253_Exocoetidae,Cypselurus angusticeps,ヒメアカトビ,C,100,LOW,S,pelagic-oceanic,0,20
+Taxa0216,253_Exocoetidae,Cypselurus atrisignis,アカトビ,C,100,MODERATE,NA,NA,NA,NA
+Taxa0217,253_Exocoetidae,Cypselurus exiliens,オジロトビ,C,99.4,LOW,NA,NA,NA,NA
+Taxa0218,253_Exocoetidae,Cypselurus heterurus doederleini,ツクシトビウオ,C,99.99,LOW,NA,NA,NA,NA
+Taxa0219,253_Exocoetidae,Cypselurus hiraii,ホソトビウオ,C,99.4,LOW,S,pelagic-neritic,0,NA
+Taxa0220,253_Exocoetidae,Cypselurus naresii,ウチダトビウオ,C,100,LOW,S,pelagic-oceanic,0,20
+Taxa0221,253_Exocoetidae,Exocoetus volitans,イダテントビウオ,C,100,MODERATE,S,pelagic-neritic,0,20
+Taxa0222,253_Exocoetidae,Parexocoetus brachypterus,ツマリトビウオと同じ属の種,C,100,LOW,S,pelagic-neritic,0,20
+Taxa0223,253_Exocoetidae,Prognichthys sealei,ダルマトビ,C,100,MODERATE,S,pelagic-oceanic,0,20
+Taxa0224,254_Hemiramphidae,Euleptorhamphus viridis,トウザヨリ,C,100,HIGH,S,pelagic-oceanic,0,1
+Taxa0225,254_Hemiramphidae,Hemiramphus lutkei,ナンヨウサヨリ,C,99.4,MODERATE,BS,reef-associated,0,NA
+Taxa0226,254_Hemiramphidae,Hyporhamphus intermedius,クルメサヨリ,C,99.52,HIGH,FBS,pelagic-neritic,0,NA
+Taxa0227,254_Hemiramphidae,Hyporhamphus sajori,サヨリ,C,99.91,HIGH,FBS,pelagic-neritic,30,NA
+Taxa0228,254_Hemiramphidae,Hyporhamphus yuri,ユリサヨリ,C,100,HIGH,S,pelagic-neritic,0,NA
+Taxa0229,254_Hemiramphidae,Zenarchopterus dunckeri,コモチサヨリ,C,100,HIGH,B,pelagic,0,NA
+Taxa0230,255_Belonidae,Ablennes hians,ハマダツ,C,100,HIGH,BS,reef-associated,0,3
+Taxa0231,255_Belonidae,Strongylura anastomella,ダツ,C,99.97,HIGH,S,pelagic-oceanic,0,NA
+Taxa0232,255_Belonidae,Tylosurus acus melanotus,テンジクダツ,C,100,HIGH,NA,NA,NA,NA
+Taxa0233,255_Belonidae,Tylosurus crocodilus crocodilus,オキザヨリ,C,99.93,HIGH,S,reef-associated,0,13
+Taxa0234,255_Belonidae,U98.5_Ablennes hians,ハマダツと近縁な種,C,92.2,LOW,BS,reef-associated,0,3
+Taxa0235,256_Scomberesocidae,Cololabis saira,サンマ,C,100,HIGH,S,pelagic-oceanic,0,230
+Taxa0236,266_Poeciliidae,Gambusia affinis,カダヤシ,F,100,MODERATE,FB,benthopelagic,NA,NA
+Taxa0237,279_Monocentridae,Monocentris japonicus,マツカサウオ,C,100,HIGH,NA,NA,NA,NA
+Taxa0238,280_Trachichthyidae,Aulotrachichthys prosthemius,ハリダシエビス,D,100,HIGH,S,bathypelagic,90,198
+Taxa0239,280_Trachichthyidae,Hoplostethus japonicus,ヒウチダイ,D,100,MODERATE,S,bathypelagic,336,605
+Taxa0240,280_Trachichthyidae,U98.5_Aulotrachichthys prosthemius,ハリダシエビスと近縁な種,C,94.6,LOW,S,bathypelagic,90,198
+Taxa0241,281_Berycidae,Beryx mollis,フウセンキンメ,D,100,HIGH,S,benthopelagic,100,500
+Taxa0242,281_Berycidae,Beryx splendens,キンメダイ,D,100,HIGH,S,benthopelagic,25,1300
+Taxa0243,282_Holocentridae,Myripristis berndti,アカマツカサ,C,100,LOW,S,reef-associated,3,159
+Taxa0244,282_Holocentridae,Ostichthys kaianus,カイエビス,C,100,HIGH,S,bathydemersal,182,640
+Taxa0245,282_Holocentridae,Sargocentron praslin,クロオビエビス,C,100,HIGH,S,reef-associated,1,20
+Taxa0246,282_Holocentridae,Sargocentron punctatissimum,ホシエビス,C,100,HIGH,S,reef-associated,0,183
+Taxa0247,282_Holocentridae,Sargocentron rubrum,アヤメエビス,C,99.4,HIGH,S,reef-associated,1,84
+Taxa0248,282_Holocentridae,Sargocentron spiniferum,トガリエビス,C,100,MODERATE,S,reef-associated,1,122
+Taxa0249,282_Holocentridae,Sargocentron tiere,アオスジエビス,C,100,MODERATE,S,reef-associated,1,183
+Taxa0250,287_Grammicolepididae,U98.5_Grammicolepis brachiusculus,オオヒシマトウダイと近縁な種,D,92.4,MODERATE,S,bathypelagic,300,1026
+Taxa0251,288_Zeidae,Zenion japonicum,ソコマトウダイ,D,100,HIGH,S,bathydemersal,200,400
+Taxa0252,290_Aulorhynchidae,Aulichthys japonicus,クダヤガラ,C,98.8,HIGH,S,benthopelagic,NA,NA
+Taxa0253,291_Gasterosteidae,Pungitius pungitius,イバラトミヨ,Ex,100,LOW,FBS,benthopelagic,0,110
+Taxa0254,291_Gasterosteidae,Pungitius sp Brackish,ミナミトミヨ汽水型,Ex,99.6,LOW,NA,NA,NA,NA
+Taxa0255,295_Syngnathidae,Corythoichthys haematopterus,イシヨウジ,C,100,HIGH,S,reef-associated,0,21
+Taxa0256,295_Syngnathidae,Hippocampus coronatus,タツノオトシゴ,C,99.63,HIGH,S,demersal,NA,NA
+Taxa0257,295_Syngnathidae,Hippocampus mohnikei,サンゴタツ,C,100,HIGH,S,demersal,1,NA
+Taxa0258,295_Syngnathidae,Hippocampus sindonis,ハナタツ,C,100,HIGH,S,demersal,NA,NA
+Taxa0259,295_Syngnathidae,Hippocampus sp,オオハラタツと同じ属の種,C,100,HIGH,NA,NA,NA,NA
+Taxa0260,295_Syngnathidae,Hippocampus trimaculatus,タカクラタツ,C,100,MODERATE,S,reef-associated,0,100
+Taxa0261,295_Syngnathidae,Syngnathus schlegeli,ヨウジウオ,C,99.84,HIGH,BS,demersal,NA,NA
+Taxa0262,295_Syngnathidae,Syngnathus sp ATLANTIC,トゲヨウジと同じ属の種,Ex,100,HIGH,NA,NA,NA,NA
+Taxa0263,295_Syngnathidae,U98.5_Cosmocampus banneri gotu1,ヒナヨウジと近縁な種,C,88.7,LOW,S,reef-associated,2,30
+Taxa0264,295_Syngnathidae,U98.5_Hippocampus mohnikei,サンゴタツと近縁な種,C,95.7,LOW,S,demersal,1,NA
+Taxa0265,295_Syngnathidae,Urocampus nanus,オクヨウジ,C,100,HIGH,BS,demersal,NA,NA
+Taxa0266,297_Fistulariidae,Fistularia commersonii,アオヤガラ,C,100,HIGH,S,reef-associated,0,132
+Taxa0267,297_Fistulariidae,Fistularia petimba,アカヤガラ,C,100,HIGH,BS,reef-associated,10,200
+Taxa0268,298_Macroramphosidae,Macroramphosus scolopax,サギフエ,C,100,LOW,S,demersal,25,600
+Taxa0269,302_Mastacembelidae,Macrognathus siamensis,トゲウナギの一種,Ex,100,HIGH,F,benthopelagic,NA,NA
+Taxa0270,304_Scorpaenidae,Ablabys taenianotus,ツマジロオコゼ,C,100,HIGH,S,reef-associated,1,78
+Taxa0271,304_Scorpaenidae,Apistus carinatus,ハチ,C,99.88,HIGH,S,demersal,14,60
+Taxa0272,304_Scorpaenidae,Erosa erosa,ダルマオコゼ,C,100,HIGH,S,reef-associated,0,90
+Taxa0273,304_Scorpaenidae,Helicolenus hilgendorfi,ユメカサゴ,D,100,LOW,S,bathydemersal,50,1100
+Taxa0274,304_Scorpaenidae,Inimicus japonicus,オニオコゼ,C,100,HIGH,S,demersal,10,200
+Taxa0275,304_Scorpaenidae,Minous pusillus,ヤセオコゼ,C,100,HIGH,S,demersal,30,110
+Taxa0276,304_Scorpaenidae,Paracentropogon rubripinnis,ハオコゼ,C,99.93,HIGH,S,reef-associated,NA,NA
+Taxa0277,304_Scorpaenidae,Parascorpaena mossambica,ネッタイフサカサゴ,C,99.88,HIGH,S,reef-associated,0,18
+Taxa0278,304_Scorpaenidae,Pterois spp.,ミノカサゴ属複合種群,C,99.88,LOW,BS,reef-associated,15,60
+Taxa0279,304_Scorpaenidae,Scorpaena miostoma,コクチフサカサゴ,C,99.27,LOW,S,demersal,NA,NA
+Taxa0280,304_Scorpaenidae,Scorpaena neglecta,イズカサゴ,D,100,HIGH,S,demersal,100,150
+Taxa0281,304_Scorpaenidae,Scorpaena onaria,フサカサゴ,D,100,MODERATE,S,benthopelagic,223,500
+Taxa0282,304_Scorpaenidae,Scorpaena pepo,カボチャフサカサゴ,C,99.4,LOW,S,demersal,NA,200
+Taxa0283,304_Scorpaenidae,Scorpaenodes evides,イソカサゴ,C,99.82,HIGH,S,demersal,1,40
+Taxa0284,304_Scorpaenidae,Scorpaenopsis cirrosa,オニカサゴ,C,99.85,HIGH,S,demersal,3,91
+Taxa0285,304_Scorpaenidae,Scorpaenopsis neglecta,サツマカサゴ,C,100,HIGH,S,demersal,0,40
+Taxa0286,304_Scorpaenidae,Sebastes spp.,メバル属複合種群,C,99.4-100,LOW-MODERATE,S,demersal,9,600
+Taxa0287,304_Scorpaenidae,Sebastiscus albofasciatus,アヤメカサゴ,C,100,HIGH,S,demersal,30,200
+Taxa0288,304_Scorpaenidae,Sebastiscus marmoratus,カサゴ,C,99.99,HIGH,S,demersal,NA,NA
+Taxa0289,304_Scorpaenidae,Sebastolobus alascanus,アラスカキチジ,D,100,LOW,S,demersal,17,1600
+Taxa0290,304_Scorpaenidae,Setarches longimanus,アカカサゴ,D,100,HIGH,S,bathydemersal,180,704
+Taxa0291,304_Scorpaenidae,Trachicephalus uranoscopus,該当属名・和名なし,Ex,100,HIGH,BS,demersal,2,25
+Taxa0292,304_Scorpaenidae,U98.5_Scorpaena miostoma gotu1,コクチフサカサゴと近縁な種,C,87.61,LOW,S,demersal,NA,NA
+Taxa0293,304_Scorpaenidae,U98.5_Scorpaena miostoma gotu2,コクチフサカサゴと近縁な種,C,86.5,LOW,S,demersal,NA,NA
+Taxa0294,304_Scorpaenidae,U98.5_Scorpaena miostoma gotu3,コクチフサカサゴと近縁な種,C,87.6,LOW,S,demersal,NA,NA
+Taxa0295,304_Scorpaenidae,U98.5_Scorpaenopsis cirrosa,オニカサゴと近縁な種,C,98.2,HIGH,S,demersal,3,91
+Taxa0296,306_Aploactinidae,U98.5_Cocotropus sp CBM ZF 17864 gotu1,イズオコゼと同じ属の種と近縁な種,C,95.3,HIGH,NA,NA,NA,NA
+Taxa0297,310_Triglidae,Bovitrigla acanthomoplate,該当属名・和名なし,Ex,100,MODERATE,S,bathydemersal,333,500
+Taxa0298,310_Triglidae,Chelidonichthys spinosus,ホウボウ,C,99.98,LOW,S,demersal,25,615
+Taxa0299,310_Triglidae,Lepidotrigla alata,イゴダカホデリ,D,100,LOW,S,demersal,60,110
+Taxa0300,310_Triglidae,Lepidotrigla japonica,トゲカナガシラ,D,100,HIGH,S,demersal,40,115
+Taxa0301,310_Triglidae,Lepidotrigla kanagashira,ヒレナガカナガシラ,D,99.88,LOW,S,demersal,NA,NA
+Taxa0302,310_Triglidae,Lepidotrigla longifacata,ソコカナガシラと同じ属の種,D,99.4,LOW,NA,NA,NA,NA
+Taxa0303,310_Triglidae,Pterygotrigla multipunctata,ヒメソコホウボウ,D,100,HIGH,S,demersal,NA,NA
+Taxa0304,311_Peristediidae,Scalicus amiscus,ヒゲキホウボウ,D,100,HIGH,S,demersal,NA,NA
+Taxa0305,313_Platycephalidae,Grammoplites scabe,ナップトゲゴチと同じ属の種,Ex,100,HIGH,NA,NA,NA,NA
+Taxa0306,313_Platycephalidae,Onigocia spinosa,オニゴチ,C,100,HIGH,S,demersal,8,250
+Taxa0307,313_Platycephalidae,Platycephalus cultellatus,コチと同じ属の種,Ex,100,HIGH,S,demersal,NA,NA
+Taxa0308,313_Platycephalidae,Platycephalus sp.,マゴチ,C,99.97,LOW,BS,reef-associated,20,200
+Taxa0309,313_Platycephalidae,Platycephalus sp KAUM I 83735,コチと同じ属の種,C,100,HIGH,NA,NA,NA,NA
+Taxa0310,313_Platycephalidae,U98.5_Cymbacephalus beauforti,エンマゴチと近縁な種,C,81.9,LOW,S,reef-associated,1,12
+Taxa0311,316_Hexagrammidae,Hexagrammos otakii・H. agrammus,アイナメ・クジメ複合種群,C,99.99-100,LOW-MODERATE,S,demersal,NA,NA
+Taxa0312,316_Hexagrammidae,Pleurogrammus azonus,ホッケ,Ex,100,HIGH,S,demersal,0,240
+Taxa0313,316_Hexagrammidae,Pleurogrammus monopterygius,キタノホッケ,Ex,100,HIGH,S,demersal,0,720
+Taxa0314,320_Cottidae,Cottus amblystomopsis,エゾハナカジカ,Ex,99.7,HIGH,FBS,demersal,0,10
+Taxa0315,320_Cottidae,Cottus gobio,エゾハナカジカと同じ属の種,Ex,100,LOW,FB,demersal,2,2
+Taxa0316,320_Cottidae,Cottus pollux,カジカ,Ex,100,LOW,F,demersal,NA,NA
+Taxa0317,320_Cottidae,Furcina osimae typeA,サラサカジカと同じ属の種,C,100,MODERATE,S,reef-associated,NA,NA
+Taxa0318,320_Cottidae,Furcina osimae typeB,キヌカジカB型,C,99.98,HIGH,S,reef-associated,NA,NA
+Taxa0319,320_Cottidae,Myoxocephalus polyacanthocephalus,トゲカジカ,C,100,LOW,S,demersal,0,775
+Taxa0320,320_Cottidae,Ocynectes maschalis,イダテンカジカ,C,100,HIGH,S,demersal,NA,NA
+Taxa0321,320_Cottidae,Ocynectes modestus,ムツカジカ,C,99.91,HIGH,S,demersal,NA,NA
+Taxa0322,320_Cottidae,Pseudoblennius cottoides Genetype1,アサヒアナハゼ 遺伝子型1,C,99.95,HIGH,S,demersal,NA,NA
+Taxa0323,320_Cottidae,Pseudoblennius cottoides Genetype2,アサヒアナハゼ 遺伝子型2,C,100,HIGH,S,demersal,NA,NA
+Taxa0324,320_Cottidae,Pseudoblennius marmoratus,アヤアナハゼ,C,99.99,HIGH,S,demersal,NA,NA
+Taxa0325,320_Cottidae,Pseudoblennius percoides,アナハゼ,C,100,HIGH,S,demersal,NA,NA
+Taxa0326,320_Cottidae,Pseudoblennius zonostigma,オビアナハゼ,C,99.87,HIGH,S,demersal,NA,NA
+Taxa0327,320_Cottidae,U98.5_Vellitor minutus gotu1,ヒメスイと近縁な種,C,89.26,LOW,S,demersal,NA,NA
+Taxa0328,320_Cottidae,Vellitor minutus,ヒメスイ,C,100,HIGH,S,demersal,NA,NA
+Taxa0329,324_Agonidae,Ulcina olrikii,該当属名・和名なし,Ex,99.4,HIGH,NA,NA,NA,NA
+Taxa0330,327_Cyclopteridae,Lethotremus awae,ダンゴウオ,C,99.25,HIGH,S,demersal,0,20
+Taxa0331,328_Liparidae,Liparis punctulatus,スナビクニン,C,99.99,HIGH,S,demersal,0,20
+Taxa0332,328_Liparidae,Paraliparis rosaceus,アオインキウオ,D,100,HIGH,S,bathydemersal,1050,3358
+Taxa0333,328_Liparidae,U98.5_Liparis punctulatus,スナビクニンと近縁な種,C,98.2,HIGH,S,demersal,0,20
+Taxa0334,330_Ambassidae,Ambassis vachellii,トゲナガタカサゴイシモチと同じ属の種,Ex,100,LOW,FBS,demersal,NA,NA
+Taxa0335,330_Ambassidae,Parambassis sp CBM ZF 18782,インディアングラスフィッシュと同じ属の種,Ex,100,HIGH,NA,NA,NA,NA
+Taxa0336,332_Moronidae,Lateolabrax japonicus,スズキ,C,99.99,HIGH,FBS,reef-associated,5,NA
+Taxa0337,332_Moronidae,Lateolabrax latus,ヒラスズキ,C,99.98,HIGH,S,demersal,NA,NA
+Taxa0338,333_Percichthyidae,Nannoperca australis,該当属名・和名なし,Ex,100,HIGH,F,benthopelagic,NA,NA
+Taxa0339,335_Acropomatidae,Malakichthys barbatus,ヒゲオオメハタ,D,100,MODERATE,S,bathypelagic,100,600
+Taxa0340,335_Acropomatidae,Malakichthys griseus,オオメハタ,D,100,MODERATE,S,pelagic-oceanic,NA,NA
+Taxa0341,335_Acropomatidae,Synagrops japonicus,スミクイウオ,D,100,LOW,S,benthopelagic,50,1000
+Taxa0342,338_Serranidae,Caprodon schlegelii,アカイサキ,C,99.95,HIGH,S,benthopelagic,50,200
+Taxa0343,338_Serranidae,Cephalopholis argus,アオノメハタ,C,100,HIGH,S,reef-associated,1,40
+Taxa0344,338_Serranidae,Chelidoperca hirundinacea,ヒメコダイ,C,100,HIGH,S,demersal,80,200
+Taxa0345,338_Serranidae,Cromileptes altivelis,サラサハタ,C,100,LOW,S,reef-associated,2,40
+Taxa0346,338_Serranidae,Epinephelu sp CBM DNA 19 231,該当属名・和名なし,C,98.8,LOW,NA,NA,NA,NA
+Taxa0347,338_Serranidae,Epinephelus akaara,キジハタ,C,100,HIGH,S,reef-associated,1,55
+Taxa0348,338_Serranidae,Epinephelus areolatus,オオモンハタ,C,100,HIGH,S,reef-associated,6,200
+Taxa0349,338_Serranidae,Epinephelus fasciatus,アカハタ,C,99.72,HIGH,BS,reef-associated,4,160
+Taxa0350,338_Serranidae,Epinephelus melanostigma,スミツキハタ,C,100,HIGH,S,reef-associated,0,30
+Taxa0351,338_Serranidae,Epinephelus merra,カンモンハタ,C,100,HIGH,S,reef-associated,0,50
+Taxa0352,338_Serranidae,Epinephelus miliaris,ホウセキハタモドキ,C,100,HIGH,S,reef-associated,1,200
+Taxa0353,338_Serranidae,Epinephelus moara,クエ,C,99.99,LOW,NA,NA,NA,NA
+Taxa0354,338_Serranidae,Epinephelus rivulatus,シモフリハタ,C,100,HIGH,S,reef-associated,1,150
+Taxa0355,338_Serranidae,Epinephelus septemfasciatus,マハタ,C,100,HIGH,NA,NA,NA,NA
+Taxa0356,338_Serranidae,Grammistes sexlineatus,ヌノサラシ,C,100,HIGH,S,reef-associated,1,130
+Taxa0357,338_Serranidae,Plectranthias azumanus,チゴハナダイと同じ属の種,Ex,100,HIGH,NA,NA,NA,NA
+Taxa0358,338_Serranidae,Pseudanthias hypselosoma,ケラマハナダイ,Ex,100,HIGH,S,reef-associated,6,50
+Taxa0359,338_Serranidae,Pseudanthias ignitus,フレーム・アンティアス,Ex,100,HIGH,S,reef-associated,10,40
+Taxa0360,338_Serranidae,Pseudanthias rubrolineatus,イトヒキコハクハナダイ,C,98.8,MODERATE,S,bathydemersal,60,400
+Taxa0361,338_Serranidae,Pseudanthias squamipinnis,キンギョハナダイ,C,98.8,MODERATE,S,reef-associated,0,55
+Taxa0362,338_Serranidae,Sacura margaritacea,サクラダイ,C,100,HIGH,S,demersal,15,50
+Taxa0363,338_Serranidae,Selenanthias analis,スミツキハナダイ,D,100,HIGH,S,demersal,129,204
+Taxa0364,338_Serranidae,Serranidae sp JL-2015,該当属名・和名なし,C,99.8,LOW,NA,NA,NA,NA
+Taxa0365,338_Serranidae,Symphysanodon katayamai,カワリハナダイ,C,100,HIGH,S,demersal,91,183
+Taxa0366,338_Serranidae,U98.5_Pseudanthias rubrolineatus gotu1,イトヒキコハクハナダイと近縁な種,C,98.2,MODERATE,S,bathydemersal,60,400
+Taxa0367,341_Callanthiidae,Callanthias japonicus,シキシマハナダイ,C,100,HIGH,S,benthopelagic,70,200
+Taxa0368,342_Pseudochromidae,Pseudochromis tapeinosoma,カツイロニセスズメ,C,100,HIGH,S,reef-associated,2,60
+Taxa0369,344_Plesiopidae,Plesiops nakaharae,ナカハラタナバタウオ,C,99.87,LOW,S,reef-associated,NA,NA
+Taxa0370,346_Opistognathidae,Opistognathus liturus,セトアマダイ,C,100,MODERATE,S,demersal,NA,NA
+Taxa0371,349_Centrarchidae,Lepomis macrochirus,ブルーギル,F,100,HIGH,F,benthopelagic,NA,NA
+Taxa0372,349_Centrarchidae,Micropterus salmoides salmoides,オオクチバス,F,100,LOW,F,benthopelagic,NA,7
+Taxa0373,350_Percidae,Etheostoma caeruleum,バンデッドダーターと同じ属の種,Ex,100,HIGH,F,benthopelagic,NA,NA
+Taxa0374,351_Priacanthidae,Priacanthus blochii,アカネキントキ,C,100,LOW,S,reef-associated,15,30
+Taxa0375,352_Apogonidae,Apogon coccineus,コミナトテンジクダイ,C,100,HIGH,S,reef-associated,8,35
+Taxa0376,352_Apogonidae,Apogon seminigracaudus,アマミイシモチと同じ属の種,C,100,HIGH,S,reef-associated,1,30
+Taxa0377,352_Apogonidae,Apogon unicolor,ハナイシモチ,C,100,HIGH,S,reef-associated,10,35
+Taxa0378,352_Apogonidae,Apogonichthyoides niger,クロイシモチ,C,100,HIGH,S,demersal,NA,NA
+Taxa0379,352_Apogonidae,Apogonichthys ocellatus,マトシボリ,C,100,HIGH,S,reef-associated,1,5
+Taxa0380,352_Apogonidae,Ostorhinchus cookii,オオスジイシモチと同じ属の種,C,99.4,HIGH,S,reef-associated,1,10
+Taxa0381,352_Apogonidae,Ostorhinchus doederleini,オオスジイシモチ,C,99.95,HIGH,S,reef-associated,0,10
+Taxa0382,352_Apogonidae,Ostorhinchus endekataenia,コスジイシモチ,C,100,HIGH,S,reef-associated,25,30
+Taxa0383,352_Apogonidae,Ostorhinchus kiensis,テッポウイシモチ,C,100,HIGH,BS,reef-associated,0,50
+Taxa0384,352_Apogonidae,Ostorhinchus notatus,クロホシイシモチ,C,100,HIGH,S,reef-associated,0,20
+Taxa0385,352_Apogonidae,Ostorhinchus properuptus,キンセンイシモチ,C,99.8,HIGH,S,reef-associated,1,30
+Taxa0386,352_Apogonidae,Ostorhinchus semilineatus,ネンブツダイ,C,99.98,HIGH,BS,reef-associated,3,100
+Taxa0387,352_Apogonidae,Ostorhinchus sp NSMT P62210,オオスジイシモチと同じ属の種,C,99.4,HIGH,NA,NA,NA,NA
+Taxa0388,352_Apogonidae,Pristiapogon exostigma,該当属名・和名なし,C,100,HIGH,S,reef-associated,3,40
+Taxa0389,352_Apogonidae,Pseudamiops gracilicauda,クダリボウズギスモドキ,C,100,MODERATE,S,reef-associated,5,30
+Taxa0390,352_Apogonidae,Rhabdamia spilota,スカシテンジクダイ属の一種,C,100,HIGH,S,reef-associated,20,55
+Taxa0391,352_Apogonidae,U98.5_Apogon semiornatus,ヤミテンジクダイと近縁な種,C,98.2,HIGH,S,reef-associated,5,30
+Taxa0392,352_Apogonidae,U98.5_Apogon sp RYUKYU-ISHIMOCHI gotu1,アマミイシモチと同じ属の種と近縁な種,C,86.2,LOW,NA,NA,NA,NA
+Taxa0393,352_Apogonidae,U98.5_Apogon unicolor gotu1,ハナイシモチと近縁な種,C,84.9,LOW,S,reef-associated,10,35
+Taxa0394,352_Apogonidae,U98.5_Jaydia carinatus gotu1,テンジクダイと同じ属の種と近縁な種,C,85.1,LOW,S,reef-associated,50,146
+Taxa0395,352_Apogonidae,U98.5_Jaydia carinatus gotu2,テンジクダイと同じ属の種と近縁な種,C,85.7,LOW,S,reef-associated,50,146
+Taxa0396,352_Apogonidae,U98.5_Ostorhinchus sp NSMT P62210 gotu1,オオスジイシモチと同じ属の種と近縁な種,C,97,MODERATE,NA,NA,NA,NA
+Taxa0397,354_Sillaginidae,Sillago ingenuua,ホシギスと同じ属の種,Ex,99.6,LOW,S,demersal,20,50
+Taxa0398,354_Sillaginidae,Sillago japonica,シロギス,C,99.99,HIGH,S,demersal,0,30
+Taxa0399,355_Malacanthidae,Branchiostegus japonicus,アカアマダイ,C,100,MODERATE,S,demersal,30,200
+Taxa0400,355_Malacanthidae,Branchiostegus okinawaensis,シロアマダイと同じ属の種,Ex,100,LOW,NA,NA,NA,NA
+Taxa0401,355_Malacanthidae,Hoplolatilus purpureus,ホプロラティルス・プルプレウス,Ex,100,HIGH,S,reef-associated,30,85
+Taxa0402,358_Scombropidae,Scombrops boops,ムツ,C,99.92,MODERATE,S,benthopelagic,20,400
+Taxa0403,358_Scombropidae,Scombrops sp SI-2017,ムツと同じ属の種,C,99.4,LOW,NA,NA,NA,NA
+Taxa0404,363_Echeneidae,Remora osteochir,ヒシコバン,C,100,HIGH,S,pelagic-oceanic,NA,200
+Taxa0405,364_Carangidae,Carangoides orthogrammus,ナンヨウカイワリ,C,100,HIGH,S,reef-associated,3,168
+Taxa0406,364_Carangidae,Caranx ignobilis,ロウニンアジ,C,100,HIGH,BS,reef-associated,10,188
+Taxa0407,364_Carangidae,Decapterus macarellus,クサヤモロ,C,100,HIGH,S,pelagic-oceanic,0,400
+Taxa0408,364_Carangidae,Decapterus macrosoma,モロ,C,100,HIGH,S,reef-associated,20,214
+Taxa0409,364_Carangidae,Decapterus maruadsi,マルアジ,C,99.99,HIGH,S,reef-associated,0,NA
+Taxa0410,364_Carangidae,Decapterus muroadsi,ムロアジ,C,100,HIGH,S,pelagic-oceanic,1,320
+Taxa0411,364_Carangidae,Pseudocaranx dentex,シマアジ,C,100,HIGH,BS,reef-associated,10,238
+Taxa0412,364_Carangidae,Selar crumenophthalmus,メアジ,C,100,HIGH,S,reef-associated,0,170
+Taxa0413,364_Carangidae,Seriola dumerili,カンパチ,C,99.94,HIGH,S,reef-associated,1,360
+Taxa0414,364_Carangidae,Seriola lalandi,ヒラマサ,C,100,HIGH,BS,benthopelagic,3,825
+Taxa0415,364_Carangidae,Seriola quinqueradiata,ブリ,C,99.35,HIGH,S,demersal,NA,100
+Taxa0416,364_Carangidae,Seriola rivoliana,ヒレナガカンパチ,C,100,HIGH,S,reef-associated,5,245
+Taxa0417,364_Carangidae,Trachinotus baillonii,コバンアジ,C,100,HIGH,BS,reef-associated,0,3
+Taxa0418,364_Carangidae,Trachinotus blochii,マルコバン,C,100,HIGH,BS,reef-associated,1,7
+Taxa0419,364_Carangidae,Trachurus japonicus,マアジ,C,99.98-100,LOW-MODERATE,BS,pelagic-oceanic,0,1050
+Taxa0420,364_Carangidae,U98.5_Seriola quinqueradiata,ブリと近縁な種,C,98.3,MODERATE,S,demersal,NA,100
+Taxa0421,366_Leiognathidae,Equulites elongatus,ヒメヒイラギ,C,100,HIGH,S,demersal,20,100
+Taxa0422,366_Leiognathidae,Equulites rivulatus,オキヒイラギ,C,99.97,HIGH,S,demersal,NA,20
+Taxa0423,366_Leiognathidae,Nuchequula nuchalis,ヒイラギ,C,99.98,HIGH,BS,pelagic-neritic,NA,NA
+Taxa0424,367_Bramidae,U98.5_Pterycombus petersii,リュウグウノヒメと近縁な種,P,83.4,LOW,S,pelagic-oceanic,0,340
+Taxa0425,369_Emmelichthyidae,Erythrocles microceps,ヒチビキ,P,100,HIGH,S,demersal,NA,120
+Taxa0426,369_Emmelichthyidae,Erythrocles schlegelii,ハチビキ,P,100,HIGH,S,demersal,NA,NA
+Taxa0427,370_Lutjanidae,Lutjanus bengalensis,ベンガルフエダイ,C,99.4,HIGH,S,reef-associated,10,30
+Taxa0428,370_Lutjanidae,Lutjanus fulviflamma,ニセクロホシフエダイ,C,100,HIGH,BS,reef-associated,3,35
+Taxa0429,370_Lutjanidae,Lutjanus monostigma,イッテンフエダイ,C,100,MODERATE,S,reef-associated,1,60
+Taxa0430,370_Lutjanidae,Lutjanus quinquelineatus,ロクセンフエダイ,C,100,LOW,S,reef-associated,2,40
+Taxa0431,370_Lutjanidae,Lutjanus rivulatus,ナミフエダイ,C,100,MODERATE,S,reef-associated,50,100
+Taxa0432,371_Caesionidae,Pterocaesio marri,ニセタカサゴ,C,100,LOW,S,reef-associated,2,25
+Taxa0433,373_Gerreidae,Gerres oyena,クロサギ,C,100,LOW,BS,reef-associated,0,20
+Taxa0434,373_Gerreidae,Gerres sp CBM ZF 19209,セッパリサギと同じ属の種,C,100,HIGH,NA,NA,NA,NA
+Taxa0435,374_Haemulidae,Diagramma picta,コロダイ,C,99.95,LOW,NA,NA,NA,NA
+Taxa0436,374_Haemulidae,Hapalogenys kishinouyei,シマセトダイ,C,100,HIGH,S,benthopelagic,NA,NA
+Taxa0437,374_Haemulidae,Hapalogenys sennin,ヒゲダイ,C,100,HIGH,S,pelagic-neritic,NA,50
+Taxa0438,374_Haemulidae,Parapristipoma trilineatum,イサキ,C,99.98,HIGH,S,benthopelagic,NA,NA
+Taxa0439,374_Haemulidae,Plectorhinchus cinctus,コショウダイ,C,99.96,HIGH,S,reef-associated,NA,NA
+Taxa0440,374_Haemulidae,Pomadasys maculatum,マダラミゾイサキ,C,100,HIGH,NA,NA,NA,NA
+Taxa0441,374_Haemulidae,Pomadasys sp CBM ZF 18112,ホシミゾイサキ属の一種,C,100,HIGH,NA,NA,NA,NA
+Taxa0442,376_Nemipteridae,Nemipterus japonicus,ニホンイトヨリ,Ex,100,HIGH,S,demersal,5,80
+Taxa0443,376_Nemipteridae,Nemipterus nematophorus,ヒライトヨリと同じ属の種,Ex,100,HIGH,S,demersal,NA,75
+Taxa0444,376_Nemipteridae,Pentapodus bifasciatus,キツネウオ属の一種,Ex,100,HIGH,S,reef-associated,2,20
+Taxa0445,376_Nemipteridae,Pentapodus setosus,キツネウオ属の一種,Ex,100,HIGH,S,reef-associated,5,50
+Taxa0446,377_Lethrinidae,Lethrinus genivittatus,イトフエフキ, C,100,HIGH,BS,reef-associated,5,25
+Taxa0447,377_Lethrinidae,Lethrinus microdon,オオフエフキ,Ex,100,HIGH,S,reef-associated,10,80
+Taxa0448,377_Lethrinidae,Lethrinus nebulosus,ハマフエフキ,C,100,HIGH,BS,reef-associated,10,75
+Taxa0449,377_Lethrinidae,U98.5_Lethrinus olivaceus,キツネフエフキと近縁な種,C,96.4,LOW,S,reef-associated,1,185
+Taxa0450,378_Sparidae,Acanthopagrus latus,キチヌ,C,100,HIGH,FBS,demersal,NA,NA
+Taxa0451,378_Sparidae,Acanthopagrus schlegelii,クロダイ,C,100,LOW,BS,demersal,15,NA
+Taxa0452,378_Sparidae,Dentex hypselosomus,キダイ,C,100,MODERATE,S,demersal,NA,NA
+Taxa0453,378_Sparidae,Evynnis tumifrons,チダイ,C,99.95-100,LOW-MODERATE,S,demersal,30,346
+Taxa0454,378_Sparidae,Pagrus major,マダイ,C,99.99,HIGH,S,demersal,10,200
+Taxa0455,378_Sparidae,Rhabdosargus sarba,ヘダイ,C,100,HIGH,BS,reef-associated,0,60
+Taxa0456,380_Polynemidae,Polydactylus microstomus,ツバメコノシロと同じ属の種,C,100,HIGH,BS,demersal,2,55
+Taxa0457,380_Polynemidae,Polydactylus plebeius,ツバメコノシロ,C,100,HIGH,BS,demersal,NA,122
+Taxa0458,380_Polynemidae,Polydactylus sexfilis,ナンヨウアゴナシ,C,100,HIGH,FBS,reef-associated,1,50
+Taxa0459,380_Polynemidae,Polynemus aquilonaris,該当属名・和名なし,C,100,MODERATE,FB,demersal,NA,NA
+Taxa0460,381_Sciaenidae,Argyrosomus japonicus,オオニベ,C,100,LOW,BS,benthopelagic,NA,NA
+Taxa0461,381_Sciaenidae,Johnius carouna,ヒゲイシモチと同じ属の種,Ex,100,HIGH,FBS,benthopelagic,NA,NA
+Taxa0462,381_Sciaenidae,Nibea mitsukurii,ニベ,C,99.92,LOW,S,benthopelagic,NA,NA
+Taxa0463,381_Sciaenidae,Pennahia anea,ペンナヒア・アネア,C,100,HIGH,S,demersal,NA,60
+Taxa0464,381_Sciaenidae,Pennahia argentata,シログチ,C,100,HIGH,S,benthopelagic,20,140
+Taxa0465,382_Mullidae,Mulloidichthys vanicolensis,アカヒメジ,C,100,HIGH,S,reef-associated,1,113
+Taxa0466,382_Mullidae,Parupeneus ciliatus,ホウライヒメジ,C,100,HIGH,S,reef-associated,2,91
+Taxa0467,382_Mullidae,Parupeneus indicus,コバンヒメジ,C,100,HIGH,BS,reef-associated,10,30
+Taxa0468,382_Mullidae,Parupeneus multifasciatus,オジサン,C,100,LOW,NA,NA,NA,NA
+Taxa0469,382_Mullidae,Parupeneus spilurus,オキナヒメジ,C,99.92,HIGH,BS,reef-associated,10,80
+Taxa0470,382_Mullidae,Upeneus japonicus,ヒメジ,C,100,LOW,S,reef-associated,4,200
+Taxa0471,382_Mullidae,Upeneus tragula,ヨメヒメジ,C,100,HIGH,BS,reef-associated,0,42
+Taxa0472,383_Pempheridae,Parapriacanthus ransonneti,キンメモドキ,C,99.95,HIGH,S,reef-associated,NA,550
+Taxa0473,383_Pempheridae,Pempheris adusta,リュウキュウハタンポ ,C,100,HIGH,S,reef-associated,0,20
+Taxa0474,383_Pempheridae,Pempheris japonica,ツマグロハタンポ,C,99.98,HIGH,S,benthopelagic,NA,NA
+Taxa0475,383_Pempheridae,Pempheris oualensis,ユメハタンポ,C,99.4,HIGH,S,reef-associated,1,36
+Taxa0476,383_Pempheridae,Pempheris schwenkii,ミナミハタンポ,C,99.99,LOW,S,reef-associated,5,40
+Taxa0477,391_Kyphosidae,Girella leonina,クロメジナ,C,100,HIGH,S,reef-associated,1,15
+Taxa0478,391_Kyphosidae,Girella mezina,オキナメジナ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0479,391_Kyphosidae,Girella punctata,メジナ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0480,391_Kyphosidae,Kyphosus bigibbus,ノトイスズミ,C,99.99,HIGH,S,reef-associated,2,NA
+Taxa0481,391_Kyphosidae,Kyphosus cinerascens,テンジクイサキ,C,100,MODERATE,S,reef-associated,1,45
+Taxa0482,391_Kyphosidae,Kyphosus vaigiensis,イスズミ,C,99.99,MODERATE,S,reef-associated,0,40
+Taxa0483,391_Kyphosidae,Labracoglossa argenteiventris,タカベ,C,99.97,HIGH,S,reef-associated,NA,NA
+Taxa0484,391_Kyphosidae,Microcanthus strigatus,カゴカキダイ,C,99.99,HIGH,BS,reef-associated,1,140
+Taxa0485,393_Chaetodontidae,Chaetodon adiergastos,クラカケチョウチョウウオ,C,99.4,LOW,S,reef-associated,1,30
+Taxa0486,393_Chaetodontidae,Chaetodon auriga,トゲチョウチョウウオ,C,99.95,MODERATE,S,reef-associated,1,60
+Taxa0487,393_Chaetodontidae,Chaetodon auripes,チョウチョウウオ,C,100,MODERATE,S,reef-associated,1,30
+Taxa0488,393_Chaetodontidae,Chaetodon lunula,チョウハン,C,99.92,LOW,S,reef-associated,0,170
+Taxa0489,393_Chaetodontidae,Chaetodon nippon,シラコダイ,C,100,HIGH,S,reef-associated,5,30
+Taxa0490,393_Chaetodontidae,Chaetodon vagabundus,フウライチョウチョウウオ,C,100,HIGH,S,reef-associated,5,30
+Taxa0491,394_Pomacanthidae,Chaetodontoplus septentrionalis,キンチャクダイ,C,100,LOW,S,reef-associated,5,15
+Taxa0492,394_Pomacanthidae,Pomacanthus semicirculatus,サザナミヤッコ,C,100,HIGH,S,reef-associated,1,40
+Taxa0493,396_Pentacerotidae,Evistias acutirostris,テングダイ,C,100,HIGH,S,reef-associated,18,193
+Taxa0494,396_Pentacerotidae,U98.5_Histiopterus typus,カワビシャと近縁な種,C,95.3,MODERATE,S,reef-associated,40,421
+Taxa0495,399_Teraponidae,Rhynchopelates oxyrhynchus,シマイサキ,C,100,HIGH,FBS,benthopelagic,NA,NA
+Taxa0496,399_Teraponidae,Terapon jarbua,コトヒキ,C,100,HIGH,FBS,demersal,20,350
+Taxa0497,400_Kuhliidae,Kuhlia mugil,ギンユゴイ,C,100,HIGH,BS,reef-associated,3,18
+Taxa0498,401_Oplegnathidae,Oplegnathus fasciatus,イシダイ,C,99.99,HIGH,S,reef-associated,1,10
+Taxa0499,401_Oplegnathidae,Oplegnathus punctatus,イシガキダイ,C,99.97,HIGH,S,reef-associated,3,135
+Taxa0500,402_Cirrhitidae,Cirrhitichthys aurens,オキゴンベ,C,100,HIGH,NA,NA,NA,NA
+Taxa0501,402_Cirrhitidae,Cirrhitichthys oxycephalus,ヒメゴンベ,Ex,100,HIGH,S,reef-associated,1,40
+Taxa0502,402_Cirrhitidae,Cirrhitus pinnulatus,イソゴンベ,C,100,HIGH,S,reef-associated,0,23
+Taxa0503,402_Cirrhitidae,Oxycirrhites typus,クダゴンベ,C,100,HIGH,S,reef-associated,0,100
+Taxa0504,405_Cheilodactylidae,Cheilodactylus zebra,ミギマキ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0505,405_Cheilodactylidae,Cheilodactylus zonatus,タカノハダイ,C,99.98,LOW,S,benthopelagic,NA,NA
+Taxa0506,405_Cheilodactylidae,U98.5_Cheilodactylus zonatus gotu1,タカノハダイと近縁な種,C,98.2,LOW,S,benthopelagic,NA,NA
+Taxa0507,407_Cepolidae,Acanthocepola indica,インドアカタチ,C,100,HIGH,S,benthopelagic,NA,300
+Taxa0508,409_Cichlidae,Etroplus suratensis,該当属名・和名なし,C,100,HIGH,B,benthopelagic,10,NA
+Taxa0509,410_Embiotocidae,Ditrema jordani,アカタナゴ,C,100,HIGH,S,demersal,NA,NA
+Taxa0510,410_Embiotocidae,Ditrema temminckii temminckii,ウミタナゴ,C,100,LOW,NA,NA,NA,NA
+Taxa0511,410_Embiotocidae,Neoditrema ransonneti,オキタナゴ,C,99.96,HIGH,NA,NA,NA,NA
+Taxa0512,410_Embiotocidae,U98.5_Ditrema jordani,アカタナゴと近縁な種,C,91.7,LOW,S,demersal,NA,NA
+Taxa0513,411_Pomacentridae,Abudefduf bengalensis,テンジクスズメダイ,C,100,HIGH,S,reef-associated,1,6
+Taxa0514,411_Pomacentridae,Abudefduf notatus,イソスズメダイ,C,100,HIGH,S,reef-associated,1,12
+Taxa0515,411_Pomacentridae,Abudefduf saxatilis,オヤビッチャ属の種と近縁な種,C,98.8,LOW,S,reef-associated,0,20
+Taxa0516,411_Pomacentridae,Abudefduf septemfasciatus,シチセンスズメダイ,C,100,HIGH,S,reef-associated,0,3
+Taxa0517,411_Pomacentridae,Abudefduf sexfasciatus,ロクセンスズメダイ,C,99.99,LOW,S,reef-associated,1,20
+Taxa0518,411_Pomacentridae,Abudefduf sordidus,シマスズメダイ,C,99.96,HIGH,BS,reef-associated,0,3
+Taxa0519,411_Pomacentridae,Abudefduf vaigiensis,オヤビッチャ,C,99.98,MODERATE,S,reef-associated,1,15
+Taxa0520,411_Pomacentridae,Chromis notata notata,スズメダイ,C,100,HIGH,S,reef-associated,2,15
+Taxa0521,411_Pomacentridae,Chrysiptera biocellata,スジブチスズメダイ,C,100,LOW,S,reef-associated,0,5
+Taxa0522,411_Pomacentridae,Plectroglyphidodon leucozonus,ハクセンスズメダイ,C,99.9,HIGH,S,reef-associated,0,6
+Taxa0523,411_Pomacentridae,Pomacentrus caeruleopunctatus,ソラスズメダイ属の種と近縁な種,C,99.99,LOW,S,reef-associated,7,10
+Taxa0524,411_Pomacentridae,Pomacentrus pavo,クジャクスズメダイ,C,100,MODERATE,S,reef-associated,1,18
+Taxa0525,411_Pomacentridae,Stegastes altus,セダカスズメダイ,C,99.91,HIGH,S,reef-associated,5,20
+Taxa0526,411_Pomacentridae,U98.5_Abudefduf saxatilis gotu1,オヤビッチャ属の種と近縁な種,C,97,LOW,S,reef-associated,0,20
+Taxa0527,412_Labridae,Bodianus izuensis,タヌキベラ,C,100,HIGH,S,reef-associated,30,70
+Taxa0528,412_Labridae,Bodianus oxycephalus,キツネダイ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0529,412_Labridae,Cheilinus fasciatus,ヤシャベラ,Ex,100,HIGH,S,reef-associated,4,60
+Taxa0530,412_Labridae,Choerodon azurio,イラ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0531,412_Labridae,Choerodon margaritiferus,ユウモドロベラ,Ex,100,HIGH,S,demersal,NA,72
+Taxa0532,412_Labridae,Halichoeres chloropterus,ハリコエレス・クロロプテルス,Ex,100,HIGH,S,reef-associated,0,10
+Taxa0533,412_Labridae,Halichoeres poecilopterus,キュウセン,C,99.99,MODERATE,NA,NA,NA,NA
+Taxa0534,412_Labridae,Halichoeres tenuispinis,ホンベラ,C,100,HIGH,S,reef-associated,0,4
+Taxa0535,412_Labridae,Labroides dimidiatus,ホンソメワケベラ,C,100,HIGH,S,reef-associated,1,40
+Taxa0536,412_Labridae,Pseudojuloides elongatus,オトヒメベラ,C,100,HIGH,S,reef-associated,5,50
+Taxa0537,412_Labridae,Pseudolabrus eoethinus,アカササノハベラ,C,99.99,HIGH,S,reef-associated,NA,NA
+Taxa0538,412_Labridae,Pseudolabrus sieboldi,ホシササノハベラ,C,99.95,HIGH,S,demersal,NA,NA
+Taxa0539,412_Labridae,Pteragogus aurigarius,オハグロベラ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0540,412_Labridae,Semicossyphus reticulatus,カンダイ,C,99.99,HIGH,S,demersal,NA,NA
+Taxa0541,412_Labridae,Stethojulis interrupta terina,カミナリベラ,C,99.99,HIGH,S,reef-associated,NA,18
+Taxa0542,412_Labridae,Suezichthys gracilis,イトベラ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0543,412_Labridae,Thalassoma amblycephalum,コガシラベラ,C,100,MODERATE,S,reef-associated,1,15
+Taxa0544,412_Labridae,Thalassoma cupido,ニシキベラ,C,100,HIGH,S,demersal,NA,NA
+Taxa0545,412_Labridae,Thalassoma lunare,オトメベラ,C,100,LOW,S,reef-associated,1,20
+Taxa0546,412_Labridae,Thalassoma lutescens,ヤマブキベラ,C,100,LOW,S,reef-associated,1,30
+Taxa0547,412_Labridae,Thalassoma quinquevittatum,ハコベラ,C,99.57,MODERATE,S,reef-associated,0,40
+Taxa0548,412_Labridae,Thalassoma trilobatum,リュウグウベラ,C,100,LOW,S,reef-associated,0,10
+Taxa0549,412_Labridae,U98.5_Stethojulis interrupta terina,カミナリベラと近縁な種,C,98.2,MODERATE,S,reef-associated,NA,18
+Taxa0550,414_Scaridae,Calotomus japonicus,ブダイ,C,99.97,HIGH,S,reef-associated,NA,NA
+Taxa0551,414_Scaridae,Calotomus spinidens,チビブダイ,C,100,HIGH,S,reef-associated,1,72
+Taxa0552,414_Scaridae,Leptoscarus vaigiensis,タイワンブダイ,C,100,HIGH,S,reef-associated,1,15
+Taxa0553,414_Scaridae,Scarus chameleon,カメレオンブダイ,C,99.7,LOW,S,reef-associated,3,30
+Taxa0554,414_Scaridae,Scarus ovifrons,アオブダイ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0555,416_Zoarcidae,Lycodes tanakae,タナカゲンゲ,Ex,100,LOW,S,bathydemersal,10,1100
+Taxa0556,416_Zoarcidae,Lycodes teraoi,ヒナゲンゲ,Ex,100,MODERATE,S,demersal,NA,NA
+Taxa0557,417_Stichaeidae,Dictyosoma burgeri Form a,ダイナンギンポa型,C,99.89,HIGH,S,demersal,NA,NA
+Taxa0558,417_Stichaeidae,Dictyosoma rubrimaculatum,ベニツケギンポ,C,99.97,HIGH,S,reef-associated,NA,NA
+Taxa0559,417_Stichaeidae,Eumesogrammus praecisus,トゲギンポ,C,98.8,LOW,S,benthopelagic,5,400
+Taxa0560,417_Stichaeidae,Opisthocentrus tenuis,ハナジロガジ,Ex,100,HIGH,S,demersal,1,300
+Taxa0561,417_Stichaeidae,Zoarchias glaber,トビイトギンポ,C,99.94,HIGH,S,demersal,NA,NA
+Taxa0562,417_Stichaeidae,Zoarchias neglectus,コモンイトギンポ,C,100,HIGH,S,demersal,NA,NA
+Taxa0563,419_Pholidae,Pholis clemensi,タケギンポと同じ属の種,C,99.38,LOW,S,demersal,7,64
+Taxa0564,419_Pholidae,Pholis crassispina,タケギンポ,C,100,HIGH,S,demersal,0,5
+Taxa0565,419_Pholidae,Pholis nebulosa,ギンポ,C,99.62,LOW,S,demersal,0,200
+Taxa0566,433_Champsodontidae,Champsodon pantolepis,ヨロイワニギス,D,100,HIGH,S,bathydemersal,NA,406
+Taxa0567,433_Champsodontidae,Champsodon snyderi,ワニギス,D,100,HIGH,S,demersal,NA,370
+Taxa0568,433_Champsodontidae,Champsodon vorax,クロワニギスと同じ属の種,D,100,HIGH,S,demersal,34,84
+Taxa0569,433_Champsodontidae,U98.5_Champsodon snyderi,ワニギスと近縁な種,D,94.7,HIGH,S,demersal,NA,370
+Taxa0570,435_Pinguipedidae,Parapercis diplospilus,アカトラギスと同じ属の種,C,99.4,HIGH,S,demersal,20,50
+Taxa0571,435_Pinguipedidae,Parapercis kentingensis,アカトラギスと同じ属の種,Ex,100,HIGH,S,benthopelagic,50,150
+Taxa0572,435_Pinguipedidae,Parapercis lutevittata,アカトラギスと同じ属の種,Ex,100,HIGH,S,demersal,50,100
+Taxa0573,435_Pinguipedidae,Parapercis pulchella,トラギス,C,100,HIGH,S,demersal,NA,NA
+Taxa0574,435_Pinguipedidae,Parapercis snyderi,コウライトラギス,C,100,HIGH,S,reef-associated,10,40
+Taxa0575,437_Trichonotidae,Trichonotus setiger,ベラギンポ,C,100,HIGH,BS,reef-associated,10,80
+Taxa0576,437_Trichonotidae,Trichonotus sp BSKU 65703,リュウグウベラギンポと同じ属の種,C,99.4,HIGH,NA,NA,NA,NA
+Taxa0577,439_Percophidae,U98.5_Bembrops curvatura gotu1,ナミアイトラギスと近縁な種,D,87.97,LOW,S,demersal,100,280
+Taxa0578,441_Ammodytidae,Ammodytes personatus,イカナゴ,C,99.7,LOW,S,demersal,0,172
+Taxa0579,441_Ammodytidae,U98.5_Ammodytes hexapterus,キタイカナゴと近縁な種,C,95.2,LOW,BS,benthopelagic,0,275
+Taxa0580,443_Uranoscopidae,Uranoscopus chinensis,キビレミシマ,C,100,HIGH,S,benthopelagic,7,64
+Taxa0581,443_Uranoscopidae,Uranoscopus japonicus,ミシマオコゼ,D,99.94,HIGH,S,bathydemersal,250,300
+Taxa0582,443_Uranoscopidae,Uranoscopus sp KAUM I 94698,ミシマオコゼ属の一種,Ex,100,HIGH,NA,NA,NA,NA
+Taxa0583,445_Tripterygiidae,Enneapterygius erythrosoma,ゴマフヘビギンポと同じ属の種,C,100,HIGH,NA,NA,NA,NA
+Taxa0584,445_Tripterygiidae,Enneapterygius etheostomus,ヘビギンポ,C,99.97,HIGH,S,demersal,0,21
+Taxa0585,445_Tripterygiidae,Enneapterygius fuscoventer,ゴマフヘビギンポと同じ属の種,C,100,LOW,S,reef-associated,0,5
+Taxa0586,445_Tripterygiidae,Enneapterygius leucopunctatus,ハクテンヘビギンポ,C,99.85,HIGH,S,demersal,0,12
+Taxa0587,445_Tripterygiidae,Enneapterygius philippinus,クサギンポ,C,100,HIGH,S,reef-associated,0,8
+Taxa0588,445_Tripterygiidae,Enneapterygius phoenicosoma,ゴマフヘビギンポと同じ属の種,C,100,HIGH,NA,NA,NA,NA
+Taxa0589,445_Tripterygiidae,Enneapterygius sp KAUM I 101347,ゴマフヘビギンポと同じ属の種,C,100,HIGH,NA,NA,NA,NA
+Taxa0590,445_Tripterygiidae,Springerichthys bapturus,ヒメギンポ,C,100,HIGH,S,demersal,NA,NA
+Taxa0591,447_Blenniidae,Andamia tetradactyla,ヨダレカケ,C,100,HIGH,NA,NA,NA,NA
+Taxa0592,447_Blenniidae,Cirripectes imitator,アミメミノカエルウオ,C,99.8,HIGH,S,reef-associated,0,10
+Taxa0593,447_Blenniidae,Entomacrodus caudofasciatus,アオモンギンポ,C,99.47,HIGH,S,reef-associated,0,3
+Taxa0594,447_Blenniidae,Entomacrodus stellifer stellifer,ホシギンポ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0595,447_Blenniidae,Entomacrodus striatus,スジギンポ,C,99.9,HIGH,S,reef-associated,0,3
+Taxa0596,447_Blenniidae,Entomacrodus thalassinus,アオモンギンポと同じ属の種,C,99.77,HIGH,S,reef-associated,0,5
+Taxa0597,447_Blenniidae,Istiblennius edentulus,ニセカエルウオ,C,99.67,LOW,BS,reef-associated,0,5
+Taxa0598,447_Blenniidae,Istiblennius enosimae,カエルウオ,C,99.99,MODERATE,NA,NA,NA,NA
+Taxa0599,447_Blenniidae,Omobranchus elegans,ナベカ,C,99.99,HIGH,S,demersal,NA,NA
+Taxa0600,447_Blenniidae,Omobranchus smithi,ナベカと同じ属の種,C,100,HIGH,S,demersal,NA,NA
+Taxa0601,447_Blenniidae,Parablennius yatabei,イソギンポ,C,99.97,HIGH,S,demersal,NA,NA
+Taxa0602,447_Blenniidae,Petroscirtes breviceps,ニジギンポ,C,100,MODERATE,BS,reef-associated,1,15
+Taxa0603,447_Blenniidae,Petroscirtes mitratus,ハタタテギンポ,C,100,HIGH,S,reef-associated,0,8
+Taxa0604,447_Blenniidae,Praealticus margaritarius,タマギンポ,C,100,HIGH,S,demersal,NA,NA
+Taxa0605,447_Blenniidae,Rhabdoblennius nitidus,ロウソクギンポ,C,100,HIGH,S,reef-associated,0,2
+Taxa0606,447_Blenniidae,Salarias luctuosus,シマギンポ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0607,447_Blenniidae,U98.5_Entomacrodus caudofasciatus,アオモンギンポと近縁な種,C,92.8,MODERATE,S,reef-associated,0,3
+Taxa0608,447_Blenniidae,U98.5_Entomacrodus striatus gotu1,スジギンポと近縁な種,C,90.4,LOW,S,reef-associated,0,3
+Taxa0609,447_Blenniidae,U98.5_Entomacrodus striatus gotu2,スジギンポと近縁な種,C,94.6,MODERATE,S,reef-associated,0,3
+Taxa0610,447_Blenniidae,U98.5_Entomacrodus thalassinus,アオモンギンポと同じ属の種と近縁な種,C,95.2,HIGH,S,reef-associated,0,5
+Taxa0611,447_Blenniidae,U98.5_Istiblennius edentulus gotu1,ニセカエルウオと近縁な種,C,91,LOW,BS,reef-associated,0,5
+Taxa0612,447_Blenniidae,U98.5_Istiblennius edentulus gotu2,ニセカエルウオと近縁な種,C,85.5,LOW,BS,reef-associated,0,5
+Taxa0613,447_Blenniidae,U98.5_Parablennius yatabei gotu1,イソギンポと近縁な種,C,95.82,MODERATE,S,demersal,NA,NA
+Taxa0614,447_Blenniidae,U98.5_Petroscirtes breviceps,ニジギンポと近縁な種,C,89.8,LOW,BS,reef-associated,1,15
+Taxa0615,447_Blenniidae,U98.5_Scartella cristata,タテガミギンポと近縁な種,C,97,HIGH,S,reef-associated,0,10
+Taxa0616,450_Chaenopsidae,Neoclinus bryope,コケギンポ,C,100,HIGH,S,demersal,NA,NA
+Taxa0617,450_Chaenopsidae,U98.5_Neoclinus bryope gotu1,コケギンポと近縁な種,C,89.35,LOW,S,demersal,NA,NA
+Taxa0618,450_Chaenopsidae,U98.5_Neoclinus nudus gotu1,コケギンポと同じ属の種と近縁な種,C,93.88,LOW,S,reef-associated,NA,4
+Taxa0619,450_Chaenopsidae,U98.5_Neoclinus nudus gotu2,コケギンポと同じ属の種と近縁な種,C,93.12,LOW,S,reef-associated,NA,4
+Taxa0620,450_Chaenopsidae,U98.5_Neoclinus nudus gotu3,コケギンポと同じ属の種と近縁な種,C,92.3,LOW,S,reef-associated,NA,4
+Taxa0621,450_Chaenopsidae,U98.5_Neoclinus nudus gotu4,コケギンポと同じ属の種と近縁な種,C,94.32,MODERATE,S,reef-associated,NA,4
+Taxa0622,450_Chaenopsidae,U98.5_Neoclinus nudus gotu5,コケギンポと同じ属の種と近縁な種,C,93.5,MODERATE,S,reef-associated,NA,4
+Taxa0623,450_Chaenopsidae,U98.5_Neoclinus nudus gotu6,コケギンポと同じ属の種と近縁な種,C,93.58,LOW,S,reef-associated,NA,4
+Taxa0624,450_Chaenopsidae,U98.5_Neoclinus nudus gotu7,コケギンポと同じ属の種と近縁な種,C,92.9,LOW,S,reef-associated,NA,4
+Taxa0625,452_Gobiesocidae,Aspasma minima,ウバウオ,C,99.99,HIGH,S,demersal,NA,NA
+Taxa0626,452_Gobiesocidae,Conidens laticephalus,アンコウウバウオ,C,99.99,HIGH,S,demersal,NA,NA
+Taxa0627,452_Gobiesocidae,Lepadichthys frenatus,ミサキウバウオ,C,98.8,HIGH,S,reef-associated,1,6
+Taxa0628,452_Gobiesocidae,U98.5_Discotrema lineata,タスジウミシダウバウオと近縁な種,C,85.5,LOW,NA,NA,NA,NA
+Taxa0629,452_Gobiesocidae,U98.5_Lepadichthys frenatus gotu1,ミサキウバウオと近縁な種,C,90.3,LOW,S,reef-associated,1,6
+Taxa0630,453_Callionymidae,Callionymus enneactis,トビヌメリと同じ属の種,C,100,LOW,BS,reef-associated,1,15
+Taxa0631,453_Callionymidae,Callionymus guenther,トビヌメリと同じ属の種,C,100,MODERATE,NA,NA,NA,NA
+Taxa0632,453_Callionymidae,Calliurichthys izuensis,イズヌメリ,C,100,HIGH,NA,NA,NA,NA
+Taxa0633,453_Callionymidae,Paradiplogrammus enneactis,ハナビヌメリ,C,100,HIGH,NA,NA,NA,NA
+Taxa0634,453_Callionymidae,Repomucenus beniteguri,トビヌメリ,C,99.97,LOW,NA,NA,NA,NA
+Taxa0635,453_Callionymidae,Repomucenus curvicornis,ネズミゴチ,C,99.86,LOW,NA,NA,NA,NA
+Taxa0636,453_Callionymidae,Repomucenus sp KAUM I 94720,トビヌメリと同じ属の種,C,100,HIGH,NA,NA,NA,NA
+Taxa0637,453_Callionymidae,Repomucenus valenciennei,ハタタテヌメリ,C,100,HIGH,NA,NA,NA,NA
+Taxa0638,453_Callionymidae,U98.5_Callionymus meridionalis gotu1,トビヌメリと同じ属の種と近縁な種,C,87.18,LOW,S,demersal,NA,70
+Taxa0639,453_Callionymidae,U98.5_Calliurichthys izuensis gotu1,イズヌメリと近縁な種,C,91.32,LOW,NA,NA,NA,NA
+Taxa0640,453_Callionymidae,U98.5_Repomucenus valenciennei gotu1,ハタタテヌメリと近縁な種,C,97.5,HIGH,NA,NA,NA,NA
+Taxa0641,453_Callionymidae,U98.5_Repomucenus valenciennei gotu2,ハタタテヌメリと近縁な種,C,85.3,LOW,NA,NA,NA,NA
+Taxa0642,456_Odontobutidae,Odontobutis obscura,ドンコ,F,100,HIGH,F,benthopelagic,NA,NA
+Taxa0643,456_Odontobutidae,Odontobutis potamophila,カラドンコ,Ex,99.7,HIGH,F,benthopelagic,NA,NA
+Taxa0644,457_Eleotridae,Bostrychus zonatus,ジャノメハゼと同じ属の種,Ex,100,HIGH,FB,demersal,NA,NA
+Taxa0645,457_Eleotridae,Eleotris oxycephala,カワアナゴ,C,100,HIGH,FBS,demersal,NA,NA
+Taxa0646,460_Gobiidae,Acanthogobius flavimanus,マハゼ,C,99.99,HIGH,FBS,demersal,1,6
+Taxa0647,460_Gobiidae,Acanthogobius lactipes,アシシロハゼ,C,99.8,HIGH,FBS,demersal,NA,NA
+Taxa0648,460_Gobiidae,Acentrogobius multifasciatus,セイタカスジハゼ,C,100,HIGH,BS,demersal,NA,NA
+Taxa0649,460_Gobiidae,Acentrogobius pflaumii,モヨウハゼ,C,100,HIGH,BS,demersal,NA,NA
+Taxa0650,460_Gobiidae,Acentrogobius virgatulus,スジハゼ,C,100,HIGH,NA,NA,NA,NA
+Taxa0651,460_Gobiidae,Amblygobius phalaena,サラサハゼ,C,100,HIGH,S,reef-associated,NA,52
+Taxa0652,460_Gobiidae,Asterropteryx semipunctata,ホシハゼ,C,100,HIGH,S,reef-associated,1,20
+Taxa0653,460_Gobiidae,Astrabe lacticella,セジロハゼと同じ属の種,C,100,HIGH,NA,NA,NA,NA
+Taxa0654,460_Gobiidae,Barbuligobius boehlkei,イトヒゲモジャハゼ,C,100,HIGH,S,demersal,1,15
+Taxa0655,460_Gobiidae,Bathygobius coalitus,クロヤハズハゼ,C,100,HIGH,S,reef-associated,0,5
+Taxa0656,460_Gobiidae,Bathygobius cocosensis,スジクモハゼ,C,99.97,HIGH,BS,reef-associated,0,10
+Taxa0657,460_Gobiidae,Bathygobius cyclopterus,ヤハズハゼ,C,100,HIGH,BS,reef-associated,0,20
+Taxa0658,460_Gobiidae,Bathygobius fuscus,クモハゼ,C,99.99,HIGH,FBS,reef-associated,0,6
+Taxa0659,460_Gobiidae,Bathygobius laddi,ヤミクモハゼ,C,99.4,HIGH,S,reef-associated,NA,NA
+Taxa0660,460_Gobiidae,Bathygobius cotticeps,クサビハゼ,C,100,HIGH,NA,NA,NA,NA
+Taxa0661,460_Gobiidae,Callogobius snelliusi,シュンカンハゼ,C,100,HIGH,S,reef-associated,3,15
+Taxa0662,460_Gobiidae,Callogobius sp KAUM I 104414,ヒレグロフタスジハゼと同じ属の種,C,100,HIGH,NA,NA,NA,NA
+Taxa0663,460_Gobiidae,Callogobius sp KAUM I 99028,ヒレグロフタスジハゼと同じ属の種,C,100,HIGH,NA,NA,NA,NA
+Taxa0664,460_Gobiidae,Chaenogobius annularis,アゴハゼ,C,99.99,HIGH,F,demersal,NA,NA
+Taxa0665,460_Gobiidae,Chaenogobius gulosus,ドロメ,C,99.99,HIGH,BS,demersal,0,2
+Taxa0666,460_Gobiidae,Clariger cosmurus,セジロハゼ,C,99.96,HIGH,S,demersal,NA,NA
+Taxa0667,460_Gobiidae,Clariger papillosus,ヒゲセジロハゼ,C,99.99,HIGH,S,demersal,NA,NA
+Taxa0668,460_Gobiidae,Clariger sp CBM ZF 18879,アワユキセジロハゼと同じ属の種,C,99.98,HIGH,NA,NA,NA,NA
+Taxa0669,460_Gobiidae,Clariger sp SHIROHIGE SEJIROHAZE,シロヒゲセジロハゼ,C,99.94,HIGH,NA,NA,NA,NA
+Taxa0670,460_Gobiidae,Clariger sp SHIROHIGE SEJIROHAZE Genetype2,アワユキセジロハゼと同じ属の種,C,99.99,HIGH,NA,NA,NA,NA
+Taxa0671,460_Gobiidae,Drombus sp KUROKO HAZE,クロコハゼ,C,100,HIGH,NA,NA,NA,NA
+Taxa0672,460_Gobiidae,Elacatinus oceanops,該当属名・和名なし,Ex,100,HIGH,S,reef-associated,1,45
+Taxa0673,460_Gobiidae,Eviota abax,イソハゼ,C,99.99,HIGH,S,reef-associated,NA,NA
+Taxa0674,460_Gobiidae,Eviota guttata,イソハゼと同じ属の種,C,100,HIGH,S,reef-associated,1,15
+Taxa0675,460_Gobiidae,Eviota korechika,シボリイソハゼ,C,100,HIGH,S,benthopelagic,0,60
+Taxa0676,460_Gobiidae,Eviota masudai,アカイソハゼ,C,100,HIGH,S,reef-associated,2,64
+Taxa0677,460_Gobiidae,Eviota punctulata,ミツバイソハゼ,C,99.4,HIGH,S,reef-associated,1,29
+Taxa0678,460_Gobiidae,Favonigobius gymnauchen,ヒメハゼ,C,99.88,HIGH,FBS,reef-associated,NA,NA
+Taxa0679,460_Gobiidae,Favonigobius sp CBM ZF 19041,ヒメハゼと同じ属の種,C,99.4,HIGH,NA,NA,NA,NA
+Taxa0680,460_Gobiidae,Gnatholepis cauerensis,カタボシオオモンハゼ,C,99.4,HIGH,BS,reef-associated,2,50
+Taxa0681,460_Gobiidae,Gobiodon quinquestrigatus KAUM I 63272,イチモンジコバンハゼと同じ属の種,C,100,HIGH,S,reef-associated,0,70
+Taxa0682,460_Gobiidae,Gymnogobius breunigii,ビリンゴ,C,99.9,HIGH,FB,demersal,NA,NA
+Taxa0683,460_Gobiidae,Gymnogobius cylindricus,キセルハゼ,C,100,LOW,BS,demersal,0,NA
+Taxa0684,460_Gobiidae,Gymnogobius heptacanthus,ニクハゼ,C,99.85,HIGH,S,demersal,NA,NA
+Taxa0685,460_Gobiidae,Gymnogobius opperiens,シマウキゴリ,C,99.94,LOW,FBS,demersal,NA,NA
+Taxa0686,460_Gobiidae,Gymnogobius petschiliensis,スミウキゴリ,C,100,MODERATE,FBS,demersal,NA,NA
+Taxa0687,460_Gobiidae,Gymnogobius castaneus,ジュズカケハゼ広域種群,C,100,LOW,NA,NA,NA,NA
+Taxa0688,460_Gobiidae,Gymnogobius urotaenia,ウキゴリ,C,100,MODERATE,FBS,demersal,NA,NA
+Taxa0689,460_Gobiidae,Inu ama,アマハゼ,C,99.92,HIGH,NA,NA,NA,NA
+Taxa0690,460_Gobiidae,Inu koma,コマハゼ,C,99.74,HIGH,NA,NA,NA,NA
+Taxa0691,460_Gobiidae,Istigobius campbelli,クツワハゼ,C,99.97,LOW,S,demersal,3,14
+Taxa0692,460_Gobiidae,Istigobius campbelli KAUM I 66130,クツワハゼ鹿児島型,C,99.4,LOW,S,demersal,3,14
+Taxa0693,460_Gobiidae,Istigobius hoshinonis,ホシノハゼ,C,100,HIGH,S,demersal,3,14
+Taxa0694,460_Gobiidae,Lentipes armatus,ヨロイボウズハゼ,C,99.4,HIGH,FBS,benthopelagic,NA,NA
+Taxa0695,460_Gobiidae,Leucopsarion petersii,シロウオ,C,99.97,LOW,FBS,demersal,1,NA
+Taxa0696,460_Gobiidae,Luciogobius guttatus,ミミズハゼ,C,99.7,MODERATE,FBS,demersal,1,NA
+Taxa0697,460_Gobiidae,Luciogobius parvulus,ナンセンミミズハゼ,C,99.9,HIGH,S,demersal,NA,NA
+Taxa0698,460_Gobiidae,Luciogobius platycephalus,ヤリミミズハゼ,C,99.91,LOW,S,demersal,NA,NA
+Taxa0699,460_Gobiidae,Luciogobius platycephalus Genetype1,ヤリミミズハゼ,C,99.85,HIGH,S,demersal,NA,NA
+Taxa0700,460_Gobiidae,Luciogobius sp BAKE MIMIZU HAZE,バケミミズハゼ ,C,100,LOW,NA,NA,NA,NA
+Taxa0701,460_Gobiidae,Paragobiodon kasaii,ダルマハゼと同じ属の種,Ex,100,HIGH,S,reef-associated,2,16
+Taxa0702,460_Gobiidae,Paratrypauchen sp KAUM I 113116,アカウオと同じ属の種,Ex,100,MODERATE,NA,NA,NA,NA
+Taxa0703,460_Gobiidae,Parkraemeria saltator,ギンポハゼと同じ属の種,C,99.4,HIGH,BS,benthopelagic,0,2
+Taxa0704,460_Gobiidae,Priolepis latifascima,フトスジイレズミハゼ,C,100,HIGH,S,reef-associated,0,5
+Taxa0705,460_Gobiidae,Priolepis semidoliata,イレズミハゼ,C,100,HIGH,S,reef-associated,2,30
+Taxa0706,460_Gobiidae,Priolepis sp CBM ZF 12222,コクテンベンケイハゼと同じ属の種,Ex,100,LOW,NA,NA,NA,NA
+Taxa0707,460_Gobiidae,Pseudogobius masago,マサゴハゼ,C,100,HIGH,B,demersal,NA,NA
+Taxa0708,460_Gobiidae,Pterogobius elapoides,キヌバリ,C,99.99,LOW,S,demersal,NA,NA
+Taxa0709,460_Gobiidae,Pterogobius virgo,ニシキハゼ,C,100,HIGH,S,demersal,NA,NA
+Taxa0710,460_Gobiidae,Pterogobius zonoleucus,チャガラ,C,99.94,HIGH,S,demersal,NA,NA
+Taxa0711,460_Gobiidae,Redigobius balteatus,タスキヒナハゼ,Ex,100,HIGH,FBS,benthopelagic,0,5
+Taxa0712,460_Gobiidae,Redigobius bikolanus,ヒナハゼ,C,100,HIGH,FBS,benthopelagic,0,5
+Taxa0713,460_Gobiidae,Rhinogobius spp.,ヨシノボリ属複合種群,C,100,LOW,FBS,demersal,NA,NA
+Taxa0714,460_Gobiidae,Rhinogobius flumineus,カワヨシノボリ,F,100,HIGH,F,benthopelagic,NA,NA
+Taxa0715,460_Gobiidae,Rhinogobius giurinus,ゴクラクハゼ,C,99.9,HIGH,FBS,demersal,NA,NA
+Taxa0716,460_Gobiidae,Sagamia geneionema,サビハゼ,C,99.93,HIGH,S,demersal,NA,NA
+Taxa0717,460_Gobiidae,Sicyopterus japonicus,ボウズハゼ,C,100,HIGH,FBS,demersal,NA,NA
+Taxa0718,460_Gobiidae,Stenogobius sp TANEKAWA HAZE,タネカワハゼ,C,100,LOW,NA,NA,NA,NA
+Taxa0719,460_Gobiidae,Stonogobiops xanthorhinica,ネジリンボウ,C,99.9,HIGH,S,reef-associated,3,45
+Taxa0720,460_Gobiidae,Suruga fundicola,ヤミハゼ,D,100,HIGH,S,demersal,80,300
+Taxa0721,460_Gobiidae,Taenioides cirratus,チワラスボ,C,100,LOW,FBS,demersal,0,6
+Taxa0722,460_Gobiidae,Tridentiger bifasciatus,シモフリシマハゼ,C,100,LOW,FBS,demersal,NA,NA
+Taxa0723,460_Gobiidae,Tridentiger obscurus,チチブ,C,100,LOW,FBS,demersal,NA,NA
+Taxa0724,460_Gobiidae,Tridentiger trigonocephalus,アカオビシマハゼ,C,99.99,HIGH,FBS,demersal,NA,NA
+Taxa0725,460_Gobiidae,Trimma caesiura,ベニハゼ,C,100,MODERATE,S,reef-associated,NA,70
+Taxa0726,460_Gobiidae,Trimma marinae,カスリモヨウベニハゼ,Ex,100,HIGH,S,reef-associated,9,26
+Taxa0727,460_Gobiidae,Trypauchen vagina,テンジクアカウオ,Ex,100,MODERATE,BS,demersal,NA,NA
+Taxa0728,460_Gobiidae,U98.5_Amoya moloanus,フタスジノボリハゼと同じ属の種と近縁な種,C,86.8,LOW,NA,NA,NA,NA
+Taxa0729,460_Gobiidae,U98.5_Astrabe lacticella gotu1,セジロハゼと同じ属の種と近縁な種,C,92.4,LOW,NA,NA,NA,NA
+Taxa0730,460_Gobiidae,U98.5_Bathygobius sp CBM ZF 17917,クモハゼ属の一種と近縁な種,C,91,LOW,NA,NA,NA,NA
+Taxa0731,460_Gobiidae,U98.5_Chaenogobius annularis,アゴハゼと近縁な種,C,98.2,HIGH,F,demersal,NA,NA
+Taxa0732,460_Gobiidae,U98.5_Clariger papillosus gotu1,ヒゲセジロハゼと近縁な種,C,92.1,LOW,S,demersal,NA,NA
+Taxa0733,460_Gobiidae,U98.5_Clariger papillosus gotu2,ヒゲセジロハゼと近縁な種,C,95.2,LOW,S,demersal,NA,NA
+Taxa0734,460_Gobiidae,U98.5_Eviota masudai gotu1,アカイソハゼと近縁な種,C,85.1,LOW,S,reef-associated,2,64
+Taxa0735,460_Gobiidae,U98.5_Luciogobius grandis gotu1,オオミミズハゼと近縁な種,C,86.4,LOW,S,demersal,NA,NA
+Taxa0736,460_Gobiidae,U98.5_Luciogobius sp BAKE MIMIZU HAZE,バケミミズハゼ と近縁な種,C,97.6,LOW,NA,NA,NA,NA
+Taxa0737,460_Gobiidae,U98.5_Luciogobius sp DAIDAI ISO MIMIZU HAZE gotu1,ダイダイイソミミズハゼと近縁な種,C,86.65,LOW,NA,NA,NA,NA
+Taxa0738,460_Gobiidae,U98.5_Luciogobius sp MIZUHIKI NAGA MIMIZU HAZE gotu1,ミズヒキナガミミズハゼと近縁な種,C,86.5,LOW,NA,NA,NA,NA
+Taxa0739,460_Gobiidae,U98.5_Luciogobius sp MIZUHIKI NAGA MIMIZU HAZE gotu2,ミズヒキナガミミズハゼと近縁な種,C,85,LOW,NA,NA,NA,NA
+Taxa0740,460_Gobiidae,U98.5_Pterogobius zacalles,リュウグウハゼと近縁な種,C,83.1,LOW,S,demersal,5,30
+Taxa0741,460_Gobiidae,Valenciennea longipinnis,サザナミハゼ,C,100,HIGH,S,reef-associated,2,30
+Taxa0742,460_Gobiidae,Yongeichthys criniger,ツムギハゼ,Ex,100,HIGH,BS,demersal,NA,NA
+Taxa0743,461_Microdesmidae,U98.5_Gunnellichthys monostigma,クロエリオオメワラスボと近縁な種,C,88,LOW,S,reef-associated,1,20
+Taxa0744,462_Ptereleotridae,Parioglossus dotui,サツキハゼ,C,99.94,HIGH,BS,benthopelagic,0,5
+Taxa0745,462_Ptereleotridae,Ptereleotris hanae,ハナハゼ,C,99.4,HIGH,S,reef-associated,3,50
+Taxa0746,462_Ptereleotridae,Ptereleotris microlepis,イトマンクロユリハゼ,C,100,HIGH,S,reef-associated,1,50
+Taxa0747,462_Ptereleotridae,U98.5_Ptereleotris hanae,ハナハゼと近縁な種,C,98.2,HIGH,S,reef-associated,3,50
+Taxa0748,465_Ephippidae,Platax orbicularis,ナンヨウツバメウオ,C,100,MODERATE,BS,reef-associated,5,30
+Taxa0749,465_Ephippidae,Platax teira,ツバメウオ,C,100,LOW,S,reef-associated,3,25
+Taxa0750,465_Ephippidae,U98.5_Platax teira gotu1,ゼブラ・バットフィッシュと同じ属の種と近縁な種,C,96.4,LOW,S,reef-associated,3,25
+Taxa0751,465_Ephippidae,U98.5_Platax teira gotu2,ゼブラ・バットフィッシュと同じ属の種と近縁な種,C,97.6,LOW,S,reef-associated,3,25
+Taxa0752,467_Siganidae,Siganus fuscescens,アイゴ,C,100,LOW,BS,reef-associated,1,50
+Taxa0753,467_Siganidae,Siganus spinus,アミアイゴ,C,99.95,MODERATE,S,reef-associated,1,50
+Taxa0754,470_Acanthuridae,Acanthurus dussumieri,カンランハギ,C,99.91,HIGH,S,reef-associated,4,131
+Taxa0755,470_Acanthuridae,Acanthurus gahhm,クロモンツキ,C,99.4,LOW,S,reef-associated,1,40
+Taxa0756,470_Acanthuridae,Acanthurus maculiceps,イレズミニザ,C,100,HIGH,S,reef-associated,1,15
+Taxa0757,470_Acanthuridae,Acanthurus mata,ヒラニザ,C,99.4,MODERATE,S,reef-associated,5,100
+Taxa0758,470_Acanthuridae,Acanthurus nigrofuscus,ナガニザ,C,100,HIGH,S,reef-associated,0,25
+Taxa0759,470_Acanthuridae,Acanthurus olivaceus,モンツキハギ,C,100,HIGH,S,reef-associated,3,46
+Taxa0760,470_Acanthuridae,Acanthurus triostegus,シマハギ,C,99.62,HIGH,S,reef-associated,0,90
+Taxa0761,470_Acanthuridae,Ctenochaetus striatus,サザナミハギ,C,100,HIGH,S,reef-associated,1,35
+Taxa0762,470_Acanthuridae,Naso tuberosus,トサカハギ,C,100,MODERATE,BS,reef-associated,NA,NA
+Taxa0763,470_Acanthuridae,Naso unicornis,テングハギ,C,99.4,LOW,S,reef-associated,1,180
+Taxa0764,470_Acanthuridae,Naso vlamingii,サザナミトサカハギ,C,100,LOW,S,reef-associated,1,50
+Taxa0765,470_Acanthuridae,Prionurus scalprum,ニザダイ,C,99.98,HIGH,S,reef-associated,NA,NA
+Taxa0766,470_Acanthuridae,Zebrasoma veliferum,ヒレナガハギ,C,100,MODERATE,S,reef-associated,1,45
+Taxa0767,472_Sphyraenidae,Sphyraena japonica,ヤマトカマス,C,100,HIGH,S,pelagic-neritic,NA,NA
+Taxa0768,472_Sphyraenidae,Sphyraena obtusata,タイワンカマス,C,100,HIGH,BS,reef-associated,5,200
+Taxa0769,472_Sphyraenidae,Sphyraena pinguis Genetype1,アカカマス 遺伝型1,C,99.96,HIGH,S,pelagic-neritic,3,6
+Taxa0770,472_Sphyraenidae,Sphyraena pinguis Genetype2,アカカマス 遺伝型2,C,100,LOW,S,pelagic-neritic,3,6
+Taxa0771,472_Sphyraenidae,U98.5_Sphyraena obtusata gotu1,タイワンカマスと近縁な種,C,94.9,MODERATE,BS,reef-associated,5,200
+Taxa0772,473_Gempylidae,Diplospinus multistriatus,ホソクロタチ,D,99.85,HIGH,S,benthopelagic,50,1000
+Taxa0773,473_Gempylidae,Nealotus tripes,フウライカマス,D,100,HIGH,S,bathypelagic,914,1646
+Taxa0774,473_Gempylidae,Rexea bengalensis,オオメカゴカマスと同じ属の種,D,100,HIGH,BS,benthopelagic,143,820
+Taxa0775,473_Gempylidae,Ruvettus pretiosus,バラムツ,D,100,HIGH,S,benthopelagic,100,800
+Taxa0776,475_Scombridae,Acanthocybium solandri,カマスサワラ,C,100,LOW,S,pelagic-oceanic,0,20
+Taxa0777,475_Scombridae,Auxis rochei,マルソウダ,C,99.86,MODERATE,BS,pelagic-neritic,10,NA
+Taxa0778,475_Scombridae,Euthynnus affinis,スマ,C,100,MODERATE,S,pelagic-neritic,0,200
+Taxa0779,475_Scombridae,Katsuwonus pelamis,カツオ,P,99.98,MODERATE,S,pelagic-oceanic,0,260
+Taxa0780,475_Scombridae,Scomber spp.,マサバ・ゴマサバ複合種群,C,99.98,LOW,S,pelagic-neritic,87,200
+Taxa0781,475_Scombridae,Scomber scombrus,タイセイヨウサバ,Ex,100,HIGH,BS,pelagic-neritic,0,1000
+Taxa0782,475_Scombridae,Scomberomorus niphonius,サワラ,C,100,HIGH,S,pelagic-neritic,0,200
+Taxa0783,475_Scombridae,Scomberomorus sinensis,ウシサワラ,P,100,HIGH,FBS,pelagic-neritic,10,NA
+Taxa0784,475_Scombridae,Thunnus alalunga,ビンナガ,P,100,LOW,S,pelagic-oceanic,0,600
+Taxa0785,475_Scombridae,Thunnus albacares,キハダ,P,99.96,LOW,BS,pelagic-oceanic,1,250
+Taxa0786,476_Xiphiidae,Xiphias gladius,メカジキ,P,100,HIGH,S,pelagic-oceanic,0,800
+Taxa0787,477_Istiophoridae,Istiophoridae gen. sp.,マカジキ科複合種群,P,100,LOW,S,pelagic-oceanic,0,200
+Taxa0788,479_Centrolophidae,Psenopsis anomala,イボダイ,C,100,HIGH,S,benthopelagic,0,370
+Taxa0789,479_Centrolophidae,Psenopsis shojimai,ニセイボダイ,C,100,LOW,S,benthopelagic,NA,NA
+Taxa0790,480_Nomeidae,Psenes pellucidus,ハナビラウオ,P,100,HIGH,S,bathypelagic,NA,1000
+Taxa0791,481_Ariommatidae,Ariomma lurida,オオメメダイ,D,100,LOW,NA,NA,NA,NA
+Taxa0792,486_Osphronemidae,Trichogaster fasciata,パール・グラミィと同じ属の種,Ex,100,HIGH,F,benthopelagic,NA,NA
+Taxa0793,486_Osphronemidae,Trichopsis vittata,クローキンググーラミィ,Ex,99.4,HIGH,F,demersal,NA,NA
+Taxa0794,488_Caproidae,Antigonia rubicunda,ミナミヒシダイ,D,100,HIGH,S,bathydemersal,125,340
+Taxa0795,492_Paralichthyidae,Paralichthys olivaceus,ヒラメ,C,99.94,HIGH,S,demersal,10,200
+Taxa0796,492_Paralichthyidae,Pseudorhombus cinnamoneus,ガンゾウビラメ,C,100,HIGH,S,demersal,20,164
+Taxa0797,492_Paralichthyidae,Pseudorhombus pentophthalmus,タマガンゾウビラメ,C,99.4,HIGH,S,demersal,38,150
+Taxa0798,493_Pleuronectidae,Eopsetta grigorjewi,ムシガレイ,C,100,HIGH,S,demersal,60,1325
+Taxa0799,493_Pleuronectidae,Platichthys stellatus,ヌマガレイ,Ex,100,LOW,NA,NA,NA,NA
+Taxa0800,493_Pleuronectidae,Kareius bicoloratus,イシガレイ,C,99.92,MODERATE,FBS,demersal,NA,150
+Taxa0801,493_Pleuronectidae,Limanda aspera,マガレイと同じ属の種,Ex,100,LOW,S,demersal,0,700
+Taxa0802,493_Pleuronectidae,Pleuronichthys cornutus,メイタガレイ,C,100,HIGH,S,demersal,2,170
+Taxa0803,493_Pleuronectidae,Pleuronichthys japonicus,ナガレメイタガレイ,C,100,HIGH,S,benthopelagic,40,143
+Taxa0804,493_Pleuronectidae,Pseudopleuronectes yokohamae,マコガレイ,C,99.92,LOW,S,demersal,NA,NA
+Taxa0805,493_Pleuronectidae,Reinhardtius hippoglossoides,カラスガレイ,C,99.4,LOW,S,benthopelagic,1,2200
+Taxa0806,494_Bothidae,Bothus pantherinus,トゲダルマガレイ,C,100,HIGH,S,reef-associated,3,150
+Taxa0807,494_Bothidae,Laeops kitaharae,ヤリガレイ,D,100,LOW,S,demersal,70,300
+Taxa0808,494_Bothidae,Neolaeops microphthalmus,オオクチヤリガレイ,D,99.4,HIGH,S,bathydemersal,275,400
+Taxa0809,501_Soleidae,Aseraggodes kobensis,トビササウシノシタ,C,100,HIGH,S,demersal,80,100
+Taxa0810,501_Soleidae,Brachirus siamensis,ミナミシマウシノシタ属の一種,Ex,100,HIGH,F,demersal,NA,NA
+Taxa0811,501_Soleidae,Dexillus muelleri,該当属名・和名なし,Ex,100,HIGH,S,demersal,NA,NA
+Taxa0812,501_Soleidae,Heteromycteris japonicus,ササウシノシタ,C,100,LOW,S,demersal,NA,NA
+Taxa0813,501_Soleidae,Pseudaesopia japonica,セトウシノシタ,C,100,HIGH,S,demersal,1,68
+Taxa0814,501_Soleidae,Zebrias quagga,ツノウシノシタと同じ属の種,C,100,LOW,S,demersal,NA,NA
+Taxa0815,502_Cynoglossidae,Cynoglossus interruptus,ゲンコ,C,100,HIGH,S,demersal,50,150
+Taxa0816,502_Cynoglossidae,Cynoglossus joyneri,アカシタビラメ,C,99.4,HIGH,S,demersal,20,70
+Taxa0817,502_Cynoglossidae,Cynoglossus puncticeps,コウライアカシタビラメと同じ属の種,C,100,HIGH,FBS,demersal,1,140
+Taxa0818,502_Cynoglossidae,Paraplagusia japonica,クロウシノシタ,C,100,HIGH,S,demersal,20,65
+Taxa0819,502_Cynoglossidae,Symphurus cf microrhynchus,ウシノシタと同じ属の種,C,100,HIGH,NA,NA,NA,NA
+Taxa0820,504_Triacanthidae,Triacanthus biaculeatus,ギマ,C,99.96,HIGH,BS,demersal,NA,60
+Taxa0821,505_Balistidae,Canthidermis maculata,アミモンガラ,C,100,LOW,S,reef-associated,1,110
+Taxa0822,505_Balistidae,Melichthys niger,ソロイモンガラ,C,100,LOW,S,reef-associated,0,75
+Taxa0823,505_Balistidae,Rhinecanthus rectangulus,タスキモンガラ,C,100,HIGH,S,reef-associated,10,20
+Taxa0824,505_Balistidae,Xanthichthys ringens,ホシモンガラと同じ属の種,C,100,LOW,S,reef-associated,25,80
+Taxa0825,506_Monacanthidae,Aluterus scriptus,ソウシハギ,C,100,LOW,S,reef-associated,3,120
+Taxa0826,506_Monacanthidae,Brachaluteres ulvarum,アオオサハギ,C,100,HIGH,S,reef-associated,25,30
+Taxa0827,506_Monacanthidae,Cantherhines pullus,センウマヅラハギ属の一種,C,100,LOW,S,reef-associated,3,50
+Taxa0828,506_Monacanthidae,Paraluteres prionurus,ノコギリハギ,C,100,HIGH,S,reef-associated,1,25
+Taxa0829,506_Monacanthidae,Paramonacanthus choirocephalus,ヨソギ属の一種,C,100,LOW,S,demersal,3,25
+Taxa0830,506_Monacanthidae,Paramonacanthus pusillus,ツラナガハギ,C,100,HIGH,S,demersal,28,79
+Taxa0831,506_Monacanthidae,Rudarius ercodes,アミメハギ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0832,506_Monacanthidae,Stephanolepis cirrhifer,カワハギ,C,99.98,MODERATE,S,demersal,NA,NA
+Taxa0833,506_Monacanthidae,Thamnaconus modestus,ウマヅラハギ,C,100,HIGH,S,reef-associated,NA,NA
+Taxa0834,506_Monacanthidae,Thamnaconus tessellatus,ゴイシウマヅラハギ,D,98.8,LOW,S,bathydemersal,230,600
+Taxa0835,507_Ostraciidae,Lactoria cornuta,コンゴウフグ,C,100,HIGH,BS,reef-associated,1,100
+Taxa0836,507_Ostraciidae,Lactoria diaphana,ウミスズメ,C,100,HIGH,BS,reef-associated,8,50
+Taxa0837,507_Ostraciidae,Ostracion cubicus,ミナミハコフグ,C,99.99,LOW,S,reef-associated,1,280
+Taxa0838,507_Ostraciidae,U98.5_Tetrosomus concatenatus gotu1,ハマフグと近縁な種,C,94.5,LOW,S,reef-associated,NA,60
+Taxa0839,509_Tetraodontidae,Arothron hispidus,サザナミフグ,C,99.85,HIGH,BS,reef-associated,1,50
+Taxa0840,509_Tetraodontidae,Canthigaster janthinoptera,シボリキンチャクフグ,C,100,LOW,S,reef-associated,1,30
+Taxa0841,509_Tetraodontidae,Canthigaster rivulata,キタマクラ,C,99.98,MODERATE,S,reef-associated,0,350
+Taxa0842,509_Tetraodontidae,Canthigaster rostrata,シャープノーズ・パッファー,C,100,MODERATE,S,reef-associated,1,40
+Taxa0843,509_Tetraodontidae,Dichotomyctere nigroviridis,ミドリフグ,Ex,100,MODERATE,FB,demersal,NA,NA
+Taxa0844,509_Tetraodontidae,Lagocephalus gloveri,クロサバフグ,C,100,HIGH,S,demersal,NA,NA
+Taxa0845,509_Tetraodontidae,Lagocephalus lagocephalus,クマサカフグ,C,100,HIGH,S,benthopelagic,10,476
+Taxa0846,509_Tetraodontidae,Lagocephalus sceleratus,センニンフグ,C,100,HIGH,S,reef-associated,18,100
+Taxa0847,509_Tetraodontidae,Lagocephalus spadiceus,シロサバフグ,C,100,LOW,BS,demersal,NA,NA
+Taxa0848,509_Tetraodontidae,Takifugu fasciatus,コモンダマシと同じ属の種,C,99.99,LOW,NA,NA,NA,NA
+Taxa0849,509_Tetraodontidae,Takifugu niphobles,クサフグ,C,99.66,LOW,S,demersal,NA,NA
+Taxa0850,509_Tetraodontidae,Takifugu orbimaculatus,コモンダマシと同じ属の種,C,99.4,LOW,F,demersal,NA,NA
+Taxa0851,509_Tetraodontidae,Takifugu rubripes,トラフグ,C,100,LOW,FBS,demersal,NA,NA
+Taxa0852,509_Tetraodontidae,Takifugu stictonotus,ゴマフグ,C,100,LOW,S,demersal,NA,NA
+Taxa0853,510_Diodontidae,Chilomycterus reticulatus,イシガキフグ,C,100,LOW,S,reef-associated,20,100
+Taxa0854,510_Diodontidae,Diodon holocanthus,ハリセンボン,C,100,LOW,S,reef-associated,2,200
+Taxa0855,511_Molidae,Mola mola,マンボウ,C,100,MODERATE,S,pelagic-oceanic,30,480
+Taxa0856,228_Antennariidae,Antennatus nummifer,ムチカエルアンコウ,C,100,HIGH,S,reef-associated,0,293
