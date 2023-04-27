@@ -59,7 +59,7 @@ header-includes:
 <center>
 
 ![
-**Figure S1 | Dynamics of environmental DNA (eDNA) copy numbers of an internal standard fish species, Japanese black seabream (_Acanthopagrus schlegelii_).** Gray horizontal line indicates the minimum eDNA copy number of Japanese black seabream detected. Approximately 83.3% of samples contain detectable concentrations of the standard DNA, which was used to convert sequence reads to eDNA copy numbers. For samples which do not contain the standard DNA, we assume that it contains the minimum amount of eDNA copy numbers (i.e., 0.69 copies / 2 $\mu$l extracted DNA; gray horizontal line). 
+**Figure S1 | Dynamics of environmental DNA (eDNA) copy numbers of Japanese black seabream (_Acanthopagrus schlegelii_) that was used as an internal standard.** Gray horizontal line indicates the minimum eDNA copy number of Japanese black seabream detected. Approximately 83.3% of samples contain detectable concentrations of the standard DNA, which was used to convert sequence reads to eDNA copy numbers. For samples which do not contain the standard DNA, we assume that it contains the minimum amount of eDNA copy numbers (i.e., 0.69 copies / 2 $\mu$l extracted DNA; gray horizontal line). 
 ](0_FormattedFigs/Figure_S01.pdf){width=100%}
 
 </center>
@@ -68,7 +68,7 @@ header-includes:
 <center>
 
 ![
-**Figure S2 | Dynamics of water temperature and the relationships between water temperature and total eDNA concentrations and fish species richness.** (**a**) Dynamics of sea surface water temperature at the sampling sites. (**b**) The relationship between water temperature and total eDNA copy numbers, and (**c**) the relationship between water temperature and fish species richness. Colors indicate sampling sites. For **b** and **c**, dashed lines indicate standardized major axis regression.
+**Figure S2 | Dynamics of water temperature and the relationships between water temperature and total eDNA concentration and fish species richness.** (**a**) Dynamics of sea surface water temperature at the sampling sites. (**b**) The relationship between water temperature and total eDNA copy numbers, and (**c**) the relationship between water temperature and fish species richness. Colors indicate sampling sites. For **b** and **c**, dashed lines indicate standardized major axis regression.
 ](0_FormattedFigs/Figure_S02.pdf){width=100%}
 
 </center>
@@ -77,7 +77,7 @@ header-includes:
 <center>
 
 ![
-**Figure S3 | The relationships between network properties and environmental variables** Diagonal panels show density distributions of the data, and lower triangle area shows scattered plots. Each point represent one water sample at each study site, meaning that "Mean interaction strength" is a mean value at the community level. Solid red and gray lines indicate statistically clear ($P$ < 0.05) and unclear ($P$ > 0.05) standardized major axis regression, respectively.
+**Figure S3 | The relationships between network properties and environmental variables**. Diagonal panels show density distributions of the data, and lower triangle area shows scattered plots. Each point represent one water sample at each study site, meaning that "Mean interaction strength" is a mean value at the community level. Solid red and gray lines indicate statistically clear ($P$ < 0.05) and unclear ($P$ > 0.05) standardized major axis regression, respectively.
 ](0_FormattedFigs/Figure_S03.pdf){width=100%}
 
 </center>
@@ -95,7 +95,7 @@ header-includes:
 <center>
 
 ![
-**Figure S5 | The relationship between interaction strengths and water temperature, species richness, and total DNA concentrations**. The panel shows the overall relationship between interaction strengths of the 50 dominant fish species and (**a**, **d**) water temperature, (**b**, **e**) species richness, and (**d**, **f**) total DNA concentrations. The $y$-axis indicates the interaction strength between fish species quantified by the MDR S-map method. Note that the MDR S-map enables quantifications of interaction strengths at each time point, and thus the number of data points is large (also true in Figs. S6-S7). (**a**-**c**) Points indicate the species interactions that a focal species receives (i.e., In-strength), and (**d**-**f**) points indicate the species interactions that a focal species gives (i.e., Out-strength). The line indicates the nonlinear regression line estimated by the general additive model. Colors of points and lines indicate the study site. For the high resolution figure, see https://bit.ly/3uUZKHE.
+**Figure S5 | The relationship between interaction strengths and water temperature, species richness, and total DNA concentrations**. The panel shows the overall relationship between interaction strengths of the 50 dominant fish species and (**a**, **d**) water temperature, (**b**, **e**) species richness, and (**d**, **f**) total DNA concentration. The $y$-axis indicates the interaction strength between fish species quantified by the MDR S-map method. Note that the MDR S-map enables quantification of interaction strengths at each time point, and thus the number of data points is large (also true in Figs. S6-S8). (**a**-**c**) Points indicate the species interactions that a focal species receives (i.e., In-strength), and (**d**-**f**) points indicate the species interactions that a focal species gives (i.e., Out-strength). The line indicates the nonlinear regression line estimated by the general additive model. Colors of points and lines indicate the study site.
 ](0_FormattedFigs/Figure_S05.jpg){width=100%}
 
 </center>
@@ -105,7 +105,7 @@ header-includes:
 <center>
 
 ![
-**Figure S6 | The relationship between interaction strengths and salinity, tide level, and wave**. The panel shows the overall relationship between interaction strengths of the 50 dominant fish species and (**a**, **d**) salinity, (**b**, **e**) tide level (cm), and (**c**, **f**) wave (m). The $y$-axis indicates the interaction strength between fish species quantified by the MDR S-map method. Note that the MDR S-map enables quantifications of interaction strengths at each time point, and thus the number of data points is large (also true in Figs. S6-S7). (**a**-**c**) Points indicate the species interactions that a focal species receives (i.e., In-strength), and (**d**-**f**) points indicate the species interactions that a focal species gives (i.e., Out-strength). The line indicates the nonlinear regression line estimated by the general additive model. Colors of points and lines indicate the study site. For the high resolution figure, see https://bit.ly/3uUZKHE.
+**Figure S6 | The relationship between interaction strengths and salinity, tide level, and wave**. The panel shows the overall relationship between interaction strengths of the 50 dominant fish species and (**a**, **d**) salinity, (**b**, **e**) tide level (cm), and (**c**, **f**) wave (m). The $y$-axis indicates the interaction strength between fish species quantified by the MDR S-map method. Note that the MDR S-map enables quantifications of interaction strengths at each time point, and thus the number of data points is large. (**a**-**c**) Points indicate the species interactions that a focal species receives (i.e., In-strength), and (**d**-**f**) points indicate the species interactions that a focal species gives (i.e., Out-strength). The line indicates the nonlinear regression line estimated by the general additive model. Colors of points and lines indicate the study site.
 ](0_FormattedFigs/Figure_S06.jpg){width=100%}
 
 </center>
@@ -124,7 +124,7 @@ header-includes:
 <center>
 
 ![
-**Figure S8 | Dependence of fish species interactions on the total DNA concentrations (an index of total fish abundance) at the species level**. **a** and **b** show effects of the total DNA concentrations on fish species interactions quantified by the MDR S-map method. (**a**) Points indicate the species interactions that a focal species (indicated by the strip label and fish image) receives (i.e., In-strength). (**b**) Points indicate the species interactions that a focal species (indicated by the strip label and fish image) gives (i.e., Out-strength). For **a** and **b**, only fish species of which interactions are statistically clearly affected by water temperature are shown (to exclude fish species with relatively weak temperature effects, $P$ < 0.0001 was used as a criteria here). Point color indicates the study site. Gray line is drawn by GAM (the study sites were averaged for visualization purpose). 
+**Figure S8 | Dependence of fish species interactions on the total DNA concentration (an index of total fish abundance) at the species level**. **a** and **b** show effects of the total DNA concentrations on fish species interactions quantified by the MDR S-map method. (**a**) Points indicate the species interactions that a focal species (indicated by the strip label and fish image) receives (i.e., In-strength). (**b**) Points indicate the species interactions that a focal species (indicated by the strip label and fish image) gives (i.e., Out-strength). For **a** and **b**, only fish species of which interactions are statistically clearly affected by water temperature are shown (to exclude fish species with relatively weak temperature effects, $P$ < 0.0001 was used as a criteria here). Point color indicates the study site. Gray line is drawn by GAM (the study sites were averaged for visualization purpose). 
 ](0_FormattedFigs/Figure_S08.pdf){width=90%}
 
 </center>
