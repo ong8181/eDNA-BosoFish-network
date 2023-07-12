@@ -1,5 +1,11 @@
 # Analysis codes for Ushio et al. (2023) "Temperature sensitivity of interspecific interaction strength of coastal marine fish communities"
-This repository contains analysis codes to reproduce the results in Ushio et al. (2023) "Temperature sensitivity of interspecific interaction strength of coastal marine fish communities," Reviewed preprint in _eLife_ https://doi.org/10.7554/eLife.85795.1. _bioRxiv_ version is here: https://doi.org/10.1101/2022.06.02.494625.
+[![DOI](https://zenodo.org/badge/578649446.svg)](https://zenodo.org/badge/latestdoi/578649446)
+
+<br>
+This repository contains analysis codes to reproduce the results in Ushio et al. (2023) "Temperature sensitivity of interspecific interaction strength of coastal marine fish communities," _eLife_ 12:RP85795 https://doi.org/10.7554/eLife.85795.
+
+<br>
+_bioRxiv_ version is here: https://doi.org/10.1101/2022.06.02.494625.
 
 # License
 See LICENSE
@@ -14,3 +20,6 @@ Following files are not included to reduce the size of this repository:
 - `05_VisualizeNetwork1Out.RData`
 
 You may reproduce the files by executing the codes in this repository (but it may take time to complete the analysis).
+
+# Another resource
+The data used in the study are included in an R package `reed` which allows loading and exploring the data easily. For detail, see https://github.com/ong8181/reed.
